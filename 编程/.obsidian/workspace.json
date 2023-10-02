@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "e62c18bea090896d",
+    "id": "c6ba0477865e668b",
     "type": "split",
     "children": [
       {
-        "id": "deccc6dacc424b0c",
+        "id": "95e0516d045f117e",
         "type": "tabs",
         "children": [
           {
-            "id": "f6422f39cc1aca05",
+            "id": "abb2eed0468ebc3c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "bd91d08e814811d7",
+    "id": "70e976dfb7dc3df8",
     "type": "split",
     "children": [
       {
-        "id": "9bb5366e01ff52cb",
+        "id": "70363b5f6deb82c0",
         "type": "tabs",
         "children": [
           {
-            "id": "ca4122e124bacc91",
+            "id": "8b4824ab4c6c891a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -39,12 +39,12 @@
             }
           },
           {
-            "id": "b95d589ec7939447",
+            "id": "e2b6fc649c38c52e",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#测试打标签",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -54,7 +54,7 @@
             }
           },
           {
-            "id": "c6bf41e2960914b2",
+            "id": "eb3f0f3ec6da745c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -68,15 +68,15 @@
     "width": 300
   },
   "right": {
-    "id": "a1cb9db9a4caa75c",
+    "id": "3de4691493603242",
     "type": "split",
     "children": [
       {
-        "id": "deeae6d7532d8b5a",
+        "id": "f0d2ccce28021621",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ee6a80cc31dbde",
+            "id": "b1f8cf1b43e3a7d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -92,7 +92,7 @@
             }
           },
           {
-            "id": "1a19e904e9d855c3",
+            "id": "1b55ff61d470070d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -103,38 +103,30 @@
             }
           },
           {
-            "id": "f591e489c43308db",
+            "id": "7b0087ca956ea4bb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "9e4f12f7492e8820",
+            "id": "5c92a2aabd2b8569",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "39b765ac9e6dc6d5",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,27 +135,12 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "audio-recorder:开始/结束录音": false,
-      "workspaces:管理工作区布局": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "f6422f39cc1aca05",
+  "active": "abb2eed0468ebc3c",
   "lastOpenFiles": [
-    "未命名.canvas",
-    "未命名",
-    "工具/Vim/Vim.md",
-    "工具/Obsidian/Obsidian.md",
-    "工具/Obsidian/demo.md",
-    "00_Inbox/20230926.md",
-    "工具/Obsidian/Pasted image 20231001172709.png",
-    "00_Inbox/test.md",
-    "00_Inbox/未命名 1.md",
-    "未命名 1.canvas",
-    "工具/Obsidian",
-    "工具/Vim",
-    "工具",
-    "attaments",
-    "00_Inbox"
+    "算法与数据结构",
+    "未命名"
   ]
 }
