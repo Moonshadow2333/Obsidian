@@ -1,0 +1,11 @@
+{
+  "showLineNumber": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "./",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_Inbox",
+  "strictLineBreaks": true,
+  "vimMode": true,
+  "livePreview": false,
+  "alwaysUpdateLinks": true
+}

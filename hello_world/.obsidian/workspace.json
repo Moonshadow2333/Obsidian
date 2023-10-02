@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "e62c18bea090896d",
+    "type": "split",
+    "children": [
+      {
+        "id": "633dcbfaaa954c03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "313a36d141a73180",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd91d08e814811d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bb5366e01ff52cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca4122e124bacc91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b95d589ec7939447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#测试打标签",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c6bf41e2960914b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a1cb9db9a4caa75c",
+    "type": "split",
+    "children": [
+      {
+        "id": "deeae6d7532d8b5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7ee6a80cc31dbde",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a19e904e9d855c3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f591e489c43308db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "9e4f12f7492e8820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "39b765ac9e6dc6d5",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false
+    }
+  },
+  "active": "313a36d141a73180",
+  "lastOpenFiles": [
+    "工具/Vim/Vim.md",
+    "工具/Obsidian/Obsidian.md",
+    "工具/Obsidian/demo.md",
+    "00_Inbox/20230926.md",
+    "工具/Obsidian/Pasted image 20231001172709.png",
+    "00_Inbox/test.md",
+    "00_Inbox/未命名 1.md",
+    "未命名.canvas",
+    "未命名 1.canvas",
+    "工具/Obsidian",
+    "工具/Vim",
+    "工具",
+    "attaments",
+    "00_Inbox"
+  ]
+}

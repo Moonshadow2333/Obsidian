@@ -1,0 +1,356 @@
+{
+  "workspaces": {
+    "sandbox": {
+      "main": {
+        "id": "e62c18bea090896d",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4e79375e9634303",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b6f53d56b6c0900b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00_Inbox/未命名.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a5b41f3e824facb2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "50855cefe8277e48",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "00_Inbox/未命名.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "bd91d08e814811d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "9bb5366e01ff52cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca4122e124bacc91",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b95d589ec7939447",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#提示",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c6bf41e2960914b2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "a1cb9db9a4caa75c",
+        "type": "split",
+        "children": [
+          {
+            "id": "deeae6d7532d8b5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7ee6a80cc31dbde",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "00_Inbox/未命名.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a19e904e9d855c3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "00_Inbox/未命名.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f591e489c43308db",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "9e4f12f7492e8820",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "00_Inbox/未命名.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "50855cefe8277e48"
+    },
+    "分离编辑与预览": {
+      "main": {
+        "id": "e62c18bea090896d",
+        "type": "split",
+        "children": [
+          {
+            "id": "d4e79375e9634303",
+            "type": "tabs",
+            "dimension": 57.776617954070986,
+            "children": [
+              {
+                "id": "b6f53d56b6c0900b",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              },
+              {
+                "id": "40c632ad52b9e909",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工具/Obsidian/Obsidian.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "0468da3bf5175718",
+            "type": "tabs",
+            "dimension": 42.22338204592902,
+            "children": [
+              {
+                "id": "07434906540e3861",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "工具/Obsidian/Obsidian.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "bd91d08e814811d7",
+        "type": "split",
+        "children": [
+          {
+            "id": "9bb5366e01ff52cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ca4122e124bacc91",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b95d589ec7939447",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#提示",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "c6bf41e2960914b2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "right": {
+        "id": "a1cb9db9a4caa75c",
+        "type": "split",
+        "children": [
+          {
+            "id": "deeae6d7532d8b5a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7ee6a80cc31dbde",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "工具/Obsidian/Obsidian.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1a19e904e9d855c3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "工具/Obsidian/Obsidian.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "f591e489c43308db",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": false
+                  }
+                }
+              },
+              {
+                "id": "9e4f12f7492e8820",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "工具/Obsidian/Obsidian.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 3
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "audio-recorder:开始/结束录音": false,
+          "workspaces:管理工作区布局": false
+        }
+      },
+      "active": "40c632ad52b9e909"
+    }
+  },
+  "active": "分离编辑与预览"
+}
