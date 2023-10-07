@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
-                "mode": "source",
+                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#英语-动词-take",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
+                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
+                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md"
+                "file": "基础学科/英语/多领国/第51部分-自驾游.md"
               }
             }
           },
@@ -137,11 +138,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 680.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,10 +159,19 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "8d4f1aedb1883940",
+  "active": "9002293f4c1e8001",
   "lastOpenFiles": [
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/msd_sort.png",
+    "生活/202310/10月.md",
+    "基础学科/英语/多领国/第51部分-自驾游.md",
+    "基础学科/英语/多领国",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD 基数排序.md",
+    "生活/202310",
+    "生活",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png",
+    "编程/算法与数据结构/LSD/png.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
+    "编程/算法与数据结构/LSD",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/msd_sort.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/msd_process.png",
     "hello_world/工具/Vim/Vim.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第一章_计数排序",
@@ -169,10 +180,6 @@
     "编程/前端/JavaScript",
     "编程/数据库/MySQL",
     "基础学科/概率论",
-    "基础学科/线性代数",
-    "基础学科/高等数学",
-    "基础学科/英语",
-    "编程/后端",
     "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
     "hello_world/工具/Obsidian/Obsidian.md",
     "hello_world/工具/Obsidian/demo.md",
