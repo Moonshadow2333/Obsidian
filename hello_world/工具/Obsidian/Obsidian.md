@@ -42,6 +42,10 @@
 
 obsidian 对图片的支持非常不友好，在文档中嵌入图片后是无法点击放大的，只能修改图片的大小，非常不方便，所以只能借助第三方插件来增强图片的体验，在网上找了一会儿，发现 `image toolkit` 插件刚好满足了我的需求。
 
+tagFolder
+
+[Obsidian 插件：TagFolder 通过标签方式组织管理笔记 (pkmer.cn)](https://pkmer.cn/Pkmer-Docs/10-obsidian/obsidian%E7%A4%BE%E5%8C%BA%E6%8F%92%E4%BB%B6/obsidian-tagfolder/)
+
 ## 工作区
 
 - 保存工作区；
@@ -60,3 +64,17 @@ obsidian 对图片的支持非常不友好，在文档中嵌入图片后是无�
 ## 快速切换
 
 文件之间的切换
+
+## 工作流
+
+[我的 Obsidian 工作流：模板+QuickAdd+Dataview 快速创建和自动索引 - 少数派 (sspai.com)](https://sspai.com/post/68350)
+
+## 笔记索引
+1. [[Obs＃19] Obsidian 快速建立索引笔记的方法 (CC字幕)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Kb4y117Ux/?vd_source=081641abeed94aff322f0473e2c1773d)
+2. [obsidian插件之dataview入门 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/409253101)
+3. [Obsidian 插件之 Dataview - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/373623264)
+4. [obsidian插件dataview官方文档翻译 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/393550306)
+
+## 主题设置
+
+之前一直存在一个问题，就是在记笔记的时候，明明没有到一行的结尾，一旦输入的内容超过一定的字数就会换行。这虽然不是 bug, 但用起来非常不舒服，如鲠在喉。一开始我以为是设置了工作区，即分为两栏，一栏编写，一栏预览，限制了一行输入的字数。但是今天在折腾主题的时候才发现问题的根源，其实是主题默认设置了一行的宽度，可以通过设置->第三方插件->minimal theme settings-> normal line width查看，默认的是40，我删掉这个值后就正常了。

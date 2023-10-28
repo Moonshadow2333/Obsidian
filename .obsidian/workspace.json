@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e245c2f86ad410d",
+        "id": "01a292ae7ccffbe4",
         "type": "tabs",
         "children": [
           {
-            "id": "8d4f1aedb1883940",
+            "id": "fb23afec64eb4891",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
+                "file": "摄影/入门.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#英语-新词",
+                "query": "tag:#算法-偏移",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,9 +64,16 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "b62e40b10dec0157",
+            "type": "leaf",
+            "state": {
+              "type": "tagfolder-view",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,14 +93,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
+                "file": "摄影/入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -103,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第51部分-自驾游.md",
+                "file": "摄影/入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,7 +123,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -126,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第51部分-自驾游.md"
+                "file": "摄影/入门.md"
               }
             }
           },
@@ -137,13 +144,22 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "33975aac8f51b349",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 680.5
+    "width": 796.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,46 +172,56 @@
       "workspaces:管理工作区布局": false,
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "zk-prefixer:创建时间戳笔记": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9002293f4c1e8001",
+  "active": "fb23afec64eb4891",
   "lastOpenFiles": [
-    "基础学科/英语/多领国/旧-64-跳蚤市场.md",
-    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
-    "基础学科/英语/多领国/工作.md",
-    "基础学科/英语/多领国/买快餐.md",
-    "基础学科/英语/多领国/坐地铁.md",
-    "基础学科/英语/多领国/旧-65-过往人生经历.md",
-    "基础学科/英语/多领国/旧-63.md",
-    "基础学科/英语/多领国/旧-62.md",
-    "基础学科/英语/多领国/旧-61.md",
-    "基础学科/英语/多领国/旧-60.md",
-    "基础学科/英语/多领国/旧-59.md",
-    "基础学科/英语/多领国/第51部分-自驾游.md",
-    "生活/202310/10月.md",
-    "hello_world/工具/Obsidian/demo.md",
+    "摄影/images/测光.jpg",
+    "摄影/images/曝光三要素.jpg",
+    "摄影/images/白平衡.png",
+    "摄影/images",
+    "摄影/新建文件夹",
+    "images/桶排序.png.md",
+    "摄影/入门.md",
+    "摄影",
+    "Pasted image 20231019223307.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/桶排序.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.bmp",
+    "images",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_sort.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_process.png",
+    "基础学科/英语/语法/大纲.md",
+    "基础学科/英语/多领国/第51部分-自驾游.md",
     "hello_world/工具/Vim/Vim.md",
-    "基础学科/英语/多领国/旧-58-讨论运动.md",
+    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
+    "基础学科/英语/多领国/第51部分-制定度假计划.md",
+    "基础学科/英语/单词索引.md",
     "hello_world/00_Inbox/20230926.md",
+    "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
+    "hello_world/工具/Obsidian/demo.md",
     "hello_world/工具/Obsidian/Obsidian.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD 基数排序.md",
+    "基础学科/英语/语法",
+    "基础学科/英语/多领国/旧-62.md",
+    "基础学科/英语/多领国/get.md",
+    "基础学科/英语/多领国/旧-65-过往人生经历.md",
+    "基础学科/英语/多领国/工作.md",
+    "基础学科/英语/多领国/旧-63.md",
+    "基础学科/英语/多领国/坐地铁.md",
+    "生活/202310/2023-10-13-梦.md",
+    "生活/202310/10月.md",
+    "基础学科/英语/多领国/旧-64-跳蚤市场.md",
+    "基础学科/英语/多领国/旧-58-讨论运动.md",
+    "基础学科/英语/多领国/旧-60.md",
+    "基础学科/英语/多领国/买快餐.md",
     "基础学科/英语/多领国",
     "生活/202310",
     "生活",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png",
-    "编程/算法与数据结构/LSD/png.md",
-    "编程/算法与数据结构/LSD",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/msd_sort.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/msd_process.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第一章_计数排序",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序",
-    "编程/后端/PHP",
-    "编程/前端/JavaScript",
-    "编程/数据库/MySQL",
-    "基础学科/概率论",
-    "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
-    "hello_world/00_Inbox/test.md"
+    "编程/算法与数据结构/LSD"
   ]
 }

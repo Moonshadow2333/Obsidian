@@ -1,5 +1,9 @@
 [
   "calendar",
   "obsidian-image-toolkit",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "dataview",
+  "quickadd",
+  "table-editor-obsidian",
+  "obsidian-minimal-settings"
 ]
