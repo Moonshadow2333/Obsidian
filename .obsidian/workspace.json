@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "摄影/入门.md",
-                "mode": "source",
+                "file": "基础学科/英语/工作流/工作流设计.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "摄影/入门.md",
+                "file": "基础学科/英语/工作流/工作流设计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "摄影/入门.md",
+                "file": "基础学科/英语/工作流/工作流设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "摄影/入门.md"
+                "file": "基础学科/英语/工作流/工作流设计.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,33 +178,39 @@
   },
   "active": "fb23afec64eb4891",
   "lastOpenFiles": [
+    "基础学科/英语/单词索引.md",
+    "基础学科/英语/语法/大纲.md",
+    "基础学科/英语/工作流/工作流设计.md",
+    "基础学科/英语/多领国/第52部分-描述家务活.md",
+    "基础学科/英语/工作流",
+    "摄影/入门.md",
     "摄影/images/测光.jpg",
     "摄影/images/曝光三要素.jpg",
     "摄影/images/白平衡.png",
+    "生活/202310/10月.md",
+    "hello_world/工具/Vim/Vim.md",
+    "hello_world/工具/Obsidian/demo.md",
+    "生活/202310/2023-10-13-梦.md",
+    "hello_world/工具/Obsidian/Obsidian.md",
+    "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
+    "基础学科/英语/多领国/旧-61.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
     "摄影/images",
     "摄影/新建文件夹",
     "images/桶排序.png.md",
-    "摄影/入门.md",
     "摄影",
     "Pasted image 20231019223307.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/桶排序.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/MSD 基数排序.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.bmp",
     "images",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_sort.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_process.png",
-    "基础学科/英语/语法/大纲.md",
     "基础学科/英语/多领国/第51部分-自驾游.md",
-    "hello_world/工具/Vim/Vim.md",
     "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
     "基础学科/英语/多领国/第51部分-制定度假计划.md",
-    "基础学科/英语/单词索引.md",
     "hello_world/00_Inbox/20230926.md",
-    "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
-    "hello_world/工具/Obsidian/demo.md",
-    "hello_world/工具/Obsidian/Obsidian.md",
     "基础学科/英语/语法",
     "基础学科/英语/多领国/旧-62.md",
     "基础学科/英语/多领国/get.md",
@@ -212,16 +218,11 @@
     "基础学科/英语/多领国/工作.md",
     "基础学科/英语/多领国/旧-63.md",
     "基础学科/英语/多领国/坐地铁.md",
-    "生活/202310/2023-10-13-梦.md",
-    "生活/202310/10月.md",
     "基础学科/英语/多领国/旧-64-跳蚤市场.md",
     "基础学科/英语/多领国/旧-58-讨论运动.md",
-    "基础学科/英语/多领国/旧-60.md",
-    "基础学科/英语/多领国/买快餐.md",
     "基础学科/英语/多领国",
     "生活/202310",
     "生活",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png",
-    "编程/算法与数据结构/LSD"
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png"
   ]
 }
