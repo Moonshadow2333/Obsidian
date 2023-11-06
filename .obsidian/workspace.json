@@ -13,8 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/买快餐.md",
+                "file": "hello_world/工具/Obsidian/插件/dataview.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "af8560ba7cb266cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f442c6ba06f395d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hello_world/工具/Obsidian/插件/dataview.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -48,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "英语-词-介词",
+                "query": "tag:#是什么",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/买快餐.md",
+                "file": "hello_world/工具/Obsidian/插件/dataview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/买快餐.md",
+                "file": "hello_world/工具/Obsidian/插件/dataview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/买快餐.md"
+                "file": "hello_world/工具/Obsidian/插件/dataview.md"
               }
             }
           },
@@ -158,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 796.5
+    "width": 796.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,29 +194,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8940b8a2b90e92a",
+  "active": "6f442c6ba06f395d",
   "lastOpenFiles": [
-    "基础学科/英语/多领国/旧-59.md",
-    "基础学科/英语/多领国/旧-60.md",
+    "基础学科/英语/多领国/旧-58-讨论运动.md",
+    "hello_world/工具/Obsidian/插件/dataview.md",
+    "基础学科/英语/DataViewTest.md",
+    "hello_world/工具/Obsidian/Obsidian.md",
+    "hello_world/工具/Obsidian/插件",
+    "基础学科/英语/工作流/工作流设计.md",
+    "基础学科/英语/多领国/旧-64-跳蚤市场.md",
+    "基础学科/英语/多领国/第52部分-描述家务活.md",
     "基础学科/英语/多领国/旧-61.md",
+    "基础学科/英语/多领国/旧-63.md",
     "基础学科/英语/多领国/旧-62.md",
+    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
     "基础学科/英语/多领国/第51部分-自驾游.md",
     "基础学科/英语/多领国/坐地铁.md",
-    "基础学科/英语/多领国/旧-58-讨论运动.md",
     "基础学科/英语/多领国/买快餐.md",
-    "基础学科/英语/多领国/旧-63.md",
-    "基础学科/英语/多领国/旧-64-跳蚤市场.md",
+    "基础学科/英语/多领国/旧-59.md",
+    "基础学科/英语/多领国/旧-60.md",
     "基础学科/英语/多领国/旧-65-过往人生经历.md",
-    "基础学科/英语/工作流/工作流设计.md",
     "基础学科/英语/多领国/工作.md",
-    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
     "基础学科/英语/多领国/第51部分-制定度假计划.md",
     "基础学科/英语/语法/大纲.md",
-    "基础学科/英语/多领国/第52部分-描述家务活.md",
-    "基础学科/英语/DataViewTest.md",
     "基础学科/英语/多领国/get.md",
     "基础学科/英语/单词索引.md",
-    "hello_world/工具/Obsidian/Obsidian.md",
     "基础学科/英语/工作流",
     "摄影/入门.md",
     "摄影/images/测光.jpg",
@@ -206,7 +227,6 @@
     "生活/202310/10月.md",
     "hello_world/工具/Vim/Vim.md",
     "hello_world/工具/Obsidian/demo.md",
-    "生活/202310/2023-10-13-梦.md",
     "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
     "摄影/images",
     "摄影/新建文件夹",
@@ -221,7 +241,6 @@
     "基础学科/英语/语法",
     "基础学科/英语/多领国",
     "生活/202310",
-    "生活",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png"
   ]
 }

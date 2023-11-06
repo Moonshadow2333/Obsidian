@@ -1,17 +1,6 @@
 
-```dataview
-list 
-from #英语-词-名词 
-```
-
-测试 table
-
-```dataview
-TABLE file.cday, file.mtime FROM #英语-词-名词 
-```
-
 ```dataviewjs 
-const term = "get"
+const term = "#英语-词-动词"
 
 const files = app.vault.getMarkdownFiles()
 
@@ -29,4 +18,3 @@ Promise.all(arr).then(values =>
 
 dv.list(values.flat()))
 ```
-
