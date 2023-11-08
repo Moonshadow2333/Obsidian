@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ceceafc6b3c968d4",
+        "id": "1bd4878ff9f84f23",
         "type": "tabs",
         "children": [
           {
-            "id": "05a60e73f6f3ee0e",
+            "id": "c372a03c3e50ffad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/标签数据/英语-非谓-动词ing.md",
+                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md",
                 "mode": "preview",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/标签数据/英语-非谓-动词ing.md",
+                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/标签数据/英语-非谓-动词ing.md",
+                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/标签数据/英语-非谓-动词ing.md"
+                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md"
               }
             }
           },
@@ -173,17 +173,23 @@
       "random-note:开始漫游笔记": false,
       "audio-recorder:开始/结束录音": false,
       "zk-prefixer:创建时间戳笔记": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "05a60e73f6f3ee0e",
+  "active": "c372a03c3e50ffad",
   "lastOpenFiles": [
+    "基础学科/英语/工作流/工作流设计.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02模式匹配/未命名.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配",
+    "基础学科/英语/DataViewTest.md",
     "基础学科/英语/标签数据/英语-词-动词.md",
     "基础学科/英语/标签数据/英语-词-名词.md",
+    "基础学科/英语/标签数据/英语-非谓-动词ing.md",
     "模板/汇总英语标签数据.md",
     "hello_world/工具/Obsidian/插件/dataview.md",
-    "基础学科/英语/标签数据/英语-非谓-动词ing.md",
-    "基础学科/英语/工作流/工作流设计.md",
     "基础学科/英语/标签数据",
     "hello_world/工具/Obsidian/Obsidian.md",
     "Pasted image 20231019223307.png",
@@ -194,7 +200,6 @@
     "基础学科/英语/多领国/旧-64-跳蚤市场.md",
     "hello_world/工具/Obsidian/Pasted image 20231001172709.png",
     "基础学科/英语/多领国/旧-58-讨论运动.md",
-    "基础学科/英语/DataViewTest.md",
     "hello_world/工具/Obsidian/插件",
     "基础学科/英语/多领国/第52部分-描述家务活.md",
     "基础学科/英语/多领国/旧-61.md",
@@ -207,8 +212,6 @@
     "基础学科/英语/多领国/旧-60.md",
     "基础学科/英语/多领国/旧-65-过往人生经历.md",
     "基础学科/英语/多领国/工作.md",
-    "基础学科/英语/多领国/第51部分-制定度假计划.md",
-    "基础学科/英语/语法/大纲.md",
     "基础学科/英语/工作流",
     "摄影/images/测光.jpg",
     "摄影/images/曝光三要素.jpg",
@@ -219,10 +222,8 @@
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.bmp",
     "images",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_sort.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_process.png",
-    "基础学科/英语/语法",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/第二章_LSD基数排序/LSD.png"
   ]
 }
