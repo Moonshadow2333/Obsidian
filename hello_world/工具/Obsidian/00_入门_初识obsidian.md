@@ -52,7 +52,7 @@ tagFolder
 - 查看工作区；
 - 加载工作区。
 
-![[Pasted image 20231001172709.png|800]]
+![[00_work_space.png|800]]
 
 ### 分离编辑与预览
 
