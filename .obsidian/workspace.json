@@ -4,18 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a410479d917ede06",
+        "id": "3784aa66a5f63b57",
         "type": "tabs",
         "children": [
           {
-            "id": "9a574c71f15d3c2d",
+            "id": "3016167fa9699645",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "厨艺/面食/00_煮面入门.md",
-                "mode": "source",
-                "source": true
+                "file": ".obsidian/graph.json",
+                "staged": true
               }
             }
           }
@@ -93,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "厨艺/面食/00_煮面入门.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "厨艺/面食/00_煮面入门.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +129,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "厨艺/面食/00_煮面入门.md"
-              }
+              "state": {}
             }
           },
           {
@@ -166,7 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 796.5
+    "width": 286.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,17 +179,27 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9a574c71f15d3c2d",
+  "active": "3016167fa9699645",
   "lastOpenFiles": [
-    "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
     "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
+    "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
+    "hello_world/工具/Obsidian/images/00_work_space.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-28-42.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-26-56.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-23-38.png",
+    "Snipaste_2023-11-16_16-23-38.png",
     "hello_world/工具/Obsidian/demo.md",
+    "hello_world/工具/Obsidian/未命名.md",
+    "hello_world/00_Inbox/test.md",
+    "hello_world/工具/Vim/Vim.md",
+    "模板/汇总英语标签数据.md",
+    "基础学科/英语/标签数据/英语-词-形容词.md",
+    "基础学科/英语/标签数据/英语-非谓-分词.md",
+    "厨艺/面食/00_煮面入门.md",
     "摄影/入门.md",
     "hello_world/工具/Obsidian/插件/quick_add.md",
-    "hello_world/工具/Obsidian/images/00_work_space.png",
     "hello_world/工具/Obsidian/插件/dataview.md",
     "hello_world/工具/Obsidian/images",
-    "hello_world/00_Inbox/test.md",
     "Pasted image 20231019223307.png",
     "摄影/images/测光.jpg",
     "摄影/images/曝光三要素.jpg",
@@ -202,7 +207,6 @@
     "基础学科/英语/语法/大纲.md",
     "hello_world/00_Inbox/20230926.md",
     "基础学科/英语/DataViewTest.md",
-    "hello_world/工具/Vim/Vim.md",
     "Pasted image 20231115215353.png",
     "hello_world/工具/Snipaste/00_Snipaste_入门.md",
     "hello_world/工具/Snipaste",
@@ -210,27 +214,17 @@
     "生活/202310/10月.md",
     "Excalidraw",
     "基础学科/英语/工作流/工作流设计.md",
-    "厨艺/面食/00_煮面入门.md",
     "基础学科/英语/标签数据/英语-从句-宾语.md",
     "基础学科/英语/标签数据/英语-从句-定语.md",
     "基础学科/英语/标签数据/英语-非谓-动词ing.md",
     "基础学科/英语/标签数据/英语-谓语-时态.md",
-    "基础学科/英语/标签数据/英语-词-形容词.md",
-    "基础学科/英语/标签数据/英语-非谓-分词.md",
     "基础学科/英语/标签数据/英语-词-名词.md",
-    "基础学科/英语/标签数据/英语-词-介词.md",
-    "2023-11-13.md",
-    "基础学科/英语/标签数据/英语-词-动词.md",
     "厨艺/面食",
     "厨艺",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/01_从滚动hash到RK算法",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配",
     "基础学科/英语/标签数据",
-    "模板",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/桶排序.bmp",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_sort.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/第三章_MSD基数排序和桶排序/images/msd_process.png"
+    "模板"
   ]
 }

@@ -82,3 +82,15 @@ tagFolder
 ## 模板
 
 [也许是B站最全面的Obsidian公开课 ！【课时5 使用Ob的技巧】顶级知识管理神器、双链笔记先驱——OB保姆级教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1MF411W7eD/?spm_id_from=333.788&vd_source=081641abeed94aff322f0473e2c1773d)
+
+## 利用 CMD 打开 Obsidian
+
+1. 设置环境变量
+![[Snipaste_2023-11-16_16-23-38.png]]
+![[Snipaste_2023-11-16_16-28-42.png]]
+
+2. 打开 cmd，输入 Obsidian，即可打开 Obsidian；
+![[Snipaste_2023-11-16_16-26-56.png]]
+
+参考：[如何用cmd命令行打开某个电脑程序-百度经验 (baidu.com)](https://jingyan.baidu.com/article/67508eb4892734dcca1ce4ee.html)
+
