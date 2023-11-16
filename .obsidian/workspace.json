@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3784aa66a5f63b57",
+        "id": "a410479d917ede06",
         "type": "tabs",
         "children": [
           {
-            "id": "3016167fa9699645",
+            "id": "9a574c71f15d3c2d",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/graph.json",
-                "staged": true
+                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md"
+              }
             }
           },
           {
@@ -157,11 +162,11 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 286.5
+    "width": 796.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,35 +184,33 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "3016167fa9699645",
+  "active": "9a574c71f15d3c2d",
   "lastOpenFiles": [
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-30-55.png",
+    "hello_world/工具/Obsidian/images/add_ssh_key.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-22-53.png",
+    "hello_world/工具/Obsidian/插件/obsidian_git.md",
     "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
     "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
-    "hello_world/工具/Obsidian/images/00_work_space.png",
+    "hello_world/工具/Vim/Vim.md",
+    "hello_world/工具/Obsidian/插件/dataview.md",
+    "hello_world/工具/Obsidian/demo.md",
     "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-28-42.png",
     "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-26-56.png",
     "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-23-38.png",
-    "Snipaste_2023-11-16_16-23-38.png",
-    "hello_world/工具/Obsidian/demo.md",
-    "hello_world/工具/Obsidian/未命名.md",
     "hello_world/00_Inbox/test.md",
-    "hello_world/工具/Vim/Vim.md",
-    "模板/汇总英语标签数据.md",
-    "基础学科/英语/标签数据/英语-词-形容词.md",
-    "基础学科/英语/标签数据/英语-非谓-分词.md",
+    "hello_world/00_Inbox/20230926.md",
     "厨艺/面食/00_煮面入门.md",
     "摄影/入门.md",
     "hello_world/工具/Obsidian/插件/quick_add.md",
-    "hello_world/工具/Obsidian/插件/dataview.md",
+    "hello_world/工具/Obsidian/images/00_work_space.png",
     "hello_world/工具/Obsidian/images",
     "Pasted image 20231019223307.png",
     "摄影/images/测光.jpg",
     "摄影/images/曝光三要素.jpg",
     "摄影/images/白平衡.png",
     "基础学科/英语/语法/大纲.md",
-    "hello_world/00_Inbox/20230926.md",
     "基础学科/英语/DataViewTest.md",
-    "Pasted image 20231115215353.png",
     "hello_world/工具/Snipaste/00_Snipaste_入门.md",
     "hello_world/工具/Snipaste",
     "Excalidraw/Drawing 2023-11-15 21.20.56.excalidraw.md",
@@ -218,7 +221,10 @@
     "基础学科/英语/标签数据/英语-从句-定语.md",
     "基础学科/英语/标签数据/英语-非谓-动词ing.md",
     "基础学科/英语/标签数据/英语-谓语-时态.md",
+    "基础学科/英语/标签数据/英语-词-形容词.md",
+    "基础学科/英语/标签数据/英语-非谓-分词.md",
     "基础学科/英语/标签数据/英语-词-名词.md",
+    "基础学科/英语/标签数据/英语-词-介词.md",
     "厨艺/面食",
     "厨艺",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/01_从滚动hash到RK算法",

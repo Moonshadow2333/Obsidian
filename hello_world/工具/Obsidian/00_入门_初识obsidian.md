@@ -85,7 +85,7 @@ tagFolder
 
 ## 利用 CMD 打开 Obsidian
 
-1. 设置环境变量
+1. 设置环境变量 #环境变量
 ![[Snipaste_2023-11-16_16-23-38.png]]
 ![[Snipaste_2023-11-16_16-28-42.png]]
 
