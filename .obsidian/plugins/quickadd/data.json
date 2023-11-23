@@ -1,5 +1,111 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "4b467694-9b02-46b1-a622-7ea8897d5cfb",
+      "name": "flash",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "间歇笔记/生活日志/{{DATE:YYYY-MM-DD_dddd}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "22222510-83da-4f6e-801c-bbdc0ef8aa42",
+      "name": "bad news",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "间歇笔记/现实快照/{{DATE:YYYY}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "e8788fa1-97ac-415c-9c27-74ca58e81f4e",
+      "name": "炒绿叶蔬菜",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 实践",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
   "macros": [],
   "inputPrompt": "single-line",
   "devMode": false,

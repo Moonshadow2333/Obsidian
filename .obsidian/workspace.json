@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a410479d917ede06",
+        "id": "1df4b0d7c4e85698",
         "type": "tabs",
         "children": [
           {
-            "id": "9a574c71f15d3c2d",
+            "id": "38fb3e2bb21ba30c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
+                "file": "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "health",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
+                "file": "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md",
+                "file": "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hello_world/工具/Obsidian/插件/obsidian_git.md"
+                "file": "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -184,53 +184,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "9a574c71f15d3c2d",
+  "active": "38fb3e2bb21ba30c",
   "lastOpenFiles": [
-    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-30-55.png",
-    "hello_world/工具/Obsidian/images/add_ssh_key.png",
-    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-22-53.png",
+    "厨艺/01_刀功/00_切块.md",
+    "间歇笔记/现实快照/2023.md",
+    "厨艺/01_刀功",
+    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
+    "间歇笔记/现实快照",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "hello_world/工具/Obsidian/插件/quick_add.md",
+    "厨艺/00_初入厨房",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-23_18-21-52.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-23_18-18-41.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-23_18-11-24.png",
+    "间歇笔记/生活日志",
+    "间歇笔记",
+    "hello_world/工具/Obsidian/插件/dataview.md",
     "hello_world/工具/Obsidian/插件/obsidian_git.md",
     "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
     "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
-    "hello_world/工具/Vim/Vim.md",
-    "hello_world/工具/Obsidian/插件/dataview.md",
-    "hello_world/工具/Obsidian/demo.md",
-    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-28-42.png",
-    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-26-56.png",
-    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_16-23-38.png",
-    "hello_world/00_Inbox/test.md",
-    "hello_world/00_Inbox/20230926.md",
-    "厨艺/面食/00_煮面入门.md",
-    "摄影/入门.md",
-    "hello_world/工具/Obsidian/插件/quick_add.md",
-    "hello_world/工具/Obsidian/images/00_work_space.png",
-    "hello_world/工具/Obsidian/images",
-    "Pasted image 20231019223307.png",
-    "摄影/images/测光.jpg",
-    "摄影/images/曝光三要素.jpg",
-    "摄影/images/白平衡.png",
-    "基础学科/英语/语法/大纲.md",
-    "基础学科/英语/DataViewTest.md",
-    "hello_world/工具/Snipaste/00_Snipaste_入门.md",
-    "hello_world/工具/Snipaste",
-    "Excalidraw/Drawing 2023-11-15 21.20.56.excalidraw.md",
-    "生活/202310/10月.md",
-    "Excalidraw",
-    "基础学科/英语/工作流/工作流设计.md",
-    "基础学科/英语/标签数据/英语-从句-宾语.md",
+    "基础学科/英语/多领国/练习.md",
+    "基础学科/英语/多领国/第53部分-讨论未来发生的事.md",
+    "基础学科/英语/标签数据/英语-词-名词.md",
+    "基础学科/英语/标签数据/英语-谓语-时态.md",
+    "基础学科/英语/标签数据/英语-非谓-分词.md",
     "基础学科/英语/标签数据/英语-从句-定语.md",
     "基础学科/英语/标签数据/英语-非谓-动词ing.md",
-    "基础学科/英语/标签数据/英语-谓语-时态.md",
-    "基础学科/英语/标签数据/英语-词-形容词.md",
-    "基础学科/英语/标签数据/英语-非谓-分词.md",
-    "基础学科/英语/标签数据/英语-词-名词.md",
     "基础学科/英语/标签数据/英语-词-介词.md",
-    "厨艺/面食",
-    "厨艺",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/01_从滚动hash到RK算法",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配",
-    "基础学科/英语/标签数据",
-    "模板"
+    "基础学科/英语/标签数据/英语-词-动词.md",
+    "基础学科/英语/多领国/第52部分-讨论时装秀.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/images/Snipaste_2023-11-19_14-29-45.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/images/Snipaste_2023-11-19_13-53-17.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/images/Snipaste_2023-11-19_13-19-30.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/images/Snipaste_2023-11-19_13-14-32.png",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/images",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/未命名.md",
+    "厨艺/面食/00_煮面入门.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多",
+    "Excalidraw/Drawing 2023-11-15 21.20.56.excalidraw.md",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-30-55.png",
+    "hello_world/工具/Obsidian/images/add_ssh_key.png",
+    "hello_world/工具/Obsidian/images/Snipaste_2023-11-16_23-22-53.png",
+    "hello_world/工具/Vim/Vim.md",
+    "hello_world/工具/Obsidian/demo.md",
+    "hello_world/00_Inbox/test.md",
+    "hello_world/工具/Obsidian/images",
+    "hello_world/工具/Snipaste"
   ]
 }
