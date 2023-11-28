@@ -11,10 +11,11 @@
             "id": "377059153a07d8b6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "间歇笔记/现实快照/2023.md",
-                "staged": false
+                "file": "基础学科/英语/多领国/第54部分-讨论买一个新房子.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基础学科/英语/多领国/第54部分-讨论买一个新房子.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "基础学科/英语/多领国/第54部分-讨论买一个新房子.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "基础学科/英语/多领国/第54部分-讨论买一个新房子.md"
+              }
             }
           },
           {
@@ -161,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 796.5
+    "width": 999.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,8 +184,12 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "377059153a07d8b6",
+  "active": "1bd09b1323ec8ba4",
   "lastOpenFiles": [
+    "基础学科/英语/工作流/工作流设计.md",
+    "基础学科/英语/语法/大纲.md",
+    "基础学科/英语/多领国/第54部分-讨论买一个新房子.md",
+    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
     "间歇笔记/现实快照/2023.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/平衡二叉树/平衡二叉树.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段二/二分搜索树/二分搜索树.md",
@@ -222,10 +231,6 @@
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/链表/链表总结.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/排序/插入排序.md",
     "摄影/摄影间歇笔记与实践日志.md",
-    "基础学科/英语/多领国/第52部分-描述一次吃饭的经历.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段三/AVLTree/AVL.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/01_模式匹配/00_字符串匹配和字符串哈希/hash 是一种思想.md",
-    "基础学科/英语/多领国/第53部分-讨论未来发生的事.md",
-    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md"
+    "基础学科/英语/多领国/第52部分-描述一次吃饭的经历.md"
   ]
 }
