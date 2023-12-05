@@ -41,13 +41,13 @@ cat id_rsa.pub
 
 如下图所示：
 
-![[Snipaste_2023-11-16_23-22-53.png]]
+![](../images/Snipaste_2023-11-16_23-22-53.png)
 
 ### 在 Github 上添加公钥
 
 在 Github 添加公钥，把生成的 ssh key 复制粘贴到 Github 上对应位置，即 Settings -> SSH and GPG keys -> New SSH key
 
-![[add_ssh_key.png]]
+![](../images/add_ssh_key.png)
 
 需要注意的是，**一个 Github 账号可以添加多个公钥**，这也是能够实现在多台电脑上实现协同工作的基础。
 
@@ -61,7 +61,7 @@ ssh -T git@github.com
 
 当结果如下图所显示的类似时，说明已经设置成功了：
 
-![[Snipaste_2023-11-16_23-30-55.png]]
+![](../images/Snipaste_2023-11-16_23-30-55.png)
 
 设置成功后，就不再需要密码 clone 和 push 代码。
 
