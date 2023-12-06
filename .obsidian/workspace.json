@@ -11,30 +11,8 @@
             "id": "62b5c440e7dad13e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9e1a67834682ce26",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8c4f1fd3ebc55fd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -111,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,8 +176,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "62b5c440e7dad13e",
+  "active": "1bd09b1323ec8ba4",
   "lastOpenFiles": [
+    "基础学科/英语/多领国/讨论修改计划.md",
+    "摄影/摄影间歇笔记与实践日志.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
     "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/并查集/UF.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/Trie/trie.md",
@@ -238,8 +215,6 @@
     "Excalidraw/删除最大值 1.md",
     "基础学科/英语/多领国/练习.md",
     "基础学科/英语/多领国/第54部分-讨论买一个新房子.md",
-    "基础学科/英语/语法/大纲.md",
-    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/SQRT",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/imgs",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/哈希表",
