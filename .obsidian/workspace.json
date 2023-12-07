@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "集锦/集锦.md",
+                "file": "集锦/202312.md",
                 "mode": "source",
                 "source": true
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "集锦/集锦.md",
+                "file": "集锦/202312.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "集锦/集锦.md",
+                "file": "集锦/202312.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "集锦/集锦.md"
+                "file": "集锦/202312.md"
               }
             }
           },
@@ -186,9 +186,9 @@
   },
   "active": "73217f37f4ee7e46",
   "lastOpenFiles": [
+    "集锦/集锦.md",
     "基础学科/英语/多领国/讨论修改计划.md",
     "集锦/202312.md",
-    "集锦/集锦.md",
     "基础学科/英语/标签数据/英语-词-名词.md",
     "集锦",
     "2023-12-07.md",
