@@ -174,6 +174,41 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "ee3b7b8a-2b08-4733-bf01-200afe0c6f90",
+      "name": "collection",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "集锦/{{DATE:YYYYMM}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "收藏时间：{{DATE:YYYY-MM-DD}}\n收藏内容：{{value}}\n预计完成：{{DATE:YYYY-MM-DD}}\n是否完成：\n完成时间：{{DATE:YYYY-MM-DD}}\n数据标签：#\n内容来源：\n\\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
