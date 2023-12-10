@@ -11,10 +11,11 @@
             "id": "d3fc8339c40d9a85",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "集锦/202312.md",
-                "staged": false
+                "file": "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -92,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md"
+              }
             }
           },
           {
@@ -181,10 +186,11 @@
   },
   "active": "d3fc8339c40d9a85",
   "lastOpenFiles": [
+    "基础学科/英语/多领国/打电话.md",
+    "基础学科/英语/工作流/工作流设计.md",
     "集锦/202312.md",
     "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
     "集锦/集锦.md",
-    "基础学科/英语/工作流/工作流设计.md",
     "间歇笔记/生活日志/2023-11-23_星期四.md",
     "间歇笔记/生活日志/2023-11-26_星期日.md",
     "间歇笔记/生活日志/2023-12-07_星期四.md",
@@ -220,7 +226,6 @@
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/红黑树/红黑树.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/平衡二叉树/平衡二叉树.md",
     "基础学科/英语/多领国/和医生交流病情.md",
-    "基础学科/英语/多领国/买快餐.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/SQRT",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/imgs",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/哈希表",
