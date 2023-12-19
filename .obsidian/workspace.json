@@ -6,7 +6,6 @@
       {
         "id": "1632ce19ce02dd60",
         "type": "tabs",
-        "dimension": 63.578947368421055,
         "children": [
           {
             "id": "1674663f075e5265",
@@ -14,27 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
+                "file": "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "c457c11f47d0cf80",
-        "type": "tabs",
-        "dimension": 36.421052631578945,
-        "children": [
-          {
-            "id": "85787fcdde7e0f57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -113,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
+                "file": "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
+                "file": "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md"
+                "file": "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md"
               }
             }
           },
@@ -181,7 +161,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -203,12 +184,17 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "91ea837624e7ab7b",
+  "active": "1674663f075e5265",
   "lastOpenFiles": [
+    "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
+    "编程/后端/PHP/Curl/Curl.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
+    "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
+    "基础学科/英语/多领国/讲述一次盗窃事件.md",
+    "编程/后端/PHP/Curl",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/imgs/msd_process.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/imgs/LSD.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/imgs/msd_sort.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/01_LSD 基数排序.md",
     "厨艺/02_肉菜/00_炒猪肉.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/ASCII.md",
@@ -234,9 +220,6 @@
     "集锦",
     "2023-12-07.md",
     "基础学科/英语/标签数据/英语-非谓-动词ing.md",
-    "基础学科/英语/标签数据/英语-从句-宾语.md",
-    "基础学科/英语/标签数据/英语-词-介词.md",
-    "基础学科/英语/标签数据/英语-词-形容词.md",
     "编程/PHP/基础语法",
     "编程/后端/PHP/Laravel",
     "编程/PHP",
@@ -248,7 +231,6 @@
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/imgs/heap_09.jpg",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/imgs/heap_08.jpg",
     "编程/算法与数据结构/算法与数据结构体系课/阶段三/imgs/heap_07.jpg",
-    "间歇笔记/生活日志",
-    "间歇笔记/现实快照"
+    "间歇笔记/生活日志"
   ]
 }
