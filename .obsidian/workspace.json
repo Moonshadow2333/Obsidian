@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0212f05f8a7d0030",
+        "id": "b3874bd4609c6871",
         "type": "tabs",
         "children": [
           {
-            "id": "49d11b29d798a324",
+            "id": "e5ba51b240b10233",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/讨论名人八卦.md",
+                "file": "生活/202402/一个人的朝圣.md",
                 "mode": "source",
                 "source": true
               }
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 230.5
   },
   "right": {
     "id": "d780a5b5b1cb8e63",
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/讨论名人八卦.md",
+                "file": "生活/202402/一个人的朝圣.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/讨论名人八卦.md",
+                "file": "生活/202402/一个人的朝圣.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/讨论名人八卦.md"
+                "file": "生活/202402/一个人的朝圣.md"
               }
             }
           },
@@ -161,8 +161,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,53 +183,53 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "49d11b29d798a324",
+  "active": "e5ba51b240b10233",
   "lastOpenFiles": [
-    "编程/算法与数据结构/算法与数据结构体系课/阶段一/栈/单调栈.md",
-    "基础学科/英语/多领国/讨论名人八卦.md",
+    "基础学科/英语/发音/are 和 aren't.md",
+    "基础学科/英语/多领国/讨论婚礼安排.md",
+    "基础学科/英语/发音",
+    "基础学科/英语/多领国/天桥.md",
+    "基础学科/英语/多领国/练习.md",
+    "基础学科/英语/多领国/讨论修改计划.md",
+    "hello_world/Inbox/知识任务进度管理耦合问题.md",
+    "生活/202402/一个人的朝圣.md",
+    "生活/202401/2023年存档.md",
+    "生活/202402",
+    "生活/未命名.md",
+    "编程/后端/PHP/Curl/Curl.md",
+    "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
+    "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
+    "编程/纲领/最佳编程实践.md",
+    "hello_world/工具/Vim/Vim.md",
+    "编程/纲领/项目管理.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/ASCII.md",
+    "集锦/202312.md",
+    "hello_world/工具/Obsidian/插件/dataview.md",
+    "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
+    "摄影/照片的意义.md",
+    "hello_world/Inbox/test.md",
+    "hello_world/Inbox/20230926.md",
+    "hello_world/工具/Snipaste/00_Snipaste_入门.md",
+    "00612A83.png",
+    "0381E0FE.png",
+    "0381E0FE 1.png",
+    "集锦/202401.md",
+    "编程/纲领",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
+    "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
+    "编程/docker/imgs/yml.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/stack_00.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/20240121.png",
-    "编程/算法与数据结构/算法与数据结构体系课/练习.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/栈",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段三/并查集/UF.md",
-    "编程/docker/安装 docker.md",
-    "基础学科/英语/标签数据/英语-词-名词.md",
-    "基础学科/英语/标签数据/英语-词-介词.md",
-    "基础学科/英语/多领国/描述上班第一天.md",
-    "基础学科/英语/多领国/暑假计划.md",
-    "基础学科/英语/多领国/讨论暑假计划.md",
-    "基础学科/英语/多领国/表达工作压力.md",
-    "编程/docker/docker 常用命令.md",
     "编程/docker/imgs/success.png",
     "编程/docker/imgs/Snipaste_2024-01-13_18-03-30.png",
     "编程/docker/imgs/Snipaste_2024-01-13_18-01-00.png",
-    "编程/docker/imgs/yml.png",
     "编程/docker/imgs/yml_bug.png",
-    "编程/docker/imgs/Snipaste_2024-01-13_17-54-28.png",
-    "编程/docker/imgs/docker_cmd.png",
-    "编程/docker/imgs/Snipaste_2024-01-13_07-04-53.png",
-    "集锦/202312.md",
-    "集锦/ReadMe.md",
     "编程/docker/imgs",
-    "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
-    "编程/后端/PHP/Curl/Curl.md",
-    "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
     "编程/docker",
-    "基础学科/英语/多领国/工作.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/03_桶排序.md",
-    "生活/202401/2023年存档.md",
-    "生活/202401/未命名.md",
-    "生活/202310/10月.md",
-    "生活/202310/2023-10-13-梦.md",
     "生活/202401",
-    "基础学科/英语/多领国/练习.md",
-    "基础学科/高等数学/微分方程/微分方程的应用.md",
     "基础学科/高等数学/微分方程",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段三/堆/二叉堆.md",
     "编程/后端/PHP/Curl",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序",
-    "厨艺/02_肉菜",
-    "集锦",
-    "编程/PHP/基础语法"
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序"
   ]
 }

@@ -69,6 +69,11 @@
 	 - 查：
 		 - 查找：/
 		 - 下一个、上一个：n/N 
+
+## 光标
+
+参考：[Vim可视模式下多行操作技巧 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/661470160)
+
 ## 资料
 
 [# 玩转Vim-从放弃到入门]([玩转Vim-从放弃到入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NG4y1p74h/?spm_id_from=333.337.search-card.all.click&vd_source=081641abeed94aff322f0473e2c1773d))
