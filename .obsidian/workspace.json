@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b3874bd4609c6871",
+        "id": "3d8f4a53ecf590a3",
         "type": "tabs",
         "children": [
           {
-            "id": "e5ba51b240b10233",
+            "id": "f7cc4c1fba66b6f9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/202402/一个人的朝圣.md",
+                "file": "生活/202402/失败的经历.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "9eddfbc7a20e74a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2cbfefc1ec7ca970",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "生活/202402/失败的经历.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/202402/一个人的朝圣.md",
+                "file": "生活/202402/失败的经历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/202402/一个人的朝圣.md",
+                "file": "生活/202402/失败的经历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/202402/一个人的朝圣.md"
+                "file": "生活/202402/失败的经历.md"
               }
             }
           },
@@ -161,7 +179,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -183,8 +202,23 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "e5ba51b240b10233",
+  "active": "f7cc4c1fba66b6f9",
   "lastOpenFiles": [
+    "摄影/照片的意义.md",
+    "生活/202402/失败的经历.md",
+    "生活/202401/未命名.md",
+    "生活/202402/一个人的朝圣.md",
+    "编程/docker/docker 常用命令.md",
+    "编程/docker/安装 docker.md",
+    "编程/NGINX/Nginx 配置.md",
+    "编程/NGINX",
+    "基础学科/英语/多领国/买衣服以及退换货.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段三/并查集/UF.md",
+    "集锦/202402.md",
+    "编程/纲领/最佳编程实践.md",
+    "生活/202401/2023年存档.md",
+    "摄影/入门.md",
+    "摄影/摄影间歇笔记与实践日志.md",
     "基础学科/英语/发音/are 和 aren't.md",
     "基础学科/英语/多领国/讨论婚礼安排.md",
     "基础学科/英语/发音",
@@ -192,31 +226,17 @@
     "基础学科/英语/多领国/练习.md",
     "基础学科/英语/多领国/讨论修改计划.md",
     "hello_world/Inbox/知识任务进度管理耦合问题.md",
-    "生活/202402/一个人的朝圣.md",
-    "生活/202401/2023年存档.md",
     "生活/202402",
     "生活/未命名.md",
     "编程/后端/PHP/Curl/Curl.md",
     "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
     "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
-    "编程/纲领/最佳编程实践.md",
     "hello_world/工具/Vim/Vim.md",
     "编程/纲领/项目管理.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/ASCII.md",
-    "集锦/202312.md",
-    "hello_world/工具/Obsidian/插件/dataview.md",
-    "hello_world/工具/Obsidian/00_入门_初识obsidian.md",
-    "摄影/照片的意义.md",
-    "hello_world/Inbox/test.md",
-    "hello_world/Inbox/20230926.md",
-    "hello_world/工具/Snipaste/00_Snipaste_入门.md",
     "00612A83.png",
     "0381E0FE.png",
     "0381E0FE 1.png",
-    "集锦/202401.md",
     "编程/纲领",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/02_MSD 基数排序.md",
-    "hello_world/工具/Obsidian/01_进阶_如何有效记笔记.md",
     "编程/docker/imgs/yml.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/stack_00.png",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/20240121.png",
@@ -229,7 +249,6 @@
     "编程/docker",
     "生活/202401",
     "基础学科/高等数学/微分方程",
-    "编程/后端/PHP/Curl",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序"
+    "编程/后端/PHP/Curl"
   ]
 }

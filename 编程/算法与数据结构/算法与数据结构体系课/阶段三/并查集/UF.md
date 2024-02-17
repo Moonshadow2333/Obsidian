@@ -320,3 +320,9 @@ class UnionFind6 implements UF
     }
 }
 ```
+
+
+## 参考
+
+1. [Quick-Find Algorithm - Edusera Quick-Find Algorithm - Algorithms](https://edusera.org/quick-find-algorithm/)
+2. [01UnionFind.key (princeton.edu)](https://www.cs.princeton.edu/courses/archive/spr08/cos226/lectures/01UnionFind.pdf)
