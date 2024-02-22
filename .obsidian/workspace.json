@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d8f4a53ecf590a3",
+        "id": "d4be000e1611360b",
         "type": "tabs",
         "children": [
           {
-            "id": "f7cc4c1fba66b6f9",
+            "id": "cf1c797c4d8e8711",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/202402/失败的经历.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "9eddfbc7a20e74a4",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2cbfefc1ec7ca970",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "生活/202402/失败的经历.md",
+                "file": "编程/面试经验/面经.md",
                 "mode": "preview",
                 "source": true
               }
@@ -111,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "生活/202402/失败的经历.md",
+                "file": "编程/面试经验/面经.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "生活/202402/失败的经历.md",
+                "file": "编程/面试经验/面经.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "生活/202402/失败的经历.md"
+                "file": "编程/面试经验/面经.md"
               }
             }
           },
@@ -202,53 +184,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "f7cc4c1fba66b6f9",
+  "active": "cf1c797c4d8e8711",
   "lastOpenFiles": [
-    "摄影/照片的意义.md",
+    "编程/面试经验/准备.md",
+    "编程/面试经验/面经.md",
     "生活/202402/失败的经历.md",
-    "生活/202401/未命名.md",
+    "编程/面试经验",
+    "编程/未命名.canvas",
+    "编程/后端/PHP/开发环境/Laragon.md",
+    "编程/后端/PHP/未命名",
+    "编程/后端/MySQL/异常/启动失败.md",
+    "编程/后端/MySQL/images/service_not_exist.png",
+    "编程/后端/MySQL/images/connect_error.png",
+    "编程/后端/MySQL/images/Snipaste_2024-02-21_11-50-37.png",
+    "编程/后端/MySQL/images",
+    "编程/后端/MySQL/异常",
+    "生活/202402/驾校选择.md",
+    "编程/后端/MySQL",
+    "摄影/场景/可选颜色.md",
+    "生活/202402/二月至三月计划.md",
+    "Inbox/简历.md",
+    "Inbox/如何写简历.md",
+    "Inbox/ReadMe.md",
     "生活/202402/一个人的朝圣.md",
-    "编程/docker/docker 常用命令.md",
-    "编程/docker/安装 docker.md",
+    "生活/202402/个人改造计划.md",
     "编程/NGINX/Nginx 配置.md",
-    "编程/NGINX",
-    "基础学科/英语/多领国/买衣服以及退换货.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段三/并查集/UF.md",
-    "集锦/202402.md",
-    "编程/纲领/最佳编程实践.md",
-    "生活/202401/2023年存档.md",
-    "摄影/入门.md",
-    "摄影/摄影间歇笔记与实践日志.md",
-    "基础学科/英语/发音/are 和 aren't.md",
-    "基础学科/英语/多领国/讨论婚礼安排.md",
-    "基础学科/英语/发音",
-    "基础学科/英语/多领国/天桥.md",
-    "基础学科/英语/多领国/练习.md",
-    "基础学科/英语/多领国/讨论修改计划.md",
-    "hello_world/Inbox/知识任务进度管理耦合问题.md",
-    "生活/202402",
-    "生活/未命名.md",
-    "编程/后端/PHP/Curl/Curl.md",
+    "编程/后端/PHP/Laravel/Laravel 数据库：输出 SQL 语句.md",
     "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
-    "编程/后端/PHP/Curl/curl_setopt函数的可选参数.md",
-    "hello_world/工具/Vim/Vim.md",
-    "编程/纲领/项目管理.md",
-    "00612A83.png",
-    "0381E0FE.png",
-    "0381E0FE 1.png",
-    "编程/纲领",
-    "编程/docker/imgs/yml.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/stack_00.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段一/imgs/20240121.png",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段一/栈",
-    "编程/docker/imgs/success.png",
-    "编程/docker/imgs/Snipaste_2024-01-13_18-03-30.png",
-    "编程/docker/imgs/Snipaste_2024-01-13_18-01-00.png",
-    "编程/docker/imgs/yml_bug.png",
-    "编程/docker/imgs",
-    "编程/docker",
-    "生活/202401",
-    "基础学科/高等数学/微分方程",
-    "编程/后端/PHP/Curl"
+    "编程/后端/PHP/Curl/Curl.md",
+    "编程/后端/PHP/开发环境/开发环境探索.md",
+    "Inbox/知识任务进度管理耦合问题.md",
+    "Inbox/五险一金.md",
+    "模板/汇总英语标签数据.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/现实快照/2023.md",
+    "集锦/ReadMe.md",
+    "工具/Vim/Vim.md",
+    "编程/后端/PHP/开发环境",
+    "Office/Word",
+    "Office",
+    "工具/Obsidian/images/Snipaste_2023-11-23_18-11-24.png",
+    "工具/Obsidian/images/Snipaste_2023-11-23_18-18-41.png",
+    "工具/Obsidian/images/Snipaste_2023-11-23_18-21-52.png",
+    "工具/滴答清单/images/智能清单.png",
+    "hello_world/工具/滴答清单/images/Snipaste_2024-02-18_17-22-41.png",
+    "工具/滴答清单/images/番茄工作法.png",
+    "hello_world/工具/滴答清单/images/tiktik.png",
+    "工具/滴答清单/images",
+    "工具/滴答清单"
   ]
 }
