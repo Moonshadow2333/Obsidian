@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "d4be000e1611360b",
+        "id": "095df0cae79f1dc8",
         "type": "tabs",
         "children": [
           {
-            "id": "cf1c797c4d8e8711",
+            "id": "5df33b110d283d45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/面试经验/面经.md",
-                "mode": "preview",
+                "file": "学车/科目一.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "62c914c1d9268e23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "076c14988b3c2825",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/数据库/Redis/应用/缓存穿透.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -93,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/面试经验/面经.md",
+                "file": "编程/数据库/Redis/应用/缓存穿透.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/面试经验/面经.md",
+                "file": "编程/数据库/Redis/应用/缓存穿透.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/面试经验/面经.md"
+                "file": "编程/数据库/Redis/应用/缓存穿透.md"
               }
             }
           },
@@ -184,54 +202,54 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "cf1c797c4d8e8711",
+  "active": "076c14988b3c2825",
   "lastOpenFiles": [
-    "编程/面试经验/准备.md",
-    "编程/面试经验/面经.md",
-    "生活/202402/失败的经历.md",
-    "编程/面试经验",
-    "编程/未命名.canvas",
-    "编程/后端/PHP/开发环境/Laragon.md",
-    "编程/后端/PHP/未命名",
-    "编程/后端/MySQL/异常/启动失败.md",
-    "编程/后端/MySQL/images/service_not_exist.png",
-    "编程/后端/MySQL/images/connect_error.png",
-    "编程/后端/MySQL/images/Snipaste_2024-02-21_11-50-37.png",
-    "编程/后端/MySQL/images",
-    "编程/后端/MySQL/异常",
+    "学车/科目一.md",
+    "编程/数据库/Redis/应用/缓存穿透.md",
     "生活/202402/驾校选择.md",
-    "编程/后端/MySQL",
-    "摄影/场景/可选颜色.md",
-    "生活/202402/二月至三月计划.md",
-    "Inbox/简历.md",
-    "Inbox/如何写简历.md",
-    "Inbox/ReadMe.md",
-    "生活/202402/一个人的朝圣.md",
-    "生活/202402/个人改造计划.md",
-    "编程/NGINX/Nginx 配置.md",
-    "编程/后端/PHP/Laravel/Laravel 数据库：输出 SQL 语句.md",
-    "编程/后端/PHP/Curl/Curl 三种请求数据方式.md",
-    "编程/后端/PHP/Curl/Curl.md",
-    "编程/后端/PHP/开发环境/开发环境探索.md",
+    "学车/进度.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/00_非比较排序/03_桶排序.md",
+    "学车",
+    "编程/数据库/Redis/应用/限流.md",
+    "编程/数据库/Redis/选择合适的 Key 类型.md",
+    "编程/数据库/Redis/布隆过滤器.md",
+    "Inbox/职业规划.md",
+    "编程/纲领/项目管理.md",
+    "编程/纲领/最佳编程实践.md",
+    "面试经验/利典一面.md",
     "Inbox/知识任务进度管理耦合问题.md",
-    "Inbox/五险一金.md",
-    "模板/汇总英语标签数据.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
-    "间歇笔记/生活日志/2023-11-23_星期四.md",
-    "间歇笔记/现实快照/2023.md",
-    "集锦/ReadMe.md",
-    "工具/Vim/Vim.md",
-    "编程/后端/PHP/开发环境",
-    "Office/Word",
-    "Office",
+    "Inbox/简历.md",
+    "面试经验/面经.md",
+    "面试经验/准备.md",
+    "面试经验/益普一面.md",
+    "面试经验/奥库一面.md",
+    "Inbox/ReadMe.md",
+    "职业规划",
+    "编程/测试/测试.md",
+    "编程/后端/PHP/Laravel/Laravel 数据库：输出 SQL 语句.md",
+    "编程/后端/PHP/Laravel/日志中间件.md",
+    "编程/后端/PHP/Laravel/多版本接口.md",
+    "编程/后端/PHP/Laravel/异常.md",
+    "编程/NGINX/Nginx 配置.md",
+    "编程/数据库/MySQL/安装两个版本的数据库.md",
+    "编程/数据库/Redis/应用",
+    "编程/后端/PHP/Laravel/未命名",
+    "编程/数据库/Redis",
+    "编程/数据库/MySQL/images/connect_error.png",
+    "编程/数据库/MySQL/images/service_not_exist.png",
+    "编程/数据库/MySQL/锁机制",
+    "编程/测试",
+    "面试经验",
+    "编程/未命名.canvas",
+    "编程/后端/PHP/未命名",
+    "编程/后端/MySQL/images/Snipaste_2024-02-21_11-50-37.png",
+    "编程/数据库/MySQL/images",
     "工具/Obsidian/images/Snipaste_2023-11-23_18-11-24.png",
     "工具/Obsidian/images/Snipaste_2023-11-23_18-18-41.png",
     "工具/Obsidian/images/Snipaste_2023-11-23_18-21-52.png",
     "工具/滴答清单/images/智能清单.png",
     "hello_world/工具/滴答清单/images/Snipaste_2024-02-18_17-22-41.png",
     "工具/滴答清单/images/番茄工作法.png",
-    "hello_world/工具/滴答清单/images/tiktik.png",
-    "工具/滴答清单/images",
-    "工具/滴答清单"
+    "hello_world/工具/滴答清单/images/tiktik.png"
   ]
 }
