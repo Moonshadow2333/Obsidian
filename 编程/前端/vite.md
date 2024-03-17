@@ -1,0 +1,1 @@
+[开始 | Vite 官方中文文档 (vitejs.dev)](https://cn.vitejs.dev/guide/)

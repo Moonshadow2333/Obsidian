@@ -4,49 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "7b215cc10577f0cb",
+        "id": "160f3f91799ac3bd",
         "type": "tabs",
-        "dimension": 73.77049180327869,
+        "dimension": 58.19672131147541,
         "children": [
           {
-            "id": "f015bf01556e62ee",
+            "id": "d29fbf70332b2dc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/后端/PHP/Laravel/异常.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "80dc8ae8f984002c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论工作中的变动.md",
+                "file": "生活/202403/回顾过往经历.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
-        "id": "509db9831e97d94d",
+        "id": "89c98b1a76ae3d15",
         "type": "tabs",
-        "dimension": 26.229508196721312,
+        "dimension": 41.80327868852459,
         "children": [
           {
-            "id": "329506d505d14b49",
+            "id": "78105120dccaecab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工业工程/七大手法八大浪费.md",
+                "file": "生活/202403/回顾过往经历.md",
                 "mode": "preview",
                 "source": true
               }
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论工作中的变动.md",
+                "file": "生活/202403/回顾过往经历.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论工作中的变动.md",
+                "file": "生活/202403/回顾过往经历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论工作中的变动.md"
+                "file": "生活/202403/回顾过往经历.md"
               }
             }
           },
@@ -217,44 +204,46 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "80dc8ae8f984002c",
+  "active": "d29fbf70332b2dc9",
   "lastOpenFiles": [
+    "生活/202403/个人博客介绍.md",
+    "生活/202403/回顾过往经历.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "间歇笔记/生活日志/2024-03-12_星期二.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "工业工程/准备.md",
     "工业工程/七大手法八大浪费.md",
-    "基础学科/英语/多领国/第三部分/谈论工作中的变动.md",
-    "基础学科/英语/多领国/练习.md",
-    "Inbox/情绪管理.md",
+    "工业工程/招聘要求.md",
+    "工业工程/公司.md",
+    "工业工程/大纲.md",
+    "工业工程/PDCA 循环.md",
+    "工业工程/人机料法环.md",
+    "基础学科/英语/多领国/第三部分/在同学聚会中聊天.md",
+    "编程/前端/JavaScript/Vue/vue.md",
+    "学车/科目一错题.md",
+    "Inbox/职业规划.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "编程/NGINX/Nginx 配置.md",
+    "间歇笔记/现实快照/2023.md",
+    "工具/ApiFox",
+    "编程/前端/JavaScript/未命名",
     "编程/后端/PHP/images/npm_operation_err.png",
     "编程/后端/PHP/images/Snipaste_2024-03-08_17-36-24.png",
     "编程/后端/PHP/images/npm_err.png",
     "编程/后端/PHP/images/Snipaste_2024-03-08_17-03-24.png",
     "编程/后端/PHP/images",
     "编程/后端/PHP/新建文件夹",
-    "编程/后端/PHP/Laravel/启动一个新项目.md",
-    "编程/后端/PHP/Laravel/执行迁移.md",
-    "编程/后端/PHP/Laravel/异常.md",
     "composer.lock",
-    "编程/前端/JavaScript/Vue/vue.md",
-    "工业工程/人机料法环.md",
     "编程/前端/JavaScript/Vue",
-    "工业工程/PDCA 循环.md",
-    "工业工程/ReadMe.md",
-    "工业工程/大纲.md",
-    "生活/202402/失败的经历.md",
     "工业工程",
-    "生活/202403/家庭改造计划.md",
-    "生活/202403/未命名.md",
-    "生活/202402/二月至三月计划.md",
-    "Inbox/HDR和Delighting.md",
-    "摄影/场景/可选颜色.md",
-    "间歇笔记/生活日志/2023-11-23_星期四.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
-    "间歇笔记/生活日志/2023-12-07_星期四.md",
-    "间歇笔记/生活日志/2024-01-31_星期三.md",
-    "间歇笔记/生活日志/2024-02-27_星期二.md",
-    "间歇笔记/生活日志/2024-03-07_星期四.md",
-    "基础学科/英语/多领国/第三部分/使用反问.md",
     "45f4f929e64ce80883e37f5e9e7f305.jpg",
-    "2024-03-07.md",
     "基础学科/英语/多领国/第三部分",
     "学车/images/模考_轻型牵引挂车.jpg",
     "学车/images/bb75567faea5c7e6fe2f41738791b2a.jpg",
@@ -263,8 +252,6 @@
     "学车/images/模考_20周岁.jpg",
     "学车/images/_cgi-bin_mmwebwx-bin_webwxgetmsgimg__&MsgID=2792635273183187539&skey=@crypt_c01addfe_846cbb07a73b463622031ac10532c9ec&mmweb_appid=wx_webfilehelper.jfif",
     "学车/images",
-    "生活/202403",
-    "学车",
     "编程/未命名.canvas"
   ]
 }
