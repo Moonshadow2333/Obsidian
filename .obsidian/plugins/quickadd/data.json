@@ -209,6 +209,76 @@
       },
       "openFile": false,
       "openFileInMode": "default"
+    },
+    {
+      "id": "4bf50c5d-db20-4ee9-bf04-e6dcd4750595",
+      "name": "critical practice",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "读书/批判性思维工具/实践.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}\n\\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "77357e40-d4c4-493d-a635-b98a81fd2d4e",
+      "name": "travel log",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "间歇笔记/游玩日志.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "时间：{{date}}\n地点：\n主题： #\n人员：\n描述：{{value}}\n\\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": true,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
     }
   ],
   "macros": [],
