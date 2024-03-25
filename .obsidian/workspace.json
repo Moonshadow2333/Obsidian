@@ -25,32 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/游玩日志.md",
-                "mode": "source",
+                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
+                "mode": "preview",
                 "source": true
               }
             }
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "f8db0ff6dc15e974",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28d8d798f1ec17e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/关于写作.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/游玩日志.md",
+                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/游玩日志.md",
+                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "间歇笔记/游玩日志.md"
+                "file": "间歇笔记/生活日志/2024-03-25_星期一.md"
               }
             }
           },
@@ -217,42 +199,43 @@
   },
   "active": "f176b8d0955a5f0d",
   "lastOpenFiles": [
-    "Inbox/关于写作.md",
+    "编程/纲领/项目管理.md",
+    "编程/纲领/提高编程能力的关键.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "编程/纲领/最佳编程实践.md",
+    "编程/纲领/imgs/master.png",
+    "编程/纲领/imgs/point.png",
+    "编程/纲领/imgs",
+    "厨艺/02_肉菜/00_炒猪肉.md",
+    "工具/Obsidian/插件/quick_add.md",
+    "集锦/202403.md",
+    "生活/202403/自我剖析.md",
+    "Inbox/公司.md",
+    "工业工程/公司.md",
+    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
     "间歇笔记/游玩日志.md",
+    "Inbox/关于写作.md",
     "间歇笔记/未命名.md",
     "读书/批判性思维工具/第十一章_应对自身的非理性.md",
     "读书/批判性思维工具/实践.md",
-    "工具/Obsidian/插件/quick_add.md",
     "Inbox/自身缺陷.md",
-    "生活/202403/自我剖析.md",
     "编程/NGINX/Nginx 配置.md",
-    "厨艺/02_肉菜/00_炒猪肉.md",
-    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
     "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
     "Inbox/未命名.md",
     "Inbox/关于婚姻.md",
     "Inbox/情绪管理.md",
     "Inbox/声音太小.md",
-    "集锦/202403.md",
     "编程/项目回顾/催看青年大学习脚本回顾.md",
     "0C93A85C.png",
     "学车/科目一错题.md",
     "学车/images/模考_轻型牵引挂车.jpg",
-    "Inbox/公司.md",
     "Inbox/简历.md",
-    "Inbox/职业规划.md",
-    "Inbox/HDR和Delighting.md",
-    "Inbox/NodeJs 命令.md",
-    "基础学科/英语/多领国/旧-65-过往人生经历.md",
-    "基础学科/英语/标签数据/英语-谓语-时态.md",
     "生活/images/0305.jpg",
     "生活/images/0306.jpg",
     "生活/images/0304.jpg",
     "工具/滴答清单/images/智能清单.png",
     "编程/项目回顾/images/young_00.png",
     "编程/项目回顾/images/young_01.png",
-    "编程/项目回顾/images/young_02.png",
-    "20210727145805230.png",
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",
@@ -262,7 +245,6 @@
     "工业工程/新建文件夹",
     "工具/ApiFox",
     "编程/前端/JavaScript/未命名",
-    "编程/后端/PHP/images",
     "编程/未命名.canvas"
   ]
 }
