@@ -25,8 +25,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
-                "mode": "preview",
+                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
+                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
+                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "间歇笔记/生活日志/2024-03-25_星期一.md"
+                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md"
               }
             }
           },
@@ -199,43 +199,42 @@
   },
   "active": "f176b8d0955a5f0d",
   "lastOpenFiles": [
+    "工具/Obsidian/01_进阶_如何有效记笔记.md",
+    "工具/Obsidian/images/Snipaste_2024-03-25_22-34-52.png",
+    "工具/Obsidian/00_入门_初识obsidian.md",
+    "工业工程/ReadMe.md",
+    "集锦/ReadMe.md",
+    "工具/Obsidian/demo.md",
+    "工具/Obsidian/插件/quick_add.md",
+    "工具/Obsidian/插件/obsidian_git.md",
+    "工具/Obsidian/插件/dataview.md",
+    "工具/滴答清单/00_滴答清单_入门.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "间歇笔记/生活日志/2024-03-12_星期二.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "集锦/202312.md",
     "编程/纲领/项目管理.md",
     "编程/纲领/提高编程能力的关键.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
     "编程/纲领/最佳编程实践.md",
     "编程/纲领/imgs/master.png",
     "编程/纲领/imgs/point.png",
     "编程/纲领/imgs",
     "厨艺/02_肉菜/00_炒猪肉.md",
-    "工具/Obsidian/插件/quick_add.md",
-    "集锦/202403.md",
-    "生活/202403/自我剖析.md",
-    "Inbox/公司.md",
-    "工业工程/公司.md",
-    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
-    "间歇笔记/游玩日志.md",
-    "Inbox/关于写作.md",
-    "间歇笔记/未命名.md",
-    "读书/批判性思维工具/第十一章_应对自身的非理性.md",
-    "读书/批判性思维工具/实践.md",
-    "Inbox/自身缺陷.md",
-    "编程/NGINX/Nginx 配置.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
-    "Inbox/未命名.md",
-    "Inbox/关于婚姻.md",
-    "Inbox/情绪管理.md",
-    "Inbox/声音太小.md",
-    "编程/项目回顾/催看青年大学习脚本回顾.md",
     "0C93A85C.png",
-    "学车/科目一错题.md",
     "学车/images/模考_轻型牵引挂车.jpg",
-    "Inbox/简历.md",
     "生活/images/0305.jpg",
     "生活/images/0306.jpg",
     "生活/images/0304.jpg",
     "工具/滴答清单/images/智能清单.png",
     "编程/项目回顾/images/young_00.png",
-    "编程/项目回顾/images/young_01.png",
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",
