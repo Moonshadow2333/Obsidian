@@ -23,30 +23,16 @@
             "id": "f176b8d0955a5f0d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "a6699e0661c9ad84",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "14acc8c935ac188d",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "生活/202402/失败的经历.md",
+                "file": "学车/科目一错题.md",
                 "mode": "preview",
                 "source": true
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -120,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "学车/科目一错题.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "学车/科目一错题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +145,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "学车/科目一错题.md"
+              }
             }
           },
           {
@@ -209,33 +199,34 @@
   },
   "active": "f176b8d0955a5f0d",
   "lastOpenFiles": [
-    "生活/202402/失败的经历.md",
+    "学车/科目一.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "学车/科目一错题.md",
+    "学车/images/Snipaste_2024-03-26_15-08-37.png",
+    "编程/项目回顾/催看青年大学习脚本回顾.md",
+    "工具/Obsidian/插件/quick_add.md",
+    "读书/批判性思维工具/第十一章_应对自身的非理性.md",
+    "读书/批判性思维工具/批判实践.md",
+    "读书/批判性思维工具/第三章_自我理解.md",
+    "学车/进度.md",
+    "工具/Obsidian/01_进阶_如何有效记笔记.md",
+    "Inbox/自身缺陷.md",
+    "Inbox/关于写作.md",
+    "集锦/202312.md",
+    "Inbox/知识任务进度管理耦合问题.md",
+    "工具/Obsidian/00_入门_初识obsidian.md",
+    "Inbox/关于婚姻.md",
     "Inbox/人生建议.md",
+    "生活/202402/失败的经历.md",
     "199B8699.png",
     "集锦/202403.md",
-    "集锦/202312.md",
-    "Inbox/自身缺陷.md",
-    "Inbox/关于婚姻.md",
-    "Inbox/关于写作.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
     "厨艺/01_刀功/02_切丝.md",
     "厨艺/01_刀功/01_切片.md",
     "厨艺/01_刀功/00_切块.md",
-    "工具/Obsidian/插件/quick_add.md",
     "生活/202403/自我剖析.md",
     "间歇笔记/现实快照/2023.md",
     "间歇笔记/游玩日志.md",
-    "厨艺/02_肉菜/00_炒猪肉.md",
-    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
-    "工具/Obsidian/01_进阶_如何有效记笔记.md",
     "工具/Obsidian/images/Snipaste_2024-03-25_22-34-52.png",
-    "工具/Obsidian/00_入门_初识obsidian.md",
-    "工业工程/ReadMe.md",
-    "集锦/ReadMe.md",
-    "工具/Obsidian/demo.md",
-    "工具/Obsidian/插件/obsidian_git.md",
-    "工具/Obsidian/插件/dataview.md",
-    "工具/滴答清单/00_滴答清单_入门.md",
     "编程/纲领/imgs/master.png",
     "编程/纲领/imgs/point.png",
     "编程/纲领/imgs",
@@ -244,7 +235,6 @@
     "生活/images/0305.jpg",
     "生活/images/0306.jpg",
     "生活/images/0304.jpg",
-    "工具/滴答清单/images/智能清单.png",
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",

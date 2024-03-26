@@ -216,7 +216,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "读书/批判性思维工具/实践.md",
+      "captureTo": "读书/批判性思维工具/批判实践.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
