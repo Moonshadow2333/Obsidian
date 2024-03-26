@@ -23,28 +23,24 @@
             "id": "f176b8d0955a5f0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "c1eba098ebc2e48d",
+        "id": "a6699e0661c9ad84",
         "type": "tabs",
         "children": [
           {
-            "id": "34b77708c7bc1985",
+            "id": "14acc8c935ac188d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
+                "file": "生活/202402/失败的经历.md",
                 "mode": "preview",
                 "source": true
               }
@@ -124,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "工具/Obsidian/01_进阶_如何有效记笔记.md"
-              }
+              "state": {}
             }
           },
           {
@@ -217,42 +209,42 @@
   },
   "active": "f176b8d0955a5f0d",
   "lastOpenFiles": [
+    "生活/202402/失败的经历.md",
+    "Inbox/人生建议.md",
+    "199B8699.png",
+    "集锦/202403.md",
+    "集锦/202312.md",
+    "Inbox/自身缺陷.md",
+    "Inbox/关于婚姻.md",
+    "Inbox/关于写作.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "厨艺/01_刀功/02_切丝.md",
+    "厨艺/01_刀功/01_切片.md",
+    "厨艺/01_刀功/00_切块.md",
+    "工具/Obsidian/插件/quick_add.md",
+    "生活/202403/自我剖析.md",
+    "间歇笔记/现实快照/2023.md",
+    "间歇笔记/游玩日志.md",
+    "厨艺/02_肉菜/00_炒猪肉.md",
+    "厨艺/00_初入厨房/00_炒带叶子的蔬菜.md",
     "工具/Obsidian/01_进阶_如何有效记笔记.md",
     "工具/Obsidian/images/Snipaste_2024-03-25_22-34-52.png",
     "工具/Obsidian/00_入门_初识obsidian.md",
     "工业工程/ReadMe.md",
     "集锦/ReadMe.md",
     "工具/Obsidian/demo.md",
-    "工具/Obsidian/插件/quick_add.md",
     "工具/Obsidian/插件/obsidian_git.md",
     "工具/Obsidian/插件/dataview.md",
     "工具/滴答清单/00_滴答清单_入门.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
-    "间歇笔记/生活日志/2024-03-15_星期五.md",
-    "间歇笔记/生活日志/2024-03-12_星期二.md",
-    "间歇笔记/生活日志/2024-03-11_星期一.md",
-    "间歇笔记/生活日志/2024-03-09_星期六.md",
-    "间歇笔记/生活日志/2024-03-07_星期四.md",
-    "间歇笔记/生活日志/2024-02-27_星期二.md",
-    "间歇笔记/生活日志/2024-01-31_星期三.md",
-    "间歇笔记/生活日志/2023-12-07_星期四.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
-    "间歇笔记/生活日志/2023-11-23_星期四.md",
-    "集锦/202312.md",
-    "编程/纲领/项目管理.md",
-    "编程/纲领/提高编程能力的关键.md",
-    "编程/纲领/最佳编程实践.md",
     "编程/纲领/imgs/master.png",
     "编程/纲领/imgs/point.png",
     "编程/纲领/imgs",
-    "厨艺/02_肉菜/00_炒猪肉.md",
     "0C93A85C.png",
     "学车/images/模考_轻型牵引挂车.jpg",
     "生活/images/0305.jpg",
     "生活/images/0306.jpg",
     "生活/images/0304.jpg",
     "工具/滴答清单/images/智能清单.png",
-    "编程/项目回顾/images/young_00.png",
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",
