@@ -15,7 +15,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}"
+        "format": "【{{DATE:YYYY-MM-DD HH:mm}}】{{value}}\n\\n"
       },
       "insertAfter": {
         "enabled": false,
