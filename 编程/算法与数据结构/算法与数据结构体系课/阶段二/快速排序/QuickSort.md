@@ -299,3 +299,9 @@ ThreeWaysQuickSort::Main();
 ## 快速排序的应用
 
 Select K 问题。
+
+## 实践
+【2024-03-28 22:48】partition 函数中，while true 循环中，第一个小循环找的是第一个大于等于arr\[l\] 的 i，第二个小循环找的是第一个小于等于 arr\[l\] 的 j，如果 i 大于等于 j，直接终止 while true 循环，否则就交换 i 和 j 的值，再维护 i 和 j 的值。 
+
+while true 循环外面为什么是 l 和 j 的值交换，而不是 l 和 i 的值交换？之前提到 while true 循环中第一个循环终止时，i 就指向了第一个大于等于 arr\[l\] 的值，第二个循环终止时，j 就指向了第一个小于等于 arr\[l\] 的值，当 while true终止后，如果 l 和 i 交换并返回 i 的值，就不能保证标定点左侧的值全部小于等于标定点。
+

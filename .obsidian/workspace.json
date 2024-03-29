@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工业工程/SOP.md",
-                "mode": "source",
+                "file": "Inbox/自身缺陷.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工业工程/SOP.md",
+                "file": "Inbox/自身缺陷.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工业工程/SOP.md",
+                "file": "Inbox/自身缺陷.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工业工程/SOP.md"
+                "file": "Inbox/自身缺陷.md"
               }
             }
           },
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -186,6 +186,18 @@
   },
   "active": "170096f0dbf0a539",
   "lastOpenFiles": [
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-27_星期三.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2024-03-28_星期四.md",
+    "生活/202403/自我剖析.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段二/快速排序/QuickSort.md",
+    "Inbox/关于写作.md",
     "工业工程/SOP.md",
     "工业工程/标准工时.md",
     "工业工程/images/11.jpg",
@@ -194,25 +206,14 @@
     "工业工程/ReadMe.md",
     "工业工程/images/10.jpg",
     "基础学科/英语/多领国/第三部分/使用省略.md",
-    "间歇笔记/生活日志/2024-03-28_星期四.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
     "工具/Obsidian/01_进阶_如何有效记笔记.md",
     "工具/Obsidian/插件/dataview.md",
     "工具/Obsidian/插件/obsidian_git.md",
     "面试经验/利典一面.md",
-    "生活/202403/自我剖析.md",
     "集锦/202403.md",
     "摄影/摄影间歇笔记与实践日志.md",
     "摄影/照片的意义.md",
     "Inbox/公司.md",
-    "工业工程/公司.md",
-    "Inbox/科学素养.md",
-    "Inbox/个人困境.md",
-    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
-    "工业工程/七大手法八大浪费.md",
-    "工具/Obsidian/插件/quick_add.md",
-    "工具/Obsidian/插件/dataview_demo.md",
-    "Inbox/人生建议.md",
     "学车/images/Snipaste_2024-03-26_15-08-37.png",
     "199B8699.png",
     "工具/Obsidian/images/Snipaste_2024-03-25_22-34-52.png",
