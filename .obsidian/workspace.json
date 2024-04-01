@@ -6,6 +6,7 @@
       {
         "id": "0cbfdb982b7f913a",
         "type": "tabs",
+        "dimension": 78.09419496166484,
         "children": [
           {
             "id": "40aeae4732f1371f",
@@ -13,7 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二.md",
+                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a803725b7cf4a573",
+        "type": "tabs",
+        "dimension": 21.905805038335156,
+        "children": [
+          {
+            "id": "ef810efe8550bb7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/控制自己的欲望.md",
                 "mode": "preview",
                 "source": true
               }
@@ -113,7 +133,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "学车/科目二.md",
+                    "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
                     "collapseAll": true,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -130,7 +150,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "学车/科目二.md",
+                    "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -175,7 +195,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "学车/科目二.md"
+                    "file": "间歇笔记/生活日志/2024-04-01_星期一.md"
                   }
                 }
               }
@@ -206,12 +226,20 @@
   },
   "active": "40aeae4732f1371f",
   "lastOpenFiles": [
-    "基础学科/英语/多领国/第三部分/使用省略.md",
-    "学车/科目二.md",
-    "Inbox/个人困境.md",
+    "面试经验/奇宏.md",
+    "间歇笔记/生活日志/2024-04-01_星期一.md",
     "面试经验/富士康.md",
-    "Inbox/关于婚姻.md",
+    "面试经验/准备.md",
+    "Private/控制自己的欲望.md",
+    "Inbox/习惯养成.md",
+    "未命名.md",
     "集锦/202403.md",
+    "未命名",
+    "Private",
+    "学车/科目二.md",
+    "基础学科/英语/多领国/第三部分/使用省略.md",
+    "Inbox/个人困境.md",
+    "Inbox/关于婚姻.md",
     "间歇笔记/生活日志/2024-03-29_星期五.md",
     "基础学科/英语/多领国/表达工作压力.md",
     "面试经验/金威源一面.md",
@@ -226,12 +254,6 @@
     "编程/算法与数据结构/算法与数据结构体系课/阶段二/归并排序/归并排序.md",
     "基础学科/英语/多领国/第三部分/交流关于新科技的看法.md",
     "读书/批判性思维工具/批判实践.md",
-    "编程/纲领/最佳编程实践.md",
-    "间歇笔记/生活日志/2023-12-07_星期四.md",
-    "生活/202403/自我剖析.md",
-    "工具/ApiFox/00_ApiFox_入门.md",
-    "工业工程/ReadMe.md",
-    "工具/Obsidian/插件/obsidian_git.md",
     "工业工程/images/11.jpg",
     "工业工程/images/10.jpg",
     "学车/images/Snipaste_2024-03-26_15-08-37.png",
@@ -250,8 +272,6 @@
     "生活/images",
     "工业工程/images",
     "工业工程/新建文件夹",
-    "工具/ApiFox",
-    "编程/前端/JavaScript/未命名",
     "编程/未命名.canvas"
   ]
 }
