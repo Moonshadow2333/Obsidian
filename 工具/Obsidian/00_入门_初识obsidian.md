@@ -87,11 +87,20 @@ tagFolder
 ## 利用 CMD 打开 Obsidian
 
 1. 设置环境变量 #环境变量
-![[Snipaste_2023-11-16_16-23-38.png]]
-![[Snipaste_2023-11-16_16-28-42.png]]
+
+![](./images/Snipaste_2023-11-16_16-23-38.png)
+![](./images/Snipaste_2023-11-16_16-28-42.png)
 
 2. 打开 cmd，输入 Obsidian，即可打开 Obsidian；
-![[Snipaste_2023-11-16_16-26-56.png]]
+
+![](./images/Snipaste_2023-11-16_16-26-56.png)
 
 参考：[如何用cmd命令行打开某个电脑程序-百度经验 (baidu.com)](https://jingyan.baidu.com/article/67508eb4892734dcca1ce4ee.html)
 
+## 管理右侧边栏
+
+目前，我的 Obsidian 右侧边栏是上下分栏的，如下图所示：
+
+![](./images/Snipaste_2024-04-03_22-43-03.png)
+
+实现这样的效果也很简单，拖动图标即可。例如红框中的大纲图标，想要大纲在上栏显示，就拖到上栏中。
