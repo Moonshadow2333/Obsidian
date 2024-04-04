@@ -5,3 +5,5 @@
 [简介 | Vue.js (vuejs.org)](https://cn.vuejs.org/guide/introduction.html)
 
 [现代 JavaScript 教程](https://zh.javascript.info/)
+
+[交互式教程 | Vue.js (vuejs.org)](https://cn.vuejs.org/tutorial/#step-2)

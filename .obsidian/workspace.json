@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/习惯养成.md",
+                "file": "学车/科目二/Day02.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba5b5dafa0dafc2e",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6d2ed2cf3f60f738",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/习惯养成.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -119,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/习惯养成.md",
+                "file": "学车/科目二/Day02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/习惯养成.md",
+                "file": "学车/科目二/Day02.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/习惯养成.md"
+                "file": "学车/科目二/Day02.md"
               }
             }
           },
@@ -207,18 +189,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d2ed2cf3f60f738",
+  "active": "228af2320436c4ab",
   "lastOpenFiles": [
-    "工具/Obsidian/00_入门_初识obsidian.md",
+    "学车/未命名.md",
+    "学车/科目二/Day02.md",
+    "学车/科目二/Day0.md",
+    "编程/前端/JavaScript/Vue/vue.md",
+    "未命名.md",
+    "编程/后端/PHP/Laravel/启动一个新项目.md",
+    "编程/前端/vite.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "编程/数据库/MySQL/异常/启动失败.md",
     "Inbox/习惯养成.md",
+    "工具/Obsidian/00_入门_初识obsidian.md",
     "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
     "Inbox/纠结.md",
     "Inbox/科学素养.md",
     "Inbox/关于写作.md",
     "学车/科目二/Day1.md",
-    "学车/未命名.md",
     "学车/科目二",
-    "学车/科目二/Day0.md",
     "面试经验/准备.md",
     "面试经验/润迅数智.md",
     "面试经验/面经.md",
@@ -230,15 +219,8 @@
     "间歇笔记/生活日志/2024-04-01_星期一.md",
     "工具/Obsidian/插件/obsidian_git.md",
     "面试经验/奇宏.md",
-    "面试经验/富士康.md",
-    "Private/控制自己的欲望.md",
-    "未命名.md",
-    "集锦/202403.md",
     "未命名",
     "Private",
-    "基础学科/英语/多领国/第三部分/使用省略.md",
-    "Inbox/个人困境.md",
-    "Inbox/关于婚姻.md",
     "工业工程/images/11.jpg",
     "工业工程/images/10.jpg",
     "学车/images/Snipaste_2024-03-26_15-08-37.png",
