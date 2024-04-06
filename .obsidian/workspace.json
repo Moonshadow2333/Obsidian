@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "65db0f161c9eff18",
+        "id": "735b80a10ae64f5f",
         "type": "tabs",
         "children": [
           {
-            "id": "228af2320436c4ab",
+            "id": "f2a1f592fffdc270",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day02.md",
+                "file": "Inbox/如何写简历.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "654b8fbf5716e2a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c25fae1e089a37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "基础学科/英语/多领国/多领国实践设计.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -101,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目二/Day02.md",
+                "file": "Inbox/如何写简历.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目二/Day02.md",
+                "file": "Inbox/如何写简历.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +153,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76135687776062fc",
@@ -147,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目二/Day02.md"
+                "file": "Inbox/如何写简历.md"
               }
             }
           },
@@ -189,36 +208,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "228af2320436c4ab",
+  "active": "f2a1f592fffdc270",
   "lastOpenFiles": [
-    "学车/未命名.md",
-    "学车/科目二/Day02.md",
-    "学车/科目二/Day0.md",
-    "编程/前端/JavaScript/Vue/vue.md",
-    "未命名.md",
-    "编程/后端/PHP/Laravel/启动一个新项目.md",
-    "编程/前端/vite.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
-    "编程/数据库/MySQL/异常/启动失败.md",
-    "Inbox/习惯养成.md",
-    "工具/Obsidian/00_入门_初识obsidian.md",
-    "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
-    "Inbox/纠结.md",
-    "Inbox/科学素养.md",
-    "Inbox/关于写作.md",
-    "学车/科目二/Day1.md",
-    "学车/科目二",
-    "面试经验/准备.md",
-    "面试经验/润迅数智.md",
-    "面试经验/面经.md",
-    "面试经验/益普一面.md",
-    "面试经验/利典一面.md",
-    "面试经验/奥库一面.md",
-    "编程/数据库/MySQL/锁机制/未命名.md",
-    "间歇笔记/生活日志/2024-03-29_星期五.md",
+    "Inbox/简历.md",
+    "Private/控制自己的欲望.md",
+    "间歇笔记/生活日志/2024-04-06_星期六.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
     "间歇笔记/生活日志/2024-04-01_星期一.md",
-    "工具/Obsidian/插件/obsidian_git.md",
-    "面试经验/奇宏.md",
+    "间歇笔记/生活日志/2024-03-29_星期五.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "基础学科/英语/多领国/多领国实践设计.md",
+    "基础学科/英语/语法/大纲.md",
+    "基础学科/英语/工作流/工作流设计.md",
+    "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
+    "学车/科目二/Day04.md",
+    "学车/科目二/Day02.md",
+    "学车/科目二/Day1.md",
+    "学车/科目二/Day0.md",
+    "摄影/照片的意义.md",
+    "间歇笔记/游玩日志.md",
+    "间歇笔记/现实快照/2023.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
+    "学车/科目二",
     "未命名",
     "Private",
     "工业工程/images/11.jpg",
