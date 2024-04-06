@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "735b80a10ae64f5f",
+        "id": "777f496563cea099",
         "type": "tabs",
         "children": [
           {
-            "id": "f2a1f592fffdc270",
+            "id": "68560a6b10608a2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/如何写简历.md",
+                "file": "基础学科/英语/多领国/多领国实践设计.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "654b8fbf5716e2a9",
+        "id": "955dfe1886d881da",
         "type": "tabs",
         "children": [
           {
-            "id": "9c25fae1e089a37f",
+            "id": "66054590c1a786ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/多领国实践设计.md",
+                "file": "基础学科/英语/多领国/第三部分/使用省略.md",
                 "mode": "preview",
                 "source": true
               }
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/如何写简历.md",
+                "file": "基础学科/英语/多领国/多领国实践设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/如何写简历.md",
+                "file": "基础学科/英语/多领国/多领国实践设计.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -153,8 +153,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76135687776062fc",
@@ -166,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/如何写简历.md"
+                "file": "基础学科/英语/多领国/多领国实践设计.md"
               }
             }
           },
@@ -208,12 +207,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2a1f592fffdc270",
+  "active": "68560a6b10608a2a",
   "lastOpenFiles": [
+    "基础学科/英语/多领国/第三部分/使用省略.md",
+    "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
+    "基础学科/英语/多领国/多领国实践设计.md",
+    "基础学科/英语/images",
+    "基础学科/新建 WPS PDF 文档.pdfwpsshellnew",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "生活/202310/10月.md",
+    "生活/202310/2023-10-13-梦.md",
+    "生活/202401/2023年存档.md",
+    "生活/202401/未命名.md",
+    "基础学科/英语/工作流/工作流设计.md",
+    "工具/Obsidian/01_进阶_如何有效记笔记.md",
+    "Inbox/如何写简历.md",
     "Inbox/简历.md",
     "Private/控制自己的欲望.md",
     "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
     "间歇笔记/生活日志/2024-02-27_星期二.md",
     "间歇笔记/生活日志/2024-03-07_星期四.md",
     "间歇笔记/生活日志/2024-01-31_星期三.md",
@@ -224,18 +235,8 @@
     "间歇笔记/生活日志/2023-11-23_星期四.md",
     "间歇笔记/生活日志/2023-12-07_星期四.md",
     "间歇笔记/生活日志/2024-03-09_星期六.md",
-    "基础学科/英语/多领国/多领国实践设计.md",
     "基础学科/英语/语法/大纲.md",
-    "基础学科/英语/工作流/工作流设计.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段四/02_随机算法、外存算法和更多/第一章_随机算法/00_随机算法大纲.md",
-    "学车/科目二/Day04.md",
-    "学车/科目二/Day02.md",
-    "学车/科目二/Day1.md",
-    "学车/科目二/Day0.md",
-    "摄影/照片的意义.md",
-    "间歇笔记/游玩日志.md",
-    "间歇笔记/现实快照/2023.md",
-    "间歇笔记/生活日志/2024-03-11_星期一.md",
     "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
     "学车/科目二",
     "未命名",
@@ -249,13 +250,10 @@
     "编程/纲领/imgs/point.png",
     "编程/纲领/imgs",
     "0C93A85C.png",
-    "学车/images/模考_轻型牵引挂车.jpg",
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",
     "读书",
-    "生活/images",
-    "工业工程/images",
     "编程/未命名.canvas"
   ]
 }
