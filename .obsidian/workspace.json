@@ -13,26 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+                "file": "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0bd4260441e772f7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f03d934f7d115d57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -119,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+                "file": "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+                "file": "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md"
+                "file": "读书/批判性思维工具/第七章_掌握思维，掌握内容.md"
               }
             }
           },
@@ -189,7 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 295.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,35 +191,36 @@
   },
   "active": "68560a6b10608a2a",
   "lastOpenFiles": [
+    "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
+    "编程/纲领/最佳编程实践.md",
+    "Inbox/关于写作.md",
+    "Inbox/水滴石穿.md",
+    "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
+    "读书/批判性思维工具/第十一章_应对自身的非理性.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "基础学科/英语/多领国/多领国实践设计.md",
+    "读书/批判性思维工具/第三章_自我理解.md",
+    "读书/批判性思维工具/批判实践.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "间歇笔记/生活日志/2024-04-06_星期六.md",
+    "工业工程/人机料法环.md",
+    "工业工程/ReadMe.md",
+    "工业工程/大纲.md",
+    "工业工程/PDCA 循环.md",
+    "工业工程/招聘要求.md",
+    "工业工程/公司.md",
+    "工业工程/准备.md",
+    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
+    "工业工程/SOP.md",
+    "工业工程/标准工时.md",
+    "学车/科目二/Day04.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/多领国/第三部分/使用省略.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "间歇笔记/游玩日志.md",
-    "读书/批判性思维工具/第三章_自我理解.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
     "集锦/202403.md",
-    "基础学科/英语/多领国/第三部分/使用反问.md",
-    "基础学科/英语/多领国/多领国实践设计.md",
-    "编程/算法与数据结构/算法与数据结构体系课/练习.md",
-    "摄影/摄影间歇笔记与实践日志.md",
-    "摄影/照片的意义.md",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
     "基础学科/新建 WPS PDF 文档.pdfwpsshellnew",
-    "生活/202310/10月.md",
-    "生活/202310/2023-10-13-梦.md",
-    "生活/202401/2023年存档.md",
-    "生活/202401/未命名.md",
-    "基础学科/英语/工作流/工作流设计.md",
-    "工具/Obsidian/01_进阶_如何有效记笔记.md",
-    "Inbox/如何写简历.md",
-    "Inbox/简历.md",
-    "Private/控制自己的欲望.md",
-    "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "间歇笔记/生活日志/2024-02-27_星期二.md",
-    "间歇笔记/生活日志/2024-03-07_星期四.md",
-    "间歇笔记/生活日志/2024-01-31_星期三.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
     "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
     "学车/科目二",
     "未命名",
@@ -254,7 +237,6 @@
     "编程/项目回顾",
     "编程/项目回顾/images",
     "读书/批判性思维工具",
-    "读书",
     "编程/未命名.canvas"
   ]
 }
