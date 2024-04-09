@@ -334,19 +334,247 @@ sayHi("John"); // Hello, John!（3 秒后）
 ## 什么是 Reflect
 
 > `Reflect` 是一个内建对象，可简化 `Proxy` 的创建。
+>`Reflect` 对象使调用内部方法，例如 `GET`、`SET`，成为了可能。它的方法是内部方法的最小包装。
+
+以下是执行相同操作和 `Reflect` 调用的示例：
 
 
-### 代理一个 getter
+| 操作              | Reflect 调用                      | 内部方法  |
+| ----------------- | --------------------------------- | --------- |
+| obj[prop]         | Reflect.get(obj, prop)            | Get       |
+| obj[prop] = value | Reflect.set(obj, prop, value)     | Set       |
+| delete obj[prop]  | Reflect.deleteProperty(obj, prop) | Delete    |
+| new F(value)      | Reflect.construct(F, value)       | Construct | 
+| ...               | ...                               | ...       |
+
+例子：
+
+```JS
+let user = {};
+
+Reflect.set(user, 'name', 'John');
+
+alert(user.name); // John
+```
+
+从上面的例子中我们看出，`Reflect` 允许我们将操作符（`new`，`delete`，……）作为函数（`Reflect.construct`，`Reflect.deleteProperty`，……）执行调用。
+
+**对于每个可被 `Proxy` 捕获的内部方法，在 `Reflect` 中都有一个对应的方法，其名称和参数与 `Proxy` 捕捉器相同。**
+
+所以，我们可以使用 `Reflect` 来将操作转发给原始对象。
+
+```JS
+let user = {
+  name: "John",
+};
+
+user = new Proxy(user, {
+  get(target, prop, receiver) {
+    alert(`GET ${prop}`);
+    return Reflect.get(target, prop, receiver); // (1)
+  },
+  set(target, prop, val, receiver) {
+    alert(`SET ${prop}=${val}`);
+    return Reflect.set(target, prop, val, receiver); // (2)
+  }
+});
+
+let name = user.name; // 显示 "GET name"
+user.name = "Pete"; // 显示 "SET name=Pete"
+```
+
+这里：
+
+- `Reflect.get` 读取一个对象属性。
+- `Reflect.set` 写入一个对象属性，
+
+这样，一切都很简单：如果一个捕捉器想要将调用转发给对象，则只需使用相同的参数调用 `Reflect.<method>` 就足够了。
+
+在大多数情况下，我们可以在不使用 `Reflect`的情况下完成相同的事情，例如，用于读取属性的 `Reflect.get(target, prop, receiver)` 可以被替换为 `target[prop]`。尽管有一些细微的差别。
+
+说实话，我不太理解这个例子中使用 Reflect 的优势在哪？在 Proxy 中使用 Reflect，这不是多此一举吗？
+
+### Reflect 的优势
+
+前文提到，Reflect 调用的命名与捕捉器的命名完全相同，并接受相同的参数。但是 Reflect 比捕捉器更有一些优势，即 Reflect 提供了一个安全的方式，可以轻松地转发操作，并确保我们不会忘记与此相关的任何内容。我们可以通过代理一个 getter 获取继承对象属性的例子，来直观地理解这种优势。
+
+#### 代理一个 getter
+
+我们有一个带有 `_name` 属性和 getter 的对象 `user`以及对 `user` 对象的一个代理：
+
+```JS
+let user = {
+  _name: "Guest",
+  get name() {
+    return this._name;
+  }
+};
+
+let userProxy = new Proxy(user, {
+  get(target, prop, receiver) {
+    return target[prop];
+  }
+});
+
+alert(userProxy.name); // Guest
+```
+
+其 `get` 捕捉器在这里是“透明的”，它返回原来的属性，不会做任何其他的事。
+
+下面我们将情况变得复杂一点，让对象 admin 继承 user。不过对象 `admin` 从 `user` 继承后，我们观察到了错误的行为：
+
+```JS
+let user = {
+  _name: "Guest",
+  get name() {
+    return this._name;
+  }
+};
+
+let userProxy = new Proxy(user, {
+  get(target, prop, receiver) {
+    return target[prop]; // (*) target = user
+  }
+});
+
+let admin = {
+  __proto__: userProxy,
+  _name: "Admin"
+};
+
+// 期望输出：Admin
+alert(admin.name); // 输出：Guest (?!?)
+```
+
+读取 `admin.name` 应该返回 `"Admin"`，而不是 `"Guest"`！
+
+发生了什么？或许我们在继承方面做错了什么？
+
+但是，如果我们移除代理，那么一切都会按预期进行。
+
+问题实际上出在代理中，在 `(*)` 行。
+
+1. 当我们读取 `admin.name` 时，由于 `admin` 对象自身没有对应的的属性，搜索将转到其原型。
+2. 原型是 `userProxy`。
+3. 从代理读取 `name` 属性时，`get` 捕捉器会被触发，并从原始对象返回 `target[prop]` 属性，在 `(*)` 行。当调用 `target[prop]` 时，若 `prop` 是一个 getter，它将在 `this=target` 上下文中运行其代码。因此，结果是来自原始对象 `target` 的 `this._name`，即来自 `user`。
+
+为了解决这种情况，我们需要 `get` 捕捉器的第三个参数 `receiver`。它保证将正确的 `this` 传递给 getter。在我们的例子中是 `admin`。
+
+如何把上下文传递给 getter？对于一个常规函数，我们可以使用 `call/apply`，但这是一个 getter，它不能“被调用”，只能被访问。
+
+`Reflect.get` 可以做到。如果我们使用它，一切都会正常运行，代码如下：
+
+```JS
+let user = {
+  _name: "Guest",
+  get name() {
+    return this._name;
+  }
+};
+
+let userProxy = new Proxy(user, {
+  get(target, prop, receiver) { // receiver = admin
+    return Reflect.get(target, prop, receiver); // (*)
+  }
+});
+
+
+let admin = {
+  __proto__: userProxy,
+  _name: "Admin"
+};
+
+alert(admin.name); // Admin
+```
+
+现在 `receiver` 保留了对正确 `this` 的引用（即 `admin`），该引用是在 `(*)` 行中被通过 `Reflect.get` 传递给 getter 的。
+
+我们可以把捕捉器重写得更短：
+
+```JS
+get(target, prop, receiver) {
+  return Reflect.get(...arguments);
+}
+```
 
 ## Proxy 的局限性
 
 ### 内建对象：内部插槽（Internal slot）
 
+许多内建对象，例如 `Map`，`Set`，`Date`，`Promise` 等，都使用了所谓的“内部插槽”。
+
+它们类似于属性，但仅限于内部使用，仅用于规范目的。例如，`Map` 将项目（item）存储在 `[[MapData]]` 中。内建方法可以直接访问它们，而不通过 `[[Get]]/[[Set]]` 内部方法。所以 `Proxy` 无法拦截它们。
+
 ### 私有字段
+
+类的私有字段也会发生类似的情况，因为私有字段也是通过内部插槽实现的。JavaScript 在访问它们时不使用 `[[Get]]/[[Set]]`。
 
 ### Proxy != target
 
-### 可撤销 Proxy
+代理和原始对象是不同的对象。这很自然，对吧？
+
+## 可撤销 Proxy
+
+一个 **可撤销** 的代理是可以被禁用的代理。
+
+假设我们有一个资源，并且想随时关闭对该资源的访问。
+
+我们可以做的是将它包装成可一个撤销的代理，没有任何捕捉器。这样的代理会将操作转发给对象，并且我们可以随时将其禁用。
+
+语法为：
+
+```JS
+let {proxy, revoke} = Proxy.revocable(target, handler)
+```
+
+该调用返回一个带有 `proxy` 和 `revoke` 函数的对象以将其禁用。
+
+这是一个例子：
+
+```JS
+let object = {
+  data: "Valuable data"
+};
+
+let {proxy, revoke} = Proxy.revocable(object, {});
+
+// 将 proxy 传递到其他某处，而不是对象...
+alert(proxy.data); // Valuable data
+
+// 稍后，在我们的代码中
+revoke();
+
+// proxy 不再工作（revoked）
+alert(proxy.data); // Error
+```
+
+对 `revoke()` 的调用会从代理中删除对目标对象的所有内部引用，因此它们之间再无连接。
+
+最初，`revoke` 与 `proxy` 是分开的，因此我们可以传递 `proxy`，同时将 `revoke` 留在当前范围内。
+
+我们也可以通过设置 `proxy.revoke = revoke` 来将 `revoke` 绑定到 `proxy`。
+
+另一种选择是创建一个 `WeakMap`，其中 `proxy` 作为键，相应的 `revoke` 作为值，这样可以轻松找到 `proxy` 所对应的 `revoke`：
+
+```JS
+let revokes = new WeakMap();
+
+let object = {
+  data: "Valuable data"
+};
+
+let {proxy, revoke} = Proxy.revocable(object, {});
+
+revokes.set(proxy, revoke);
+
+// ...我们代码中的其他位置...
+revoke = revokes.get(proxy);
+revoke();
+
+alert(proxy.data); // Error（revoked）
+```
+
+此处我们使用 `WeakMap` 而不是 `Map`，因为它不会阻止垃圾回收。如果一个代理对象变得“不可访问”（例如，没有变量再引用它），则 `WeakMap` 允许将其与它的 `revoke` 一起从内存中清除，因为我们不再需要它了。
 
 ## 实践
 
