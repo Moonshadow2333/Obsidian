@@ -578,6 +578,165 @@ alert(proxy.data); // Error（revoked）
 
 ## 实践
 
+### 尝试读取不存在的属性时，抛出一个异常
+
+通常，尝试读取不存在的属性会返回 `undefined`。
+
+创建一个代理，在尝试读取不存在的属性时，该代理抛出一个错误。
+
+我自己实现的代码：
+
+```JS
+let user = {
+    name: "John"
+};
+
+function wrap(target) {
+    return new Proxy(target, {
+        /* 你的代码 */
+        get(target, prop) {
+            if (prop in target) {
+                return target[prop];
+            } else {
+                throw new Error("ReferenceError: Property doesn't exist: " + prop);
+            }
+        }
+    });
+}
+
+user = wrap(user);
+
+alert(user.name); // John
+alert(user.age); // ReferenceError: Property doesn't exist: "age"
+```
+
+参考代码：
+
+```JS
+let user = {
+  name: "John"
+};
+
+function wrap(target) {
+  return new Proxy(target, {
+    get(target, prop, receiver) {
+      if (prop in target) {
+        return Reflect.get(target, prop, receiver);
+      } else {
+        throw new ReferenceError(`Property doesn't exist: "${prop}"`)
+      }
+    }
+  });
+}
+
+user = wrap(user);
+
+alert(user.name); // John
+alert(user.age); // ReferenceError: Property doesn't exist: "age"
+```
+
+### 访问 array[-1]
+
+自己实现的代码：
+
+```JS
+let array = [1, 2, 3];
+
+array = new Proxy(array, {
+    get(target, prop) {
+        return target[target.length + parseInt(prop)];
+    }
+});
+
+alert(array[-1]); // 3
+alert(array[-2]); // 2
+
+// 其他数组功能应保持“原样”
+```
+
+还是存在问题，题目中提到了其他数组功能应该保持“原样”，那我直接访问 array[1] 就会报错，正确的代码如下：
+
+```JS
+let array = [1, 2, 3];
+
+array = new Proxy(array, {
+  get(target, prop, receiver) {
+    if (prop < 0) {
+      // 即使我们像 arr[1] 这样访问它
+      // prop 是一个字符串，所以我们需要将其转换成数字
+      prop = +prop + target.length;
+    }
+    return Reflect.get(target, prop, receiver);
+  }
+});
+
+
+alert(array[-1]); // 3
+alert(array[-2]); // 2
+```
+
+### 可观察的（Observable）
+
+创建一个函数 `makeObservable(target)`，该函数通过返回一个代理“使得对象可观察”。
+
+其工作方式如下：
+
+```JS
+function makeObservable(target) {
+  /* 你的代码 */
+}
+
+let user = {};
+user = makeObservable(user);
+
+user.observe((key, value) => {
+  alert(`SET ${key}=${value}`);
+});
+
+user.name = "John"; // alerts: SET name=John
+```
+
+换句话说，`makeObservable` 返回的对象就像原始对象一样，但是具有 `observe(handler)` 方法，该方法可以将 `handler` 函数设置为在任何属性被更改时，都会被调用的函数。
+
+每当有属性被更改时，都会使用属性的名称和属性值调用 `handler(key, value)` 函数。
+
+P.S. 在本任务中，你可以只关注属性写入。其他的操作可以通过类似的方式实现。
+
+```JS
+let handlers = Symbol('handlers');
+
+function makeObservable(target) {
+  // 1. 初始化 handler 存储
+  target[handlers] = [];
+
+  // 将 handler 函数存储到数组中，以便于之后调用
+  target.observe = function(handler) {
+    this[handlers].push(handler);
+  };
+
+  // 2. 创建一个 proxy 以处理更改
+  return new Proxy(target, {
+    set(target, property, value, receiver) {
+      let success = Reflect.set(...arguments); // 将操作转发给对象
+      if (success) { // 如果在设置属性时没有出现 error
+        // 调用所有 handler
+        target[handlers].forEach(handler => handler(property, value));
+      }
+      return success;
+    }
+  });
+}
+
+let user = {};
+
+user = makeObservable(user);
+
+user.observe((key, value) => {
+  alert(`SET ${key}=${value}`);
+});
+
+user.name = "John";
+```
 ## 参考
 
 [Proxy 和 Reflect (javascript.info)](https://zh.javascript.info/proxy#shi-yong-set-bu-zhuo-qi-jin-hang-yan-zheng)

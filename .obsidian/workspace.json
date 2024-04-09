@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "777f496563cea099",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "68560a6b10608a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "7f16e34ca4586a61",
         "type": "tabs",
         "children": [
@@ -32,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true
               }
             }
@@ -209,17 +191,17 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
+    "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
+    "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "学车/科目二/Day04.md",
     "学车/科目二/Day05.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "Inbox/ob 借鉴他人经验.md",
     "Inbox/水滴石穿.md",
     "Inbox/科学素养.md",
     "Inbox/人生建议.md",
-    "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
     "编程/纲领/最佳编程实践.md",
     "Inbox/关于写作.md",
-    "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
     "读书/批判性思维工具/第十一章_应对自身的非理性.md",
     "间歇笔记/生活日志/2024-03-25_星期一.md",
     "基础学科/英语/多领国/多领国实践设计.md",
