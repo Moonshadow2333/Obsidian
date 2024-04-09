@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-                "mode": "preview",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76135687776062fc",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md"
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md"
               }
             }
           },
@@ -191,13 +192,15 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
+    "学车/科目二/Day06.md",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "学车/科目二/Day05.md",
     "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
     "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "编程/前端/JavaScript/Object 基础知识",
     "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
     "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
     "学车/科目二/Day04.md",
-    "学车/科目二/Day05.md",
     "Inbox/ob 借鉴他人经验.md",
     "Inbox/水滴石穿.md",
     "Inbox/科学素养.md",
@@ -216,8 +219,6 @@
     "工业工程/PDCA 循环.md",
     "工业工程/招聘要求.md",
     "工业工程/公司.md",
-    "工业工程/准备.md",
-    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
