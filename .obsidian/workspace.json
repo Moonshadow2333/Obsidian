@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -191,9 +191,11 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
+    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "编程/前端/JavaScript/Object 基础知识",
     "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
     "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "学车/科目二/Day04.md",
     "学车/科目二/Day05.md",
     "Inbox/ob 借鉴他人经验.md",
@@ -216,7 +218,6 @@
     "工业工程/公司.md",
     "工业工程/准备.md",
     "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
-    "工业工程/SOP.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
@@ -236,7 +237,6 @@
     "0C93A85C.png",
     "编程/项目回顾",
     "编程/项目回顾/images",
-    "读书/批判性思维工具",
     "编程/未命名.canvas"
   ]
 }
