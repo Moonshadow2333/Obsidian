@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/水滴石穿.md",
+                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "索引",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/水滴石穿.md",
+                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/水滴石穿.md",
+                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/水滴石穿.md"
+                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md"
               }
             }
           },
@@ -191,18 +191,22 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
+    "Private/控制自己的欲望.md",
+    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
+    "编程/前端/JavaScript/函数进阶内容",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "Inbox/水滴石穿.md",
     "Inbox/人生建议.md",
     "Inbox/纠结.md",
-    "Inbox/水滴石穿.md",
     "编程/数据库/MySQL/安装两个版本的数据库.md",
     "编程/数据库/MySQL/异常/启动失败.md",
     "编程/数据库/MySQL/锁机制/未命名.md",
     "集锦/202403.md",
-    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "学车/科目二/Day06.md",
     "学车/科目二/Day05.md",
-    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "编程/前端/JavaScript/Object 基础知识",
     "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
     "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
@@ -215,9 +219,6 @@
     "间歇笔记/生活日志/2024-03-25_星期一.md",
     "基础学科/英语/多领国/多领国实践设计.md",
     "读书/批判性思维工具/第三章_自我理解.md",
-    "读书/批判性思维工具/批判实践.md",
-    "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "工业工程/人机料法环.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
@@ -236,7 +237,6 @@
     "编程/纲领/imgs",
     "0C93A85C.png",
     "编程/项目回顾",
-    "编程/项目回顾/images",
     "编程/未命名.canvas"
   ]
 }
