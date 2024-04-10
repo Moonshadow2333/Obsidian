@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
-                "mode": "source",
+                "file": "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+                "file": "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+                "file": "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/JavaScript/Object 基础知识/对象方法，this.md"
+                "file": "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md"
               }
             }
           },
@@ -191,11 +191,11 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
     "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
     "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
     "Private/控制自己的欲望.md",
-    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
     "编程/前端/JavaScript/函数进阶内容",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "Inbox/水滴石穿.md",
