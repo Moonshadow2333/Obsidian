@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
+                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
                 "mode": "source",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
+                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
+                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-01_星期一.md"
+                "file": "间歇笔记/生活日志/2024-04-11_星期四.md"
               }
             }
           },
@@ -191,10 +191,12 @@
   },
   "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2024-04-11_星期四.md",
+    "间歇笔记/生活日志/2024-04-01_星期一.md",
     "间歇笔记/生活日志/2024-04-06_星期六.md",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "基础学科/英语/多领国/探索一个城市.md",
-    "间歇笔记/生活日志/2024-04-10_星期三.md",
     "编程/前端/vite.md",
     "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
     "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
@@ -217,8 +219,6 @@
     "学车/科目二/Day04.md",
     "Inbox/ob 借鉴他人经验.md",
     "Inbox/科学素养.md",
-    "编程/纲领/最佳编程实践.md",
-    "Inbox/关于写作.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
