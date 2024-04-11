@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
                 "mode": "source",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "汗",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "间歇笔记/生活日志/2024-04-01_星期一.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md"
+                "file": "间歇笔记/生活日志/2024-04-01_星期一.md"
               }
             }
           },
@@ -190,10 +189,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9002293f4c1e8001",
+  "active": "0c17c771d7d7d8f5",
   "lastOpenFiles": [
-    "基础学科/英语/多领国/探索一个城市.md",
+    "间歇笔记/生活日志/2024-04-06_星期六.md",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "基础学科/英语/多领国/探索一个城市.md",
     "间歇笔记/生活日志/2024-04-10_星期三.md",
     "编程/前端/vite.md",
     "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
@@ -219,7 +219,6 @@
     "Inbox/科学素养.md",
     "编程/纲领/最佳编程实践.md",
     "Inbox/关于写作.md",
-    "读书/批判性思维工具/第十一章_应对自身的非理性.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
