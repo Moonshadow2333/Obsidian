@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "7f16e34ca4586a61",
+        "id": "453284ba30ff279f",
         "type": "tabs",
         "children": [
           {
-            "id": "0c17c771d7d7d8f5",
+            "id": "033c2c03423c2653",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
+                "file": "工业工程/IE系统规划工程师.md",
                 "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d89e17d3c81fb511",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea90af25f7a2290e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "工业工程/IE系统规划工程师.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -101,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
+                "file": "工业工程/IE系统规划工程师.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-11_星期四.md",
+                "file": "工业工程/IE系统规划工程师.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-11_星期四.md"
+                "file": "工业工程/IE系统规划工程师.md"
               }
             }
           },
@@ -189,36 +207,36 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c17c771d7d7d8f5",
+  "active": "033c2c03423c2653",
   "lastOpenFiles": [
-    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "Inbox/纠结.md",
+    "工业工程/IE系统规划工程师.md",
+    "面试经验/富士康.md",
+    "Inbox/水滴石穿.md",
+    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
     "间歇笔记/生活日志/2024-04-11_星期四.md",
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-12_星期二.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "间歇笔记/生活日志/2024-03-27_星期三.md",
+    "间歇笔记/生活日志/2024-03-28_星期四.md",
+    "间歇笔记/生活日志/2024-03-29_星期五.md",
     "间歇笔记/生活日志/2024-04-01_星期一.md",
     "间歇笔记/生活日志/2024-04-06_星期六.md",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "基础学科/英语/多领国/探索一个城市.md",
     "编程/前端/vite.md",
-    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
-    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
-    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-    "Private/控制自己的欲望.md",
     "编程/前端/JavaScript/函数进阶内容",
-    "Inbox/水滴石穿.md",
-    "Inbox/人生建议.md",
-    "Inbox/纠结.md",
-    "编程/数据库/MySQL/安装两个版本的数据库.md",
-    "编程/数据库/MySQL/异常/启动失败.md",
-    "编程/数据库/MySQL/锁机制/未命名.md",
-    "集锦/202403.md",
-    "学车/科目二/Day06.md",
-    "学车/科目二/Day05.md",
     "编程/前端/JavaScript/Object 基础知识",
-    "读书/批判性思维工具/第七章_掌握思维，掌握内容.md",
-    "读书/批判性思维工具/第八章_了解优秀思维者是如何学习的.md",
-    "学车/科目二/Day04.md",
-    "Inbox/ob 借鉴他人经验.md",
-    "Inbox/科学素养.md",
     "编程/前端/JavaScript/杂项",
     "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
     "基础学科/英语/images",
