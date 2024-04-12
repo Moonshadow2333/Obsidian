@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "453284ba30ff279f",
+        "id": "190eef0c393858fd",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 48.35978835978836,
         "children": [
           {
-            "id": "033c2c03423c2653",
+            "id": "49eb3bc367b5bb4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "Inbox/五险一金.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +23,17 @@
         ]
       },
       {
-        "id": "9d975e500b02d220",
+        "id": "1bd6eeb887a4110c",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 51.64021164021164,
         "children": [
           {
-            "id": "99b93cc009e1ff25",
+            "id": "2d9cdadad7079e6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "Inbox/五险一金.md",
                 "mode": "preview",
                 "source": true
               }
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "time square",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "Inbox/五险一金.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+                "file": "Inbox/五险一金.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -156,7 +155,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76135687776062fc",
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md"
+                "file": "Inbox/五险一金.md"
               }
             }
           },
@@ -210,54 +210,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "033c2c03423c2653",
+  "active": "49eb3bc367b5bb4c",
   "lastOpenFiles": [
+    "Inbox/images/IAHF_35.png",
+    "Inbox/images/IAHF_35.png.crdownload",
+    "Inbox/images/IAHF_34.png",
+    "Inbox/images/IAHF_34.png.crdownload",
+    "Inbox/images/IAHF_33.png",
+    "Inbox/images/IAHF_33.png.crdownload",
+    "Inbox/images/IAHF_32.png",
+    "Inbox/images/IAHF_32.png.crdownload",
+    "Inbox/images/IAHF_31.png",
+    "Inbox/images/IAHF_31.png.crdownload",
+    "Inbox/images/IAHF_30.png.crdownload",
+    "Inbox/images/IAHF_30.png",
+    "Inbox/images/IAHF_29.png",
+    "Inbox/images/IAHF_29.png.crdownload",
+    "Inbox/images/IAHF_28.png",
+    "Inbox/images/IAHF_28.png.crdownload",
+    "Inbox/images/IAHF_27.png",
+    "Inbox/images/IAHF_27.png.crdownload",
+    "Inbox/images/IAHF_26.png",
+    "Inbox/images/IAHF_26.png.crdownload",
+    "Inbox/images/IAHF_25.png",
+    "Inbox/HDR和Delighting.md",
+    "Inbox/五险一金.md",
     "工业工程/IE系统规划工程师.md",
-    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
-    "Inbox/纠结.md",
-    "面试经验/富士康.md",
-    "Inbox/水滴石穿.md",
-    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
-    "间歇笔记/生活日志/2024-04-11_星期四.md",
-    "间歇笔记/生活日志/2024-04-10_星期三.md",
-    "间歇笔记/生活日志/2023-11-23_星期四.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
-    "间歇笔记/生活日志/2023-12-07_星期四.md",
-    "间歇笔记/生活日志/2024-01-31_星期三.md",
-    "间歇笔记/生活日志/2024-02-27_星期二.md",
-    "间歇笔记/生活日志/2024-03-07_星期四.md",
-    "间歇笔记/生活日志/2024-03-09_星期六.md",
-    "间歇笔记/生活日志/2024-03-11_星期一.md",
-    "间歇笔记/生活日志/2024-03-12_星期二.md",
-    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "基础学科/英语/多领国/多领国实践设计.md",
     "间歇笔记/生活日志/2024-03-25_星期一.md",
-    "间歇笔记/生活日志/2024-03-27_星期三.md",
+    "编程/项目回顾/催看青年大学习脚本回顾.md",
+    "Inbox/水滴石穿.md",
+    "基础学科/英语/多领国/第三部分/使用省略.md",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "工具/Obsidian/00_入门_初识obsidian.md",
+    "面试经验/面经.md",
+    "面试经验/准备.md",
+    "面试经验/益普一面.md",
+    "面试经验/奥库一面.md",
+    "面试经验/利典一面.md",
+    "面试经验/金威源一面.md",
+    "面试经验/富士康.md",
+    "面试经验/奇宏.md",
+    "面试经验/润迅数智.md",
     "间歇笔记/生活日志/2024-03-28_星期四.md",
     "间歇笔记/生活日志/2024-03-29_星期五.md",
     "间歇笔记/生活日志/2024-04-01_星期一.md",
     "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "基础学科/英语/多领国/探索一个城市.md",
-    "编程/前端/vite.md",
-    "编程/前端/JavaScript/函数进阶内容",
-    "编程/前端/JavaScript/Object 基础知识",
-    "编程/前端/JavaScript/杂项",
-    "基础学科/英语/images/Snipaste_2024-04-06_21-10-54.png",
-    "基础学科/英语/images",
-    "基础学科/新建 WPS PDF 文档.pdfwpsshellnew",
-    "工具/Obsidian/images/Snipaste_2024-04-03_22-43-03.png",
-    "学车/科目二",
-    "未命名",
-    "Private",
-    "工业工程/images/11.jpg",
-    "工业工程/images/10.jpg",
-    "学车/images/Snipaste_2024-03-26_15-08-37.png",
-    "199B8699.png",
-    "工具/Obsidian/images/Snipaste_2024-03-25_22-34-52.png",
-    "编程/纲领/imgs/master.png",
-    "编程/纲领/imgs/point.png",
-    "编程/纲领/imgs",
-    "0C93A85C.png",
-    "编程/项目回顾",
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2024-04-11_星期四.md",
     "编程/未命名.canvas"
   ]
 }
