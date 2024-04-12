@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "190eef0c393858fd",
+        "id": "1bd6eeb887a4110c",
         "type": "tabs",
-        "dimension": 48.35978835978836,
         "children": [
           {
-            "id": "49eb3bc367b5bb4c",
+            "id": "2d9cdadad7079e6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/五险一金.md",
+                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "mode": "source",
                 "source": true
               }
@@ -23,17 +22,16 @@
         ]
       },
       {
-        "id": "1bd6eeb887a4110c",
+        "id": "1b98a13d91995a47",
         "type": "tabs",
-        "dimension": 51.64021164021164,
         "children": [
           {
-            "id": "2d9cdadad7079e6f",
+            "id": "32fa30b14cb178c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/五险一金.md",
+                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "mode": "preview",
                 "source": true
               }
@@ -121,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/五险一金.md",
+                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/五险一金.md",
+                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -167,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/五险一金.md"
+                "file": "间歇笔记/生活日志/2024-04-12_星期五.md"
               }
             }
           },
@@ -209,8 +207,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "49eb3bc367b5bb4c",
+  "active": "2d9cdadad7079e6f",
   "lastOpenFiles": [
+    "Inbox/纠结.md",
+    "间歇笔记/生活日志/2024-04-12_星期五.md",
+    "间歇笔记/生活日志/2024-03-29_星期五.md",
+    "间歇笔记/生活日志/2024-04-01_星期一.md",
+    "间歇笔记/生活日志/2024-04-06_星期六.md",
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2024-04-11_星期四.md",
+    "未命名.canvas",
+    "Inbox/五险一金.md",
     "Inbox/images/IAHF_49.png",
     "Inbox/images/IAHF_49.png.crdownload",
     "Inbox/images/IAHF_48.png",
@@ -231,9 +238,7 @@
     "Inbox/images/IAHF_41.png.crdownload",
     "Inbox/images/IAHF_40.png",
     "Inbox/images/IAHF_40.png.crdownload",
-    "Inbox/images/IAHF_39.png",
     "Inbox/HDR和Delighting.md",
-    "Inbox/五险一金.md",
     "工业工程/IE系统规划工程师.md",
     "基础学科/英语/多领国/多领国实践设计.md",
     "间歇笔记/生活日志/2024-03-25_星期一.md",
@@ -251,12 +256,6 @@
     "面试经验/富士康.md",
     "面试经验/奇宏.md",
     "面试经验/润迅数智.md",
-    "间歇笔记/生活日志/2024-03-28_星期四.md",
-    "间歇笔记/生活日志/2024-03-29_星期五.md",
-    "间歇笔记/生活日志/2024-04-01_星期一.md",
-    "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "间歇笔记/生活日志/2024-04-10_星期三.md",
-    "间歇笔记/生活日志/2024-04-11_星期四.md",
     "编程/未命名.canvas"
   ]
 }
