@@ -25,3 +25,6 @@ MES 是 Manufacturing Execution System（[制造执行系统](https://www.zhihu.
 3. [(41 封私信 / 79 条消息) 制造执行系统（MES）的核心功能是什么? - 知乎 (zhihu.com)](https://www.zhihu.com/question/19755470)
 4. [小白入门MES - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/408450525)
 5. [(41 封私信 / 79 条消息) 想成为一名MES系统的项目经理，小白一名该如何下手学习？ - 知乎 (zhihu.com)](https://www.zhihu.com/question/46780908)
+
+什么是 MES 系统？
+要成为一名 MES 系统的项目经理，该学习哪些内容？

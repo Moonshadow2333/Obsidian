@@ -6,6 +6,7 @@
       {
         "id": "453284ba30ff279f",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "033c2c03423c2653",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工业工程/IE系统规划工程师.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,16 +23,17 @@
         ]
       },
       {
-        "id": "d89e17d3c81fb511",
+        "id": "9d975e500b02d220",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
-            "id": "ea90af25f7a2290e",
+            "id": "99b93cc009e1ff25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工业工程/IE系统规划工程师.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "mode": "preview",
                 "source": true
               }
@@ -66,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "time square",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -119,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工业工程/IE系统规划工程师.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工业工程/IE系统规划工程师.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -165,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工业工程/IE系统规划工程师.md"
+                "file": "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md"
               }
             }
           },
@@ -209,8 +212,9 @@
   },
   "active": "033c2c03423c2653",
   "lastOpenFiles": [
-    "Inbox/纠结.md",
     "工业工程/IE系统规划工程师.md",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "Inbox/纠结.md",
     "面试经验/富士康.md",
     "Inbox/水滴石穿.md",
     "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
@@ -232,7 +236,6 @@
     "间歇笔记/生活日志/2024-03-29_星期五.md",
     "间歇笔记/生活日志/2024-04-01_星期一.md",
     "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "基础学科/英语/多领国/探索一个城市.md",
     "编程/前端/vite.md",
     "编程/前端/JavaScript/函数进阶内容",
