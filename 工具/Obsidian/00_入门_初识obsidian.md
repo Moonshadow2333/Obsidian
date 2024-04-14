@@ -104,3 +104,9 @@ tagFolder
 ![](./images/Snipaste_2024-04-03_22-43-03.png)
 
 实现这样的效果也很简单，拖动图标即可。例如红框中的大纲图标，想要大纲在上栏显示，就拖到上栏中。
+
+## 创建文件时保存到默认文件夹中
+
+设置 -> 文件与链接 -> 点击”新建笔记存放位置“，选择”指定附件文件夹“ -> 点击”存放新建笔记的文件夹“，并选择指定的文件夹
+
+参考：[Obsidian怎么设置存放新建笔记的文件夹-百度经验 (baidu.com)](https://jingyan.baidu.com/article/29697b915d3f8bea20de3cef.html#:~:text=%E6%89%93%E5%BC%80Obsidian%E8%BD%AF%E4%BB%B6%EF%BC%8C%E8%BF%9B%E5%85%A5%E7%AC%94%E8%AE%B0%E7%AE%A1%E7%90%86%E4%B8%BB%E7%95%8C%E9%9D%A2%E3%80%82%202%2F4%20%E7%82%B9%E5%87%BB%E4%B8%BB%E7%95%8C%E9%9D%A2%E5%B7%A6%E4%B8%8B%E8%A7%92%E7%9A%84%E2%80%9C%E8%AE%BE%E7%BD%AE%E2%80%9D%E6%8C%89%E9%92%AE%E3%80%82,3%2F4%20%E5%9C%A8%E8%AE%BE%E7%BD%AE%E7%AA%97%E5%8F%A3%E5%B7%A6%E4%BE%A7%E5%8A%9F%E8%83%BD%E5%88%97%E8%A1%A8%E4%B8%AD%EF%BC%8C%E9%80%89%E6%8B%A9%E2%80%9C%E6%96%87%E4%BB%B6%E4%B8%8E%E9%93%BE%E6%8E%A5%E2%80%9D%E9%80%89%E9%A1%B9%E3%80%82%204%2F4%20%E5%9C%A8%E5%8F%B3%E4%BE%A7%E9%9D%A2%E6%9D%BF%E4%B8%AD%EF%BC%8C%E8%AE%BE%E7%BD%AE%E2%80%9C%E5%AD%98%E6%94%BE%E6%96%B0%E5%BB%BA%E7%AC%94%E8%AE%B0%E7%9A%84%E6%96%87%E4%BB%B6%E5%A4%B9%E2%80%9D%E5%8F%B3%E4%BE%A7%E6%96%B9%E6%A1%86%E7%9A%84%E5%80%BC%E5%8D%B3%E5%8F%AF%E3%80%82)
