@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1bd6eeb887a4110c",
+        "id": "30b8ff1051b7744e",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9cdadad7079e6f",
+            "id": "9c7b48046d92edf0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/体检.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c7b7c318e597ab6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "d780a5b5b1cb8e63",
@@ -114,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/生活日志/2024-04-12_星期五.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -159,9 +141,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "间歇笔记/生活日志/2024-04-12_星期五.md"
-              }
+              "state": {}
             }
           },
           {
@@ -202,14 +182,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c7b7c318e597ab6f",
+  "active": "9c7b48046d92edf0",
   "lastOpenFiles": [
-    "间歇笔记/生活日志/2024-04-12_星期五.md",
-    "Inbox/五险一金.md",
+    "PDF/数据库系统教程批注.md",
+    "PDF/课件.pdf",
+    "PDF/批判注释.md",
+    "模板/批注模板.md",
+    "PDF/Test.md",
+    "PDF/数据库系统教程（上册）_王能斌.pdf",
+    "工具/Obsidian/插件/annotator.md",
+    "Inbox/关于婚姻.md",
+    "PDF/《批判性思维工具(原书第3版)》理查德·保罗(美).pdf",
+    "PDF/数据库系统教程.第2版_11987720.pdf",
+    "编程/数据库/MySQL/MySQL 学习阅读路径.md",
+    "PDF",
     "Private/资产盘点.md",
+    "集锦/202403.md",
+    "间歇笔记/生活日志/2024-04-15_星期一.md",
+    "间歇笔记/生活日志/2024-04-12_星期五.md",
+    "工业工程/IE系统规划工程师.md",
+    "Inbox/体检.md",
+    "工业工程/images/MES_00.png",
+    "面试经验/富士康.md",
+    "Inbox/未命名.md",
+    "Inbox/五险一金.md",
     "模板/基础模板.md",
     "工具/Obsidian/00_入门_初识obsidian.md",
-    "Inbox/体检.md",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "间歇笔记/生活日志/2023-12-07_星期四.md",
     "间歇笔记/生活日志/2024-01-31_星期三.md",
@@ -217,17 +215,6 @@
     "间歇笔记/生活日志/2024-03-07_星期四.md",
     "间歇笔记/生活日志/2024-03-09_星期六.md",
     "间歇笔记/生活日志/2024-03-11_星期一.md",
-    "间歇笔记/生活日志/2024-03-12_星期二.md",
-    "间歇笔记/生活日志/2024-03-15_星期五.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
-    "间歇笔记/生活日志/2024-03-27_星期三.md",
-    "间歇笔记/生活日志/2024-03-28_星期四.md",
-    "间歇笔记/生活日志/2024-03-29_星期五.md",
-    "间歇笔记/生活日志/2024-04-01_星期一.md",
-    "间歇笔记/生活日志/2024-04-06_星期六.md",
-    "间歇笔记/生活日志/2024-04-10_星期三.md",
-    "间歇笔记/生活日志/2024-04-11_星期四.md",
-    "Inbox/纠结.md",
     "未命名.canvas",
     "Inbox/images/IAHF_49.png",
     "Inbox/images/IAHF_49.png.crdownload",
@@ -240,17 +227,9 @@
     "Inbox/images/IAHF_45.png",
     "Inbox/images/IAHF_45.png.crdownload",
     "Inbox/images/IAHF_44.png",
-    "Inbox/images/IAHF_44.png.crdownload",
     "Inbox/images/IAHF_43.png",
-    "Inbox/images/IAHF_43.png.crdownload",
     "Inbox/images/IAHF_42.png",
-    "Inbox/images/IAHF_42.png.crdownload",
     "Inbox/images/IAHF_41.png",
-    "Inbox/images/IAHF_41.png.crdownload",
-    "Inbox/images/IAHF_40.png",
-    "Inbox/images/IAHF_40.png.crdownload",
-    "Inbox/HDR和Delighting.md",
-    "工业工程/IE系统规划工程师.md",
     "编程/未命名.canvas"
   ]
 }
