@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "30b8ff1051b7744e",
+        "id": "1595336f35651203",
         "type": "tabs",
         "children": [
           {
-            "id": "9c7b48046d92edf0",
+            "id": "effaef792683615b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -73,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "d780a5b5b1cb8e63",
@@ -98,6 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,6 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -141,7 +146,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md"
+              }
             }
           },
           {
@@ -182,39 +189,40 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9c7b48046d92edf0",
+  "active": "effaef792683615b",
   "lastOpenFiles": [
+    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+    "基础学科/英语/多领国/多领国实践设计.md",
+    "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md",
+    "Inbox/水滴石穿.md",
     "PDF/数据库系统教程批注.md",
-    "PDF/课件.pdf",
-    "PDF/批判注释.md",
-    "模板/批注模板.md",
-    "PDF/Test.md",
-    "PDF/数据库系统教程（上册）_王能斌.pdf",
-    "工具/Obsidian/插件/annotator.md",
-    "Inbox/关于婚姻.md",
-    "PDF/《批判性思维工具(原书第3版)》理查德·保罗(美).pdf",
-    "PDF/数据库系统教程.第2版_11987720.pdf",
-    "编程/数据库/MySQL/MySQL 学习阅读路径.md",
-    "PDF",
-    "Private/资产盘点.md",
-    "集锦/202403.md",
+    "间歇笔记/生活日志/2024-04-16_星期二.md",
     "间歇笔记/生活日志/2024-04-15_星期一.md",
     "间歇笔记/生活日志/2024-04-12_星期五.md",
-    "工业工程/IE系统规划工程师.md",
-    "Inbox/体检.md",
-    "工业工程/images/MES_00.png",
-    "面试经验/富士康.md",
-    "Inbox/未命名.md",
-    "Inbox/五险一金.md",
-    "模板/基础模板.md",
-    "工具/Obsidian/00_入门_初识obsidian.md",
-    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
-    "间歇笔记/生活日志/2023-12-07_星期四.md",
-    "间歇笔记/生活日志/2024-01-31_星期三.md",
-    "间歇笔记/生活日志/2024-02-27_星期二.md",
-    "间歇笔记/生活日志/2024-03-07_星期四.md",
-    "间歇笔记/生活日志/2024-03-09_星期六.md",
     "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2024-03-12_星期二.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "间歇笔记/生活日志/2024-03-27_星期三.md",
+    "间歇笔记/生活日志/2024-03-28_星期四.md",
+    "间歇笔记/生活日志/2024-03-29_星期五.md",
+    "间歇笔记/生活日志/2024-04-01_星期一.md",
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2024-04-11_星期四.md",
+    "PDF/课件.pdf",
+    "Inbox/人生建议.md",
+    "PDF/数据库系统教程（上册）_王能斌.pdf",
+    "PDF/《批判性思维工具(原书第3版)》理查德·保罗(美).pdf",
+    "PDF/数据库系统教程.第2版_11987720.pdf",
+    "PDF",
+    "工业工程/images/MES_00.png",
     "未命名.canvas",
     "Inbox/images/IAHF_49.png",
     "Inbox/images/IAHF_49.png.crdownload",

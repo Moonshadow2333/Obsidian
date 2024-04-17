@@ -150,7 +150,7 @@ admin.sayHi(); // TypeError: Cannot read property 'name' of null
 
 ## this 不受限制
 
-在 JavaScript 中，`this` 关键字与其他大多数编程语言中的不同。JavaScript 中的 `this` 可以用于任何函数，即使它不是对象的方法。
+在 JavaScript 中，`this` 关键字与其他大多数编程语言中的不同。**JavaScript 中的 `this` 可以用于任何函数，即使它不是对象的方法**。
 
 下面这样的代码没有语法错误：
 
@@ -224,6 +224,108 @@ user.sayHi(); // Ilya
 
 ## 实践
 
+### 创建一个计算器
+
+#### 问题描述
+创建一个有三个方法的 `calculator` 对象：
+
+- `read()` 提示输入两个值，并将其保存为对象属性，属性名分别为 `a` 和 `b`。
+- `sum()` 返回保存的值的和。
+- `mul()` 将保存的值相乘并返回计算结果。
+
+```JS
+let calculator = {
+  // ……你的代码……
+};
+
+calculator.read();
+alert( calculator.sum() );
+alert( calculator.mul() );
+```
+
+#### 解答
+
+```JS
+let calculator = {
+	// ……你的代码……
+	read() {
+		this.a = +prompt('a?', 0);
+		this.b = +prompt('b?', 0);
+	},
+	sum() {
+		return this.a + this.b;
+	},
+	mul() {
+		return this.a * this.b;
+	}
+};
+
+calculator.read();
+alert(calculator.sum());
+alert(calculator.mul());
+```
+
+### 链式调用
+
+#### 问题描述
+
+有一个可以上下移动的 `ladder` 对象：
+
+```JS
+let ladder = {
+  step: 0,
+  up() {
+    this.step++;
+  },
+  down() {
+    this.step--;
+  },
+  showStep: function() { // 显示当前的 step
+    alert( this.step );
+  }
+};
+```
+
+现在，如果我们要按顺序执行几次调用，可以这样做：
+
+```JS
+ladder.up();
+ladder.up();
+ladder.down();
+ladder.showStep(); // 1
+ladder.down();
+ladder.showStep(); // 0
+```
+
+修改 `up`，`down` 和 `showStep` 的代码，让调用可以链接，就像这样：
+
+```JS
+ladder.up().up().down().showStep().down().showStep(); // 展示 1，然后 0
+```
+
+#### 解答
+
+```JS
+let ladder = {
+  step: 0,
+  up() {
+    this.step++;
+    return this;
+  },
+  down() {
+    this.step--;
+    return this;
+  },
+  showStep: function() { // 显示当前的 step
+    alert( this.step );
+    return this;
+  }
+};
+```
+
 ## 参考
 
 [对象方法，"this" (javascript.info)](https://zh.javascript.info/object-methods)
+[JavaScript 的 this 原理 - 阮一峰的网络日志 (ruanyifeng.com)](https://www.ruanyifeng.com/blog/2018/06/javascript-this.html)
+
+现在问题就来了，由于函数可以在不同的运行环境执行，所以需要有一种机制，能够在函数体内部获得当前的运行环境（context）。所以，`this`就出现了，它的设计目的就是在函数体内部，指代函数当前的运行环境。
