@@ -108,6 +108,21 @@ let func = worker.slow;
 func(2);
 ```
 
+其实这里没有解释清楚，真正的原因是[[对象方法，this#参考|引擎会将函数单独保存在内存中，然后再将函数的地址赋值给属性的value]]。`worker.slow = cachingDecorator(worker.slow);` 中的 `worker.slow` 拿到的是函数的地址，并将其作为参数传给了 `cachingDecorator` 函数，该函数返回一个函数：
+
+```JS
+function(x) {
+    if (cache.has(x)) {
+      return cache.get(x);
+    }
+    let result = func(x); // (**)
+    cache.set(x, result);
+    return result;
+  };
+```
+
+并将其赋给 `work.slow`。当执行到 `alert( worker.slow(2) ); ` 语句时，会执行返回的函数，在函数内部，`slow` 函数会执行，且是在**全局环境**中执行的，而非在 worker 对象中执行，故会报错。
+
 **因此，包装器将调用传递给原始方法，但没有上下文 `this`。因此，发生了错误**。
 
 让我们来解决这个问题。
@@ -415,6 +430,8 @@ let wrapper = function() {
 6. 最后进行了总结。
 
 ## 实践
+
+装饰器要么就是装饰函数，要么就是装饰[[对象方法，this#方法示例|对象中的方法]]。在装饰方法时比较简单，只要考虑方法中的逻辑即可，但是在装饰对象中的方法时则还需多考虑一点——上下文问题，即需要用到 func.call 或 func.apply。 
 
 ## 参考
 

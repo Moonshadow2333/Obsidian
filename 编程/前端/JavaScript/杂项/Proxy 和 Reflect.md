@@ -742,6 +742,17 @@ user.observe((key, value) => {
 
 user.name = "John";
 ```
+
+#### 第二次实践
+
+在 makeObservable 方法中，数组存储 handlers，给 target 声明 observe 方法，并将 handler 添加到数组中，注意这里用的是 this，而非 target，定义代理，通过 Reflect 对象给 target 设置属性值后，如果成功，则遍历数组中保存的 handlers。
+
+1. [[对象方法，this]] 
+2. [[箭头函数]]
+3. [[数组方法#forEach]]
+
+我打印了 observe 方法中的 this，显示的是 Proxy，随后又打印了 target，除了对象不一样，其他的内容都一样，所以我把 this  换成 target 后，结果一样。所以我不太理解这里为什么用 this 而非 target？先记着这个问题，等以后对 JS 有了更深入地认识之后，说不定这个问题就迎刃而解了。
+
 ## 参考
 
 [Proxy 和 Reflect (javascript.info)](https://zh.javascript.info/proxy#shi-yong-set-bu-zhuo-qi-jin-hang-yan-zheng)

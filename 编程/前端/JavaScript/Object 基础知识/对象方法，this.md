@@ -329,3 +329,7 @@ let ladder = {
 [JavaScript 的 this 原理 - 阮一峰的网络日志 (ruanyifeng.com)](https://www.ruanyifeng.com/blog/2018/06/javascript-this.html)
 
 现在问题就来了，由于函数可以在不同的运行环境执行，所以需要有一种机制，能够在函数体内部获得当前的运行环境（context）。所以，`this`就出现了，它的设计目的就是在函数体内部，指代函数当前的运行环境。
+
+**这时，引擎会将函数单独保存在内存中，然后再将函数的地址赋值给`foo`属性的`value`属性**。
+
+![](../images/this_func.png)
