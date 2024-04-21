@@ -11,8 +11,11 @@
             "id": "58b8ffebb2655b13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": "间歇笔记/生活日志/2024-04-10_星期三.md",
+                "staged": false
+              }
             }
           }
         ]
@@ -44,7 +47,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "below",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -129,8 +132,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76135687776062fc",
@@ -184,41 +186,41 @@
   },
   "active": "58b8ffebb2655b13",
   "lastOpenFiles": [
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-    "编程/前端/JavaScript/基础知识/箭头函数.md",
-    "编程/前端/JavaScript/数据类型/数组方法.md",
-    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
-    "编程/前端/JavaScript/基础知识",
-    "编程/前端/JavaScript/Object 基础知识/07_symbol类型.md",
-    "编程/前端/JavaScript/数据类型/Map and Set.md",
-    "编程/前端/JavaScript/数据类型",
     "基础学科/英语/多领国/第三部分/描述在非洲的旅行.md",
+    "Inbox/水滴石穿.md",
+    "基础学科/英语/多领国/第三部分/使用省略.md",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "模板/面试复盘模板.md",
+    "模板/基础模板.md",
+    "模板/批注模板.md",
+    "间歇笔记/游玩日志.md",
+    "间歇笔记/生活日志/2023-11-23_星期四.md",
+    "间歇笔记/生活日志/2023-11-26_星期日.md",
+    "间歇笔记/生活日志/2023-12-07_星期四.md",
+    "间歇笔记/生活日志/2024-01-31_星期三.md",
+    "间歇笔记/生活日志/2024-02-27_星期二.md",
+    "间歇笔记/生活日志/2024-03-07_星期四.md",
+    "间歇笔记/生活日志/2024-03-09_星期六.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "间歇笔记/生活日志/2024-03-12_星期二.md",
+    "间歇笔记/生活日志/2024-03-15_星期五.md",
     "间歇笔记/生活日志/2024-03-25_星期一.md",
-    "编程/前端/JavaScript/Object 基础知识/对象方法，this.md",
+    "间歇笔记/生活日志/2024-03-27_星期三.md",
+    "间歇笔记/生活日志/2024-03-28_星期四.md",
+    "间歇笔记/生活日志/2024-03-29_星期五.md",
+    "间歇笔记/生活日志/2024-04-01_星期一.md",
+    "间歇笔记/生活日志/2024-04-06_星期六.md",
+    "间歇笔记/生活日志/2024-04-10_星期三.md",
+    "间歇笔记/生活日志/2024-04-11_星期四.md",
+    "编程/前端/JavaScript/基础知识",
+    "编程/前端/JavaScript/数据类型",
     "编程/前端/JavaScript/images/this_func.png",
     "编程/前端/JavaScript/images/Snipaste_2024-04-19_21-20-28.png",
     "编程/前端/JavaScript/images",
-    "PDF/批判注释.md",
     "PDF/数据库系统教程（上册）_王能斌.pdf",
     "PDF/《批判性思维工具(原书第3版)》理查德·保罗(美).pdf",
-    "Private/Foxconn/20240418.md",
-    "Private/Foxconn/README.md",
-    "Private/富士康合同批注.md",
-    "Private/Foxconn/报道.md",
-    "面试经验/富士康.md",
-    "工业工程/工业工程（IE）知识体系：提升生产效率的科学管理方法.md",
-    "工业工程/SOP.md",
-    "工业工程/IE系统规划工程师.md",
-    "工业工程/七大手法八大浪费.md",
-    "工业工程/PDCA 循环.md",
-    "工业工程/招聘要求.md",
-    "工业工程/公司.md",
     "Private/Foxconn",
-    "Private/控制自己的欲望.md",
     "Private/富士康合同.pdf",
-    "基础学科/英语/多领国/多领国实践设计.md",
-    "Inbox/水滴石穿.md",
-    "PDF/数据库系统教程批注.md",
     "PDF/课件.pdf",
     "PDF/数据库系统教程.第2版_11987720.pdf",
     "PDF",
