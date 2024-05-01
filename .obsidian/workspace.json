@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论校园舞会.md",
-                "mode": "preview",
+                "file": "Private/其他.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论校园舞会.md",
+                "file": "Private/其他.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论校园舞会.md",
+                "file": "Private/其他.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76135687776062fc",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/谈论校园舞会.md"
+                "file": "Private/其他.md"
               }
             }
           },
@@ -192,6 +191,8 @@
   },
   "active": "5a255d041df95049",
   "lastOpenFiles": [
+    "生活/202402/失败的经历.md",
+    "Private/其他.md",
     "基础学科/英语/多领国/第三部分/谈论校园舞会.md",
     "基础学科/英语/多领国/打电话.md",
     "基础学科/英语/多领国/旧-62.md",
@@ -221,8 +222,6 @@
     "模板/面试复盘模板.md",
     "模板/基础模板.md",
     "模板/批注模板.md",
-    "间歇笔记/生活日志/2023-11-23_星期四.md",
-    "间歇笔记/生活日志/2023-11-26_星期日.md",
     "编程/前端/JavaScript/基础知识",
     "编程/前端/JavaScript/数据类型",
     "编程/前端/JavaScript/images/this_func.png",
