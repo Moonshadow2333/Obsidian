@@ -10,3 +10,6 @@
 ## 参考
 
 [Obsidian插件篇——Annotator：让你的ob和PDF文件完美结合~ - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/432892362)
+
+
+[好用！精确到pdf文件一句话的Obsidian双向链接 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/664288603)
