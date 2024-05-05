@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b430c0f6620be0b8",
+        "id": "b23008dcf9c53a11",
         "type": "tabs",
         "children": [
           {
-            "id": "bcb9427e72f7b4db",
+            "id": "c62c9366e47103ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day06.md",
+                "file": "学车/科目二/Day1.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目二/Day06.md",
+                "file": "学车/科目二/Day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目二/Day06.md",
+                "file": "学车/科目二/Day1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "76135687776062fc",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目二/Day06.md"
+                "file": "学车/科目二/Day1.md"
               }
             }
           },
@@ -190,28 +189,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcb9427e72f7b4db",
+  "active": "c62c9366e47103ba",
   "lastOpenFiles": [
+    "学车/images/科二_左倒库_08.png",
+    "学车/images/Snipaste_2024-05-05_20-49-47.png",
+    "学车/images/科二_左倒库_07.png",
+    "学车/images/Snipaste_2024-05-05_20-45-04.png",
+    "学车/images/科二_左倒库_06.png",
+    "学车/images/Snipaste_2024-05-05_20-40-41.png",
+    "学车/科目二/Day1.md",
+    "学车/images/科二_左倒库_05.png",
+    "学车/images/Snipaste_2024-05-05_20-37-36.png",
+    "学车/images/科二_左倒库_04.png",
+    "学车/images/Snipaste_2024-05-05_20-35-44.png",
+    "学车/images/科二_左倒库_03.png",
+    "学车/科目二/Day0.md",
+    "Inbox/水滴石穿.md",
+    "间歇笔记/生活日志/2024-05-04_星期六.md",
     "学车/科目二/Day06.md",
-    "学车/images/科二_侧方位停车_04.png",
-    "学车/images/Snipaste_2024-05-04_21-38-41.png",
-    "学车/images/科二_侧方位停车_03.png",
-    "学车/images/科目二_侧方位停车_03.png",
-    "学车/images/Snipaste_2024-05-04_21-35-38.png",
-    "学车/images/科二_侧方位停车_02.png",
-    "学车/images/Snipaste_2024-05-04_21-32-49.png",
-    "学车/images/科二_侧方位停车_01.png",
-    "学车/images/Snipaste_2024-05-04_21-30-54.png",
-    "学车/images/科二_侧方位停车_00.png",
     "学车/科目二/Day05.md",
     "学车/科目二/Day04.md",
-    "学车/科目二/Day1.md",
-    "学车/科目二/Day0.md",
     "学车/科目二/Day02.md",
     "编程/前端/JavaScript/基础知识/对象引用与复制.md",
     "编程/前端/JavaScript/基础知识/数据类型.md",
     "编程/前端/JavaScript/Object 基础知识/对象.md",
-    "Inbox/水滴石穿.md",
     "Inbox/流程图表结构设计.md",
     "基础学科/英语/多领国/第三部分/谈论校园舞会.md",
     "Private/富士康合同.pdf",
@@ -228,7 +229,6 @@
     "工具/Obsidian/插件/annotator.md",
     "编程/算法与数据结构/算法与数据结构体系课/阶段一/链表/链表总结.md",
     "编程/算法与数据结构/算法与数据结构体系课/算法体系课整理.md",
-    "编程/算法与数据结构/算法与数据结构体系课/阶段二/二分搜索树/二分搜索树.md",
     "PDF/课件.pdf",
     "编程/数据库/MySQL/数据库系统教程/引言",
     "编程/数据库/MySQL/数据库系统教程/数据模型",
