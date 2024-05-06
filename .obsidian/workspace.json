@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day1.md",
+                "file": "学车/科目二/Day0.md",
                 "mode": "preview",
                 "source": true
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目二/Day1.md",
+                "file": "学车/科目二/Day0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目二/Day1.md",
+                "file": "学车/科目二/Day0.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目二/Day1.md"
+                "file": "学车/科目二/Day0.md"
               }
             }
           },
@@ -191,25 +191,24 @@
   },
   "active": "c62c9366e47103ba",
   "lastOpenFiles": [
-    "学车/images/科二_右倒库_05.png",
-    "学车/images/Snipaste_2024-05-05_23-15-54.png",
-    "学车/images/科二_右倒库_04.png",
-    "学车/images/Snipaste_2024-05-05_23-13-02.png",
-    "学车/images/科二_右倒库_03.png",
-    "学车/images/Snipaste_2024-05-05_23-10-54.png",
-    "学车/images/科二_右倒库_02.png",
-    "学车/images/Snipaste_2024-05-05_23-06-33.png",
     "学车/科目二/Day02.md",
     "学车/科目二/Day1.md",
-    "学车/images/科二_右倒库_01.png",
-    "学车/images/Snipaste_2024-05-05_22-42-32.png",
-    "学车/images/科二_右倒库_00.png",
-    "学车/科目二/Day06.md",
     "学车/科目二/Day0.md",
+    "学车/科目二/Day06.md",
+    "学车/images/科二_侧方位停车_05.png",
+    "学车/images/Snipaste_2024-05-06_22-16-59.png",
+    "学车/科目二/Day04.md",
+    "学车/images/科二_直角转弯_04.png",
+    "学车/images/Snipaste_2024-05-06_22-13-44.png",
+    "学车/images/科二_坡道定点_04.png",
+    "学车/images/Snipaste_2024-05-06_22-08-52.png",
+    "学车/images/科二_坡道定点_03.png",
+    "学车/images/Snipaste_2024-05-06_22-07-32.png",
+    "学车/images/科二_坡道定点_02.png",
+    "学车/images/Snipaste_2024-05-06_22-06-07.png",
     "Inbox/水滴石穿.md",
     "间歇笔记/生活日志/2024-05-04_星期六.md",
     "学车/科目二/Day05.md",
-    "学车/科目二/Day04.md",
     "编程/前端/JavaScript/基础知识/对象引用与复制.md",
     "编程/前端/JavaScript/基础知识/数据类型.md",
     "编程/前端/JavaScript/Object 基础知识/对象.md",
