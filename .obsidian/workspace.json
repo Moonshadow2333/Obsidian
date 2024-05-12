@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day06.md",
-                "mode": "preview",
+                "file": "Inbox/流程图表结构设计.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "流程图",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目二/Day06.md",
+                "file": "Inbox/流程图表结构设计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目二/Day06.md",
+                "file": "Inbox/流程图表结构设计.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目二/Day06.md"
+                "file": "Inbox/流程图表结构设计.md"
               }
             }
           },
@@ -191,14 +192,14 @@
   },
   "active": "f30dd5af66301b7d",
   "lastOpenFiles": [
-    "学车/科目二/Day04.md",
     "学车/科目二/Day07.md",
+    "学车/科目二/Day06.md",
+    "学车/科目二/Day04.md",
     "Snipaste_2024-05-11_22-27-18.png",
     "学车/科目二/Day05.md",
     "学车/images/科二_侧方位停车_09.png",
     "学车/images/科二_侧方位停车_10.png",
     "学车/images/Snipaste_2024-05-11_22-27-18.png",
-    "学车/科目二/Day06.md",
     "Snipaste_2024-05-11_22-22-51.png",
     "学车/images/科二_侧方位停车_08.png",
     "学车/images/Snipaste_2024-05-11_22-22-51.png",
