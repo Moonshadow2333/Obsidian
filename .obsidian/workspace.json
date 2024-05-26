@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/流程图表结构设计.md",
-                "mode": "source",
+                "file": "学车/科目二/Day 11.md",
+                "mode": "preview",
                 "source": true
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/流程图表结构设计.md",
+                "file": "学车/科目二/Day 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/流程图表结构设计.md",
+                "file": "学车/科目二/Day 11.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/流程图表结构设计.md"
+                "file": "学车/科目二/Day 11.md"
               }
             }
           },
@@ -191,9 +191,10 @@
   },
   "active": "29c6080ca5303eb4",
   "lastOpenFiles": [
-    "间歇笔记/生活日志/2024-04-12_星期五.md",
-    "Inbox/流程图表结构设计.md",
+    "间歇笔记/游玩日志.md",
     "Private/控制自己的欲望.md",
+    "Inbox/流程图表结构设计.md",
+    "间歇笔记/生活日志/2024-04-12_星期五.md",
     "学车/科目二/Day06.md",
     "学车/科目二/Day07.md",
     "学车/科目二/Day09.md",
@@ -227,7 +228,6 @@
     "编程/前端/JavaScript/数据类型/原始数据类型的方法.md",
     "编程/前端/JavaScript/Object 基础知识/构造器和操作符 new.md",
     "编程/前端/JavaScript/数据类型/数组方法.md",
-    "编程/前端/JavaScript/数据类型/Map and Set.md",
     "Private/富士康合同.pdf",
     "编程/数据库/MySQL/数据库系统教程/数据模型/02.pdf",
     "PDF/课件.pdf",
