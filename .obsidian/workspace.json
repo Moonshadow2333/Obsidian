@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fb8f0c6ead940b6a",
+        "id": "caf68862a975605c",
         "type": "tabs",
         "children": [
           {
-            "id": "29c6080ca5303eb4",
+            "id": "8fba38da4a97f824",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day 11.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "stay up",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目二/Day 11.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目二/Day 11.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目二/Day 11.md"
+                "file": "基础学科/英语/多领国/第三部分/讨论过去.md"
               }
             }
           },
@@ -186,34 +187,40 @@
       "audio-recorder:开始/结束录音": false,
       "zk-prefixer:创建时间戳笔记": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "29c6080ca5303eb4",
+  "active": "8fba38da4a97f824",
   "lastOpenFiles": [
-    "间歇笔记/游玩日志.md",
+    "基础学科/英语/多领国/第三部分/在同学聚会中聊天.md",
+    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
+    "基础学科/英语/多领国/表达工作压力.md",
+    "基础学科/英语/多领国/第三部分/讨论过去.md",
     "Private/控制自己的欲望.md",
+    "基础学科/英语/多领国/旧-58-讨论运动.md",
+    "基础学科/英语/多领国/讲述一次盗窃事件.md",
     "Inbox/流程图表结构设计.md",
-    "间歇笔记/生活日志/2024-04-12_星期五.md",
+    "基础学科/英语/多领国/第三部分/认识新邻居.md",
+    "基础学科/英语/语法/大纲.md",
+    "基础学科/英语/多领国/第三部分/使用省略.md",
+    "基础学科/英语/多领国/学习用品.md",
+    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
+    "Inbox/ToDoList.md",
+    "学车/科目二/Day04.md",
+    "学车/科目二/Day05.md",
     "学车/科目二/Day06.md",
     "学车/科目二/Day07.md",
+    "学车/科目二/Day02.md",
+    "学车/科目二/Day1.md",
+    "学车/科目二/Day0.md",
     "学车/科目二/Day09.md",
     "学车/科目二/Day10.md",
     "学车/科目二/Day 11.md",
-    "间歇笔记/生活日志/2024-04-11_星期四.md",
-    "间歇笔记/生活日志/2024-04-15_星期一.md",
-    "间歇笔记/生活日志/2024-04-16_星期二.md",
-    "间歇笔记/生活日志/2024-05-04_星期六.md",
-    "学车/科目二/Day1.md",
-    "学车/科目二/Day0.md",
-    "学车/科目二/Day04.md",
-    "学车/科目二/Day05.md",
-    "学车/进度.md",
-    "学车/科目二/Day02.md",
-    "基础学科/英语/多领国/第三部分/介绍社交媒体的影响.md",
+    "间歇笔记/游玩日志.md",
+    "间歇笔记/生活日志/2024-04-12_星期五.md",
     "Inbox/images/Snipaste_2024-05-19_10-57-34.png",
     "Inbox/images/Snipaste_2024-05-19_10-50-48.png",
-    "编程/前端/JavaScript/Ajax/00Ajax.md",
     "编程/前端/JavaScript/Ajax",
     "Snipaste_2024-05-11_22-22-51.png",
     "Snipaste_2024-05-11_22-27-18.png",
@@ -223,11 +230,6 @@
     "学车/images/科二_侧方位停车_08.png",
     "学车/images/Snipaste_2024-05-11_22-22-51.png",
     "学车/images/科二_侧方位停车_07.png",
-    "编程/数据库/MySQL/数据库系统教程/数据模型/数据模型.md",
-    "编程/前端/JavaScript/数据类型/数字类型.md",
-    "编程/前端/JavaScript/数据类型/原始数据类型的方法.md",
-    "编程/前端/JavaScript/Object 基础知识/构造器和操作符 new.md",
-    "编程/前端/JavaScript/数据类型/数组方法.md",
     "Private/富士康合同.pdf",
     "编程/数据库/MySQL/数据库系统教程/数据模型/02.pdf",
     "PDF/课件.pdf",
