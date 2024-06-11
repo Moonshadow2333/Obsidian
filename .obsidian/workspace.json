@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
+                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
                 "mode": "preview",
                 "source": true
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stay up",
+                "query": "walking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
+                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论过去.md",
+                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76135687776062fc",
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/讨论过去.md"
+                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md"
               }
             }
           },
@@ -193,15 +194,18 @@
   },
   "active": "8fba38da4a97f824",
   "lastOpenFiles": [
+    "基础学科/英语/多领国/第三部分/介绍社交媒体的影响.md",
+    "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
+    "基础学科/英语/多领国/第三部分/认识新邻居.md",
+    "基础学科/英语/多领国/买衣服以及退换货.md",
+    "Inbox/流程图表结构设计.md",
     "基础学科/英语/多领国/第三部分/在同学聚会中聊天.md",
+    "基础学科/英语/多领国/第三部分/讨论过去.md",
     "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
     "基础学科/英语/多领国/表达工作压力.md",
-    "基础学科/英语/多领国/第三部分/讨论过去.md",
     "Private/控制自己的欲望.md",
     "基础学科/英语/多领国/旧-58-讨论运动.md",
     "基础学科/英语/多领国/讲述一次盗窃事件.md",
-    "Inbox/流程图表结构设计.md",
-    "基础学科/英语/多领国/第三部分/认识新邻居.md",
     "基础学科/英语/语法/大纲.md",
     "基础学科/英语/多领国/第三部分/使用省略.md",
     "基础学科/英语/多领国/学习用品.md",
@@ -216,9 +220,6 @@
     "学车/科目二/Day0.md",
     "学车/科目二/Day09.md",
     "学车/科目二/Day10.md",
-    "学车/科目二/Day 11.md",
-    "间歇笔记/游玩日志.md",
-    "间歇笔记/生活日志/2024-04-12_星期五.md",
     "Inbox/images/Snipaste_2024-05-19_10-57-34.png",
     "Inbox/images/Snipaste_2024-05-19_10-50-48.png",
     "编程/前端/JavaScript/Ajax",
