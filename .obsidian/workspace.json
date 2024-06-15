@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
-                "mode": "preview",
+                "file": "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
+                "file": "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -149,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md"
+                "file": "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md"
               }
             }
           },
@@ -194,8 +193,9 @@
   },
   "active": "8fba38da4a97f824",
   "lastOpenFiles": [
-    "基础学科/英语/多领国/第三部分/介绍社交媒体的影响.md",
     "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
+    "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md",
+    "基础学科/英语/多领国/第三部分/介绍社交媒体的影响.md",
     "基础学科/英语/多领国/第三部分/认识新邻居.md",
     "基础学科/英语/多领国/买衣服以及退换货.md",
     "Inbox/流程图表结构设计.md",
@@ -219,7 +219,6 @@
     "学车/科目二/Day1.md",
     "学车/科目二/Day0.md",
     "学车/科目二/Day09.md",
-    "学车/科目二/Day10.md",
     "Inbox/images/Snipaste_2024-05-19_10-57-34.png",
     "Inbox/images/Snipaste_2024-05-19_10-50-48.png",
     "编程/前端/JavaScript/Ajax",
