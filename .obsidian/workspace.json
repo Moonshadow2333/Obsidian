@@ -18,8 +18,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "3bcdee617d285aa9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学车/科目三/Day00.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "间歇笔记/生活日志/2024-06-30_星期日.md",
+                "file": "学车/科目三/Day00.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "间歇笔记/生活日志/2024-06-30_星期日.md",
+                "file": "学车/科目三/Day00.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "间歇笔记/生活日志/2024-06-30_星期日.md"
+                "file": "学车/科目三/Day00.md"
               }
             }
           },
@@ -190,8 +203,16 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "8fba38da4a97f824",
+  "active": "3bcdee617d285aa9",
   "lastOpenFiles": [
+    "学车/科目三/Day00.md",
+    "学车/images/科三_灯光.jpg",
+    "学车/images/mmexport1720365324810.jpg",
+    "学车/images/未命名",
+    "学车/科目二/Day0.md",
+    "生活/202402/一个人的朝圣.md",
+    "学车/科目三",
+    "Inbox/科目三.md",
     "基础学科/英语/多领国/第三部分/说说生活中的意外.md",
     "间歇笔记/生活日志/2024-06-30_星期日.md",
     "基础学科/英语/多领国/第三部分/讨论奥运会.md",
@@ -213,11 +234,6 @@
     "基础学科/英语/多领国/第三部分/使用省略.md",
     "基础学科/英语/多领国/学习用品.md",
     "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
-    "Inbox/ToDoList.md",
-    "学车/科目二/Day04.md",
-    "学车/科目二/Day05.md",
-    "学车/科目二/Day06.md",
-    "学车/科目二/Day07.md",
     "Inbox/images/Snipaste_2024-05-19_10-57-34.png",
     "Inbox/images/Snipaste_2024-05-19_10-50-48.png",
     "编程/前端/JavaScript/Ajax",
@@ -227,8 +243,6 @@
     "学车/images/科二_侧方位停车_10.png",
     "学车/images/Snipaste_2024-05-11_22-27-18.png",
     "学车/images/科二_侧方位停车_08.png",
-    "学车/images/Snipaste_2024-05-11_22-22-51.png",
-    "学车/images/科二_侧方位停车_07.png",
     "Private/富士康合同.pdf",
     "编程/数据库/MySQL/数据库系统教程/数据模型/02.pdf",
     "PDF/课件.pdf",
@@ -236,8 +250,6 @@
     "编程/数据库/MySQL/数据库系统教程/数据模型",
     "编程/数据库/MySQL/数据库系统教程",
     "编程/前端/JavaScript/基础知识",
-    "编程/前端/JavaScript/数据类型",
-    "编程/前端/JavaScript/images",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]
