@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "caf68862a975605c",
+        "id": "e3d86d180c593e90",
         "type": "tabs",
         "children": [
           {
-            "id": "8fba38da4a97f824",
+            "id": "a6af794bc8904ead",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/生活日志/2024-06-30_星期日.md",
+                "file": "学车/科目三/路线一.md",
                 "mode": "source",
                 "source": true
               }
             }
           },
           {
-            "id": "3bcdee617d285aa9",
+            "id": "da26bea61014cdba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目三/Day00.md",
+                "file": "学车/科目三/路线一01.md",
                 "mode": "source",
                 "source": true
               }
@@ -33,6 +33,24 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "3c1e0b34a9d75b62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8b55858a20eb0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学车/科目三/路线一01.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学车/科目三/Day00.md",
+                "file": "学车/科目三/路线一01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学车/科目三/Day00.md",
+                "file": "学车/科目三/路线一01.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -160,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学车/科目三/Day00.md"
+                "file": "学车/科目三/路线一01.md"
               }
             }
           },
@@ -203,18 +221,40 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "3bcdee617d285aa9",
+  "active": "da26bea61014cdba",
   "lastOpenFiles": [
+    "学车/images/科三_路线一_09.png",
+    "学车/images/科目三_路线一_09.png",
+    "学车/images/Snipaste_2024-07-15_06-57-54.png",
+    "学车/images/科三_路线一_08.png",
+    "学车/images/Snipaste_2024-07-15_06-53-30.png",
+    "学车/images/科三_路线一_07.png",
+    "学车/images/Snipaste_2024-07-15_06-50-27.png",
+    "学车/科目三/Day02.md",
+    "学车/科目三/Day01.md",
     "学车/科目三/Day00.md",
-    "学车/images/科三_灯光.jpg",
-    "学车/images/mmexport1720365324810.jpg",
+    "Inbox/未命名.md",
+    "学车/科目三/路线一.md",
+    "学车/科目三/路线一01.md",
+    "学车/科目二/Day1.md",
+    "学车/images/科三_路线一_06.png",
+    "学车/images/Snipaste_2024-07-15_06-38-05.png",
+    "学车/images/科三_路线一_05.png",
+    "学车/images/Snipaste_2024-07-15_06-35-59.png",
+    "Inbox/汇报.md",
+    "Inbox/未命名看板.md",
+    "基础学科/英语/新概念/第二册/Unit1/Lesson1.md",
+    "间歇笔记/生活日志/2024-06-30_星期日.md",
+    "基础学科/英语/新概念/第二册/Unit1/Lesson1/未命名.md",
+    "基础学科/英语/新概念/第二册/Unit1/Lesson1",
+    "基础学科/英语/新概念/第二册/Unit1",
+    "基础学科/英语/新概念/第二册",
+    "基础学科/英语/新概念",
     "学车/images/未命名",
     "学车/科目二/Day0.md",
     "生活/202402/一个人的朝圣.md",
     "学车/科目三",
-    "Inbox/科目三.md",
     "基础学科/英语/多领国/第三部分/说说生活中的意外.md",
-    "间歇笔记/生活日志/2024-06-30_星期日.md",
     "基础学科/英语/多领国/第三部分/讨论奥运会.md",
     "间歇笔记/生活日志/2024-06-16_星期日.md",
     "基础学科/英语/多领国/第三部分/讨论不同种类的新闻.md",
@@ -225,31 +265,10 @@
     "Inbox/流程图表结构设计.md",
     "基础学科/英语/多领国/第三部分/在同学聚会中聊天.md",
     "基础学科/英语/多领国/第三部分/讨论过去.md",
-    "基础学科/英语/多领国/第三部分/讨论旅途中的交通方式.md",
-    "基础学科/英语/多领国/表达工作压力.md",
-    "Private/控制自己的欲望.md",
-    "基础学科/英语/多领国/旧-58-讨论运动.md",
-    "基础学科/英语/多领国/讲述一次盗窃事件.md",
-    "基础学科/英语/语法/大纲.md",
-    "基础学科/英语/多领国/第三部分/使用省略.md",
-    "基础学科/英语/多领国/学习用品.md",
-    "基础学科/英语/多领国/谈论在欧洲旅行的经历.md",
-    "Inbox/images/Snipaste_2024-05-19_10-57-34.png",
-    "Inbox/images/Snipaste_2024-05-19_10-50-48.png",
     "编程/前端/JavaScript/Ajax",
-    "Snipaste_2024-05-11_22-22-51.png",
-    "Snipaste_2024-05-11_22-27-18.png",
-    "学车/images/科二_侧方位停车_09.png",
-    "学车/images/科二_侧方位停车_10.png",
-    "学车/images/Snipaste_2024-05-11_22-27-18.png",
-    "学车/images/科二_侧方位停车_08.png",
     "Private/富士康合同.pdf",
     "编程/数据库/MySQL/数据库系统教程/数据模型/02.pdf",
     "PDF/课件.pdf",
-    "编程/数据库/MySQL/数据库系统教程/引言",
-    "编程/数据库/MySQL/数据库系统教程/数据模型",
-    "编程/数据库/MySQL/数据库系统教程",
-    "编程/前端/JavaScript/基础知识",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]
