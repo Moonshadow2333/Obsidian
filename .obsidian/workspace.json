@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学车/科目二/Day 11.md",
+                "file": "间歇笔记/生活日志/2024-08-08_星期四.md",
                 "mode": "source",
                 "source": true
               }
@@ -38,9 +38,20 @@
                 "file": "PDF/数据库系统教程课件批注.md"
               }
             }
+          },
+          {
+            "id": "33cf3a846865b9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/早会汇报.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "狗血",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5,
-    "collapsed": true
+    "width": 251.5
   },
   "right": {
     "id": "d780a5b5b1cb8e63",
@@ -123,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PDF/数据库系统教程课件批注.md",
+                "file": "间歇笔记/生活日志/2024-08-08_星期四.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PDF/数据库系统教程课件批注.md",
+                "file": "间歇笔记/生活日志/2024-08-08_星期四.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -169,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PDF/数据库系统教程课件批注.md"
+                "file": "间歇笔记/生活日志/2024-08-08_星期四.md"
               }
             }
           },
@@ -212,15 +222,20 @@
       "obsidian-kanban:创建新看板": false
     }
   },
-  "active": "87ae82bec6239eb3",
+  "active": "a6af794bc8904ead",
   "lastOpenFiles": [
-    "PDF/数据库系统教程批注.md",
+    "间歇笔记/生活日志/2024-08-07_星期三.md",
+    "间歇笔记/生活日志/2024-08-08_星期四.md",
     "PDF/数据库系统教程课件批注.md",
+    "Inbox/未命名 1.md",
+    "学车/科目二/Day 11.md",
+    "Inbox/早会汇报.md",
+    "Inbox/汇报.md",
+    "PDF/数据库系统教程批注.md",
     "PDF/数据库系统教程课件.pdf",
     "PDF/课件.pdf",
     "PDF/综合.pdf",
     "生活/202401/未命名.md",
-    "学车/科目二/Day 11.md",
     "生活/202402/一个人的朝圣.md",
     "学车/科目三/Day05.md",
     "学车/科目三/路线一.md",
@@ -247,17 +262,13 @@
     "学车/科目三/Day00.md",
     "Inbox/未命名.md",
     "学车/科目二/Day1.md",
-    "Inbox/汇报.md",
     "Inbox/未命名看板.md",
     "基础学科/英语/新概念/第二册/Unit1/Lesson1.md",
-    "间歇笔记/生活日志/2024-06-30_星期日.md",
-    "基础学科/英语/新概念/第二册/Unit1/Lesson1/未命名.md",
     "基础学科/英语/新概念/第二册/Unit1/Lesson1",
     "基础学科/英语/新概念/第二册/Unit1",
     "基础学科/英语/新概念/第二册",
     "基础学科/英语/新概念",
     "学车/images/未命名",
-    "学车/科目二/Day0.md",
     "学车/科目三",
     "未命名.canvas",
     "编程/未命名.canvas"
