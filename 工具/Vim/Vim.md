@@ -77,3 +77,4 @@
 ## 资料
 
 [# 玩转Vim-从放弃到入门]([玩转Vim-从放弃到入门_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1NG4y1p74h/?spm_id_from=333.337.search-card.all.click&vd_source=081641abeed94aff322f0473e2c1773d))
+[VS Code 中的 Vim 操作 | 无需修改 VSC 默认快捷键 | 常用组合与逻辑-腾讯云开发者社区-腾讯云 (tencent.com)](https://cloud.tencent.com/developer/article/1799517)
