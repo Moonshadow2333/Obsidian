@@ -491,7 +491,7 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 
 >%%
 >```annotation-json
->{"created":"2024-09-01T13:56:34.572Z","text":"jə-ˈner-ik 通用","updated":"2024-09-01T13:56:34.572Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":32643,"end":32651},{"type":"TextQuoteSelector","exact":"generic ","prefix":"ed computation).There is also a ","suffix":"way to trigger an event: Event.t"}]}]}
+>{"text":"jə-ˈner-ik 通用","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":32643,"end":32651},{"type":"TextQuoteSelector","exact":"generic ","prefix":"ed computation).There is also a","suffix":"way to trigger an event: Event.t"}]}],"created":"2024-09-01T13:56:34.572Z","updated":"2024-09-01T13:56:34.572Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}
 >```
 >%%
 >*%%PREFIX%%ed computation).There is also a%%HIGHLIGHT%% ==generic== %%POSTFIX%%way to trigger an event: Event.t*
@@ -499,7 +499,7 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 >%%COMMENT%%
 >jə-ˈner-ik 通用
 >%%TAGS%%
->
+>#生词
 ^pvsktj1efe9
 
 
@@ -536,13 +536,17 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 
 >%%
 >```annotation-json
->{"created":"2024-09-01T14:36:09.976Z","text":"不太理解","updated":"2024-09-01T14:36:09.976Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":33324,"end":33388},{"type":"TextQuoteSelector","exact":"self.pupil_procs = [env.process(self.pupil()) for i in range(3)]","prefix":"elf.class_ends = env.event()... ","suffix":"... self.bell_proc = env.process"}]}]}
+>{"text":"不太理解\n\n参考：\n- https://blog.csdn.net/weixin_45526117/article/details/125603777\n- https://liaoxuefeng.com/books/python/advanced/generator/","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":33324,"end":33388},{"type":"TextQuoteSelector","exact":"self.pupil_procs = [env.process(self.pupil()) for i in range(3)]","prefix":"elf.class_ends = env.event()...","suffix":"... self.bell_proc = env.process"}]}],"created":"2024-09-01T14:36:09.976Z","updated":"2024-09-01T14:36:09.976Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}
 >```
 >%%
 >*%%PREFIX%%elf.class_ends = env.event()...%%HIGHLIGHT%% ==self.pupil_procs = [env.process(self.pupil()) for i in range(3)]== %%POSTFIX%%... self.bell_proc = env.process*
 >%%LINK%%[[#^ggqdl7o21a7|show annotation]]
 >%%COMMENT%%
 >不太理解
+>
+>参考：
+>- https://blog.csdn.net/weixin_45526117/article/details/125603777
+>- https://liaoxuefeng.com/books/python/advanced/generator/
 >%%TAGS%%
 >#问题
 ^ggqdl7o21a7
@@ -667,7 +671,7 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 
 >%%
 >```annotation-json
->{"created":"2024-09-02T14:28:50.719Z","text":"条目，Condition 事件的值是一个有序字典，其中包含每个触发事件的条目","updated":"2024-09-02T14:28:50.719Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":36500,"end":36506},{"type":"TextQuoteSelector","exact":"entry ","prefix":"s an ordered dictionary with an ","suffix":"for every triggered event. In th"}]}]}
+>{"text":"条目，Condition 事件的值是一个有序字典，其中包含每个触发事件的条目","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":36500,"end":36506},{"type":"TextQuoteSelector","exact":"entry ","prefix":"s an ordered dictionary with an","suffix":"for every triggered event. In th"}]}],"created":"2024-09-02T14:28:50.719Z","updated":"2024-09-02T14:28:50.719Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}
 >```
 >%%
 >*%%PREFIX%%s an ordered dictionary with an%%HIGHLIGHT%% ==entry== %%POSTFIX%%for every triggered event. In th*
@@ -675,7 +679,7 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 >%%COMMENT%%
 >条目，Condition 事件的值是一个有序字典，其中包含每个触发事件的条目
 >%%TAGS%%
->
+>#生词
 ^xnmmguv9g3b
 
 
@@ -705,3 +709,455 @@ annotation-target: simpy-readthedocs-io-en-4.0.0.pdf
 >%%TAGS%%
 >
 ^nll8gn3jdyh
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T01:56:56.032Z","text":"详细","updated":"2024-09-08T01:56:56.032Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":20863,"end":20871},{"type":"TextQuoteSelector","exact":"verbose ","prefix":"ates all this; the code is more ","suffix":"than it needs to be to make thin"}]}]}
+>```
+>%%
+>*%%PREFIX%%ates all this; the code is more%%HIGHLIGHT%% ==verbose== %%POSTFIX%%than it needs to be to make thin*
+>%%LINK%%[[#^yozfkpk9qa|show annotation]]
+>%%COMMENT%%
+>详细
+>%%TAGS%%
+>#生词
+^yozfkpk9qa
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T03:47:16.305Z","text":"进程实例也是一个事件，当进程函数返回数据时被触发","updated":"2024-09-08T03:47:16.305Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":22838,"end":22928},{"type":"TextQuoteSelector","exact":"The process instance is also an event that is triggered when the process function returns.","prefix":"ution of the process func-tion. ","suffix":" The guide toevents explains why"}]}]}
+>```
+>%%
+>*%%PREFIX%%ution of the process func-tion.%%HIGHLIGHT%% ==The process instance is also an event that is triggered when the process function returns.== %%POSTFIX%%The guide toevents explains why*
+>%%LINK%%[[#^l5gj6bynj48|show annotation]]
+>%%COMMENT%%
+>进程实例也是一个事件，当进程函数返回数据时被触发
+>%%TAGS%%
+>
+^l5gj6bynj48
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T04:00:54.414Z","text":"它还提供逐步执行或执行模拟的方法。","updated":"2024-09-08T04:00:54.414Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":23745,"end":23809},{"type":"TextQuoteSelector","exact":"It alsoprovides means to step through or execute the simulation.","prefix":"uling and processing of events. ","suffix":"Normal simulations use Environme"}]}]}
+>```
+>%%
+>*%%PREFIX%%uling and processing of events.%%HIGHLIGHT%% ==It alsoprovides means to step through or execute the simulation.== %%POSTFIX%%Normal simulations use Environme*
+>%%LINK%%[[#^j0rv8ymmxi8|show annotation]]
+>%%COMMENT%%
+>它还提供逐步执行或执行模拟的方法。
+>%%TAGS%%
+>
+^j0rv8ymmxi8
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T12:20:03.787Z","text":"层级","updated":"2024-09-08T12:20:03.787Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":29127,"end":29137},{"type":"TextQuoteSelector","exact":"hierarchy ","prefix":"ent.The listing below shows the ","suffix":"of events built into SimPy:event"}]}]}
+>```
+>%%
+>*%%PREFIX%%ent.The listing below shows the%%HIGHLIGHT%% ==hierarchy== %%POSTFIX%%of events built into SimPy:event*
+>%%LINK%%[[#^mi5ov1fiph|show annotation]]
+>%%COMMENT%%
+>层级
+>%%TAGS%%
+>#生词
+^mi5ov1fiph
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T12:20:54.308Z","text":"拓展","updated":"2024-09-08T12:20:54.308Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":29346,"end":29357},{"type":"TextQuoteSelector","exact":"extensible ","prefix":"set of basic events. Events are ","suffix":"and resources, for example, defi"}]}]}
+>```
+>%%
+>*%%PREFIX%%set of basic events. Events are%%HIGHLIGHT%% ==extensible== %%POSTFIX%%and resources, for example, defi*
+>%%LINK%%[[#^z651t5ulbp|show annotation]]
+>%%COMMENT%%
+>拓展
+>%%TAGS%%
+>#生词
+^z651t5ulbp
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T12:21:28.019Z","text":"广泛","updated":"2024-09-08T12:21:28.019Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":29009,"end":29019},{"type":"TextQuoteSelector","exact":"extensive ","prefix":"= 423.3 EventsSimPy includes an ","suffix":"set of event types for various p"}]}]}
+>```
+>%%
+>*%%PREFIX%%= 423.3 EventsSimPy includes an%%HIGHLIGHT%% ==extensive== %%POSTFIX%%set of event types for various p*
+>%%LINK%%[[#^k33341mqf1b|show annotation]]
+>%%COMMENT%%
+>广泛
+>%%TAGS%%
+>#生词
+^k33341mqf1b
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T12:28:37.317Z","text":"延期","updated":"2024-09-08T12:28:37.317Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":29659,"end":29668},{"type":"TextQuoteSelector","exact":"deferreds","prefix":"similar – if not identical — to ","suffix":", futures or promises. Instances"}]}]}
+>```
+>%%
+>*%%PREFIX%%similar – if not identical — to%%HIGHLIGHT%% ==deferreds== %%POSTFIX%%, futures or promises. Instances*
+>%%LINK%%[[#^ed1tgxagbr4|show annotation]]
+>%%COMMENT%%
+>延期
+>%%TAGS%%
+>#生词
+^ed1tgxagbr4
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-08T13:05:05.022Z","text":"一个可callable的对象是指可以被调用执行的对象，并且可以传入参数， 用另一个简单的描述方式，只要可以在一个对象的后面使用小括号来执行代码，那么这个对象就是callable对象，下面列举callable对象的种类","updated":"2024-09-08T13:05:05.022Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":30337,"end":30347},{"type":"TextQuoteSelector","exact":"callables ","prefix":"acks to an event. Callbacks are ","suffix":"that accept an eventas parameter"}]}]}
+>```
+>%%
+>*%%PREFIX%%acks to an event. Callbacks are%%HIGHLIGHT%% ==callables== %%POSTFIX%%that accept an eventas parameter*
+>%%LINK%%[[#^zii1nvte2f|show annotation]]
+>%%COMMENT%%
+>一个可callable的对象是指可以被调用执行的对象，并且可以传入参数， 用另一个简单的描述方式，只要可以在一个对象的后面使用小括号来执行代码，那么这个对象就是callable对象，下面列举callable对象的种类
+>%%TAGS%%
+>
+^zii1nvte2f
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T23:07:18.148Z","text":"习惯用法","updated":"2024-09-11T23:07:18.148Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":37521,"end":37527},{"type":"TextQuoteSelector","exact":"idiom ","prefix":"ified. This allowsthe following ","suffix":"for conveniently fetching the va"}]}]}
+>```
+>%%
+>*%%PREFIX%%ified. This allowsthe following%%HIGHLIGHT%% ==idiom== %%POSTFIX%%for conveniently fetching the va*
+>%%LINK%%[[#^htwz9z397a5|show annotation]]
+>%%COMMENT%%
+>习惯用法
+>%%TAGS%%
+>#生词
+^htwz9z397a5
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T23:08:51.123Z","text":"方便","updated":"2024-09-11T23:08:51.123Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":37531,"end":37544},{"type":"TextQuoteSelector","exact":"conveniently ","prefix":"s allowsthe following idiom for ","suffix":"fetching the values of multiple "}]}]}
+>```
+>%%
+>*%%PREFIX%%s allowsthe following idiom for%%HIGHLIGHT%% ==conveniently== %%POSTFIX%%fetching the values of multiple*
+>%%LINK%%[[#^1xt53qqi8mk|show annotation]]
+>%%COMMENT%%
+>方便
+>%%TAGS%%
+>#生词
+^1xt53qqi8mk
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-11T23:09:22.094Z","text":"连接","updated":"2024-09-11T23:09:22.094Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":37191,"end":37203},{"type":"TextQuoteSelector","exact":"concatenate ","prefix":"2: 'eggs'}...... # You can also ","suffix":"& and |... e1, e2, e3 = [env.tim"}]}]}
+>```
+>%%
+>*%%PREFIX%%2: 'eggs'}...... # You can also%%HIGHLIGHT%% ==concatenate== %%POSTFIX%%& and |... e1, e2, e3 = [env.tim*
+>%%LINK%%[[#^2bzhp1vb96p|show annotation]]
+>%%COMMENT%%
+>连接
+>%%TAGS%%
+>#生词
+^2bzhp1vb96p
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:06:16.070Z","text":"拥塞","updated":"2024-09-14T14:06:16.070Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":43998,"end":44009},{"type":"TextQuoteSelector","exact":"congestion ","prefix":"rocess Interaction. They form a ","suffix":"point where processes queueup in"}]}]}
+>```
+>%%
+>*%%PREFIX%%rocess Interaction. They form a%%HIGHLIGHT%% ==congestion== %%POSTFIX%%point where processes queueup in*
+>%%LINK%%[[#^jesexqlpqmm|show annotation]]
+>%%COMMENT%%
+>拥塞
+>%%TAGS%%
+>#生词
+^jesexqlpqmm
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:07:13.050Z","text":"同质","updated":"2024-09-14T14:07:13.050Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":44317,"end":44328},{"type":"TextQuoteSelector","exact":"homogeneous","prefix":"production and consumption of a ","suffix":", undifferentiated bulk.It may e"}]}]}
+>```
+>%%
+>*%%PREFIX%%production and consumption of a%%HIGHLIGHT%% ==homogeneous== %%POSTFIX%%, undifferentiated bulk.It may e*
+>%%LINK%%[[#^20urnvc6zpu|show annotation]]
+>%%COMMENT%%
+>同质
+>%%TAGS%%
+>#生词
+^20urnvc6zpu
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:08:06.961Z","text":"未分化块体","updated":"2024-09-14T14:08:06.961Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":44330,"end":44351},{"type":"TextQuoteSelector","exact":"undifferentiated bulk","prefix":"d consumption of a homogeneous, ","suffix":".It may either be continuous (li"}]}]}
+>```
+>%%
+>*%%PREFIX%%d consumption of a homogeneous,%%HIGHLIGHT%% ==undifferentiated bulk== %%POSTFIX%%.It may either be continuous (li*
+>%%LINK%%[[#^d5bh3efmv6n|show annotation]]
+>%%COMMENT%%
+>未分化块体
+>%%TAGS%%
+>#生词
+^d5bh3efmv6n
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:08:56.240Z","text":"消费","updated":"2024-09-14T14:08:56.240Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":44300,"end":44312},{"type":"TextQuoteSelector","exact":"consumption ","prefix":"s that model the production and ","suffix":"of a homogeneous, undifferentiat"}]}]}
+>```
+>%%
+>*%%PREFIX%%s that model the production and%%HIGHLIGHT%% ==consumption== %%POSTFIX%%of a homogeneous, undifferentiat*
+>%%LINK%%[[#^sjuzqvglvr|show annotation]]
+>%%COMMENT%%
+>消费
+>%%TAGS%%
+>#生词
+^sjuzqvglvr
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:31:56.022Z","text":"先买权","updated":"2024-09-14T14:31:56.022Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":45915,"end":45925},{"type":"TextQuoteSelector","exact":"preemption","prefix":"iorities to events, or to offer ","suffix":".3.5.2 ResourcesResources can be"}]}]}
+>```
+>%%
+>*%%PREFIX%%iorities to events, or to offer%%HIGHLIGHT%% ==preemption== %%POSTFIX%%.3.5.2 ResourcesResources can be*
+>%%LINK%%[[#^65411kbcc8x|show annotation]]
+>%%COMMENT%%
+>先买权
+>%%TAGS%%
+>#生词
+^65411kbcc8x
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:43:46.230Z","text":"抢占式资源","updated":"2024-09-14T14:43:46.230Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":46706,"end":46724},{"type":"TextQuoteSelector","exact":"PreemptiveResource","prefix":"cesses are sorted by priority3. ","suffix":", where processes additionally m"}]}]}
+>```
+>%%
+>*%%PREFIX%%cesses are sorted by priority3.%%HIGHLIGHT%% ==PreemptiveResource== %%POSTFIX%%, where processes additionally m*
+>%%LINK%%[[#^94kdf7a2k16|show annotation]]
+>%%COMMENT%%
+>抢占式资源
+>%%TAGS%%
+>#生词
+^94kdf7a2k16
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:45:11.431Z","text":"强制","updated":"2024-09-14T14:45:11.431Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":46890,"end":46900},{"type":"TextQuoteSelector","exact":"obligatory","prefix":"only parameter – apart from the ","suffix":" reference to anEnvironment – is"}]}]}
+>```
+>%%
+>*%%PREFIX%%only parameter – apart from the%%HIGHLIGHT%% ==obligatory== %%POSTFIX%%reference to anEnvironment – is*
+>%%LINK%%[[#^a5zvr7s8ry6|show annotation]]
+>%%COMMENT%%
+>强制
+>%%TAGS%%
+>#生词
+^a5zvr7s8ry6
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-14T14:47:34.777Z","text":"抢占","updated":"2024-09-14T14:47:34.777Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":46759,"end":46767},{"type":"TextQuoteSelector","exact":"preempt ","prefix":"here processes additionally may ","suffix":"other processes with a lower pri"}]}]}
+>```
+>%%
+>*%%PREFIX%%here processes additionally may%%HIGHLIGHT%% ==preempt== %%POSTFIX%%other processes with a lower pri*
+>%%LINK%%[[#^fxpwk3mn64m|show annotation]]
+>%%COMMENT%%
+>抢占
+>%%TAGS%%
+>#生词
+^fxpwk3mn64m
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T00:12:16.263Z","text":"信号","updated":"2024-09-15T00:12:16.263Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":46843,"end":46852},{"type":"TextQuoteSelector","exact":"semaphore","prefix":"eThe Resource is conceptually a ","suffix":". Its only parameter – apart fro"}]}]}
+>```
+>%%
+>*%%PREFIX%%eThe Resource is conceptually a%%HIGHLIGHT%% ==semaphore== %%POSTFIX%%. Its only parameter – apart fro*
+>%%LINK%%[[#^7n47nzdxky|show annotation]]
+>%%COMMENT%%
+>信号
+>%%TAGS%%
+>#生词
+^7n47nzdxky
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T00:30:35.950Z","text":"上下文，简而言之，就是程式所执行的环境状态，或者说程式运行的情景。既然提及上下文，就不可避免的涉及 Python 中关于上下文的魔法。\n\n- 上下文管理器(context manager)是 Python2.5 开始支持的一种语法，用于规定某个对象的使用范围。\n- 一旦进入或者离开该使用范围，会有特殊操作被调用。\n- 它的语法形式是 with…as…，主要应用场景资源的创建和释放。\n- 例如，文件就支持上下文管理器，可以确保完成文件读写后关闭文件句柄。\n\n[上下文管理器](https://zhuanlan.zhihu.com/p/73913455)\n[contextlib-廖雪峰](https://liaoxuefeng.com/books/python/built-in-modules/contextlib/)","updated":"2024-09-15T00:30:35.950Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":47926,"end":47941},{"type":"TextQuoteSelector","exact":"context manager","prefix":", request events can be used as ","suffix":":>>> def resource_user(env, reso"}]}]}
+>```
+>%%
+>*%%PREFIX%%, request events can be used as%%HIGHLIGHT%% ==context manager== %%POSTFIX%%:>>> def resource_user(env, reso*
+>%%LINK%%[[#^5k98ik04y8v|show annotation]]
+>%%COMMENT%%
+>上下文，简而言之，就是程式所执行的环境状态，或者说程式运行的情景。既然提及上下文，就不可避免的涉及 Python 中关于上下文的魔法。
+>
+>- 上下文管理器(context manager)是 Python2.5 开始支持的一种语法，用于规定某个对象的使用范围。
+>- 一旦进入或者离开该使用范围，会有特殊操作被调用。
+>- 它的语法形式是 with…as…，主要应用场景资源的创建和释放。
+>- 例如，文件就支持上下文管理器，可以确保完成文件读写后关闭文件句柄。
+>
+>[上下文管理器](https://zhuanlan.zhihu.com/p/73913455)
+>[contextlib-廖雪峰](https://liaoxuefeng.com/books/python/built-in-modules/contextlib/)
+>%%TAGS%%
+>
+^5k98ik04y8v
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-15T07:54:56.554Z","text":"更重要请求将比不太重要的请求更早地获得对资源的访问权限。","updated":"2024-09-15T07:54:56.554Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":49545,"end":49635},{"type":"TextQuoteSelector","exact":"More importantrequests will gain access to the resource earlier than less important ones. ","prefix":"de a priority for each request. ","suffix":"Priority is expressed by integer"}]}]}
+>```
+>%%
+>*%%PREFIX%%de a priority for each request.%%HIGHLIGHT%% ==More importantrequests will gain access to the resource earlier than less important ones.== %%POSTFIX%%Priority is expressed by integer*
+>%%LINK%%[[#^zz6ae60b6a|show annotation]]
+>%%COMMENT%%
+>更重要请求将比不太重要的请求更早地获得对资源的访问权限。
+>%%TAGS%%
+>
+^zz6ae60b6a
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-17T09:56:32.073Z","text":"同质","updated":"2024-09-17T09:56:32.073Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":54411,"end":54422},{"type":"TextQuoteSelector","exact":"homogeneous","prefix":"production and consumption of a ","suffix":", undifferentiated bulk. It maye"}]}]}
+>```
+>%%
+>*%%PREFIX%%production and consumption of a%%HIGHLIGHT%% ==homogeneous== %%POSTFIX%%, undifferentiated bulk. It maye*
+>%%LINK%%[[#^z84ifq4azbe|show annotation]]
+>%%COMMENT%%
+>同质
+>%%TAGS%%
+>#生词
+^z84ifq4azbe
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-17T09:57:11.657Z","text":"汽油","updated":"2024-09-17T09:57:11.657Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":54563,"end":54570},{"type":"TextQuoteSelector","exact":"petrol ","prefix":"for example, to model the gas / ","suffix":"tank of a gas station. Tankers i"}]}]}
+>```
+>%%
+>*%%PREFIX%%for example, to model the gas /%%HIGHLIGHT%% ==petrol== %%POSTFIX%%tank of a gas station. Tankers i*
+>%%LINK%%[[#^61r1rcwamtf|show annotation]]
+>%%COMMENT%%
+>汽油
+>%%TAGS%%
+>#生词
+^61r1rcwamtf
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-17T09:58:01.615Z","text":"汽油","updated":"2024-09-17T09:58:01.615Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":54624,"end":54632},{"type":"TextQuoteSelector","exact":"gasoline","prefix":" Tankers increase the amount of ","suffix":"in the tank while cars decrease "}]}]}
+>```
+>%%
+>*%%PREFIX%%Tankers increase the amount of%%HIGHLIGHT%% ==gasoline== %%POSTFIX%%in the tank while cars decrease*
+>%%LINK%%[[#^ncgkgvptdq|show annotation]]
+>%%COMMENT%%
+>汽油
+>%%TAGS%%
+>#生词
+^ncgkgvptdq
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-19T14:40:04.300Z","text":"利用","updated":"2024-09-19T14:40:04.300Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":65515,"end":65527},{"type":"TextQuoteSelector","exact":"Utilization ","prefix":"ple you might want to monitor:• ","suffix":"of a resource over time and on a"}]}]}
+>```
+>%%
+>*%%PREFIX%%ple you might want to monitor:•%%HIGHLIGHT%% ==Utilization== %%POSTFIX%%of a resource over time and on a*
+>%%LINK%%[[#^69cab8jel9k|show annotation]]
+>%%COMMENT%%
+>利用
+>%%TAGS%%
+>#生词
+^69cab8jel9k
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-19T14:40:32.854Z","text":"众多","updated":"2024-09-19T14:40:32.854Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":65465,"end":65473},{"type":"TextQuoteSelector","exact":"numerous","prefix":"ses for resource monitoring are ","suffix":", for example you might want to "}]}]}
+>```
+>%%
+>*%%PREFIX%%ses for resource monitoring are%%HIGHLIGHT%% ==numerous== %%POSTFIX%%, for example you might want to*
+>%%LINK%%[[#^zqc4ayp4hv|show annotation]]
+>%%COMMENT%%
+>众多
+>%%TAGS%%
+>#生词
+^zqc4ayp4hv
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-19T14:42:43.720Z","updated":"2024-09-19T14:42:43.720Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":66078,"end":66233},{"type":"TextQuoteSelector","exact":"In contrast to your processes, you don’t have direct access to the code of the built-in resource classes. But this doesn’tprevent you from monitoring them.","prefix":"ten preemption occurs over time.","suffix":"Monkey-patching some of a resour"}]}]}
+>```
+>%%
+>*%%PREFIX%%ten preemption occurs over time.%%HIGHLIGHT%% ==In contrast to your processes, you don’t have direct access to the code of the built-in resource classes. But this doesn’tprevent you from monitoring them.== %%POSTFIX%%Monkey-patching some of a resour*
+>%%LINK%%[[#^udruk9k6qck|show annotation]]
+>%%COMMENT%%
+>
+>%%TAGS%%
+>
+^udruk9k6qck
+
+
+>%%
+>```annotation-json
+>{"created":"2024-09-19T15:13:33.686Z","text":"[偏函数-廖雪峰](https://liaoxuefeng.com/books/python/functional/partial/index.html)","updated":"2024-09-19T15:13:33.686Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":71286,"end":71293},{"type":"TextQuoteSelector","exact":"partial","prefix":"#functools.partial>>> monitor = ","suffix":"(monitor, data)>>>>>> env = simp"}]}]}
+>```
+>%%
+>*%%PREFIX%%#functools.partial>>> monitor =%%HIGHLIGHT%% ==partial== %%POSTFIX%%(monitor, data)>>>>>> env = simp*
+>%%LINK%%[[#^o8bjg5xv3l|show annotation]]
+>%%COMMENT%%
+>[偏函数-廖雪峰](https://liaoxuefeng.com/books/python/functional/partial/index.html)
+>%%TAGS%%
+>
+^o8bjg5xv3l
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-01T15:25:48.701Z","text":"[assert 函数用于程序调试](https://blog.csdn.net/TeFuirnever/article/details/88883859)\n\n语法：\n\n```Python\nassert_stmt ::=  \"assert\" expression [\",\" expression]\n```","updated":"2024-11-01T15:25:48.701Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":28961,"end":28967},{"type":"TextQuoteSelector","exact":"assert","prefix":" yield env.process(my_proc(env))","suffix":" ret_val == 423.3 EventsSimPy in"}]}]}
+>```
+>%%
+>*%%PREFIX%%yield env.process(my_proc(env))%%HIGHLIGHT%% ==assert== %%POSTFIX%%ret_val == 423.3 EventsSimPy in*
+>%%LINK%%[[#^kac0t7zbkvn|show annotation]]
+>%%COMMENT%%
+>[assert 函数用于程序调试](https://blog.csdn.net/TeFuirnever/article/details/88883859)
+>
+>语法：
+>
+>```Python
+>assert_stmt ::=  "assert" expression ["," expression]
+>```
+>%%TAGS%%
+>
+^kac0t7zbkvn
+
+
+>%%
+>```annotation-json
+>{"created":"2024-11-03T05:35:53.784Z","text":"[python asyncio的设计晦涩难懂，一点也不python，是做毁了吗？](https://www.zhihu.com/question/451397804/answer/3123427382)\n\nEvent Loop 不能中断正在执行的协程\n\nEvent Loop 不能强制中断当前正在执行的协程。当前正在执行的协程将继续执行，直到它让出控制权。Event Loop 选择下一个被调度的协程，并跟踪这些协程的状态，例如哪些协程被阻塞且无法执，直到某些 IO 完成。Event Loop 仅在当前没有协程正在执行时才执行去做这些跟踪状态的工作","updated":"2024-11-03T05:35:53.784Z","document":{"title":"SimPy Documentation","link":[{"href":"urn:x-pdf:03a4d120c201d42da3f9f2a754f71c5c"},{"href":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf"}],"documentFingerprint":"03a4d120c201d42da3f9f2a754f71c5c"},"uri":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","target":[{"source":"vault:/PDF/simpy-readthedocs-io-en-4.0.0.pdf","selector":[{"type":"TextPositionSelector","start":33721,"end":33743},{"type":"TextQuoteSelector","exact":"\\o/ \\o/ \\o/\\o/ \\o/ \\o/","prefix":"chool = School(env)>>> env.run()","suffix":"This can also be used like the p"}]}]}
+>```
+>%%
+>*%%PREFIX%%chool = School(env)>>> env.run()%%HIGHLIGHT%% ==\o/ \o/ \o/\o/ \o/ \o/== %%POSTFIX%%This can also be used like the p*
+>%%LINK%%[[#^825ifrjj6r4|show annotation]]
+>%%COMMENT%%
+>[python asyncio的设计晦涩难懂，一点也不python，是做毁了吗？](https://www.zhihu.com/question/451397804/answer/3123427382)
+>
+>Event Loop 不能中断正在执行的协程
+>
+>Event Loop 不能强制中断当前正在执行的协程。当前正在执行的协程将继续执行，直到它让出控制权。Event Loop 选择下一个被调度的协程，并跟踪这些协程的状态，例如哪些协程被阻塞且无法执，直到某些 IO 完成。Event Loop 仅在当前没有协程正在执行时才执行去做这些跟踪状态的工作
+>%%TAGS%%
+>
+^825ifrjj6r4

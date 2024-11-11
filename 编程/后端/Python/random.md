@@ -1,0 +1,1 @@
+[Python random.expovariate()|极客教程 (geek-docs.com)](https://geek-docs.com/python/python-random-module/random-expovariate-function-in-python.html)

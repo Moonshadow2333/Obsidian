@@ -1,3 +1,6 @@
+---
+update: 2024/9/6
+---
 
 通过这个插件的名称就可以猜到此插件和 Git 有关，事实确实如此。这个插件可以实现笔记的版本控制，并且让 Git 的操作图形化，更加简单，更加高效地实现 Git 的命令。当然我使用 Git 最重要的原因不是版本控制，而是实现同步。
 
@@ -104,3 +107,13 @@ git remote set-url origin git@github.com:Moonshadow2333/Obsidian.git
 ```
 
 最后再执行 `git push origin master` 命令来验证是否成功。
+
+####  SSL certificate problem: unable to get local issuer certificate
+
+fatal: unable to access 'https://github.com/moonshadow2333/Obsidian.git/': SSL certificate problem: unable to get local issuer certificate
+
+```
+git config --global http.sslVerify false
+```
+
+[解决：git SSL certificate problem: unable to get local issuer certificate-CSDN博客](https://blog.csdn.net/weixin_44014995/article/details/109900149)
