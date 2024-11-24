@@ -13,13 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/03使用.md",
+                "file": "编程/虚拟机/zabbix/agent/监控 windows.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "监控 windows"
+            }
+          },
+          {
+            "id": "fc6bd47f5aa576b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "监控 Linux"
+            }
+          },
+          {
+            "id": "6510fa61484b5491",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/虚拟机/zabbix/agent/config.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "config"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
             }
           },
           {
@@ -54,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
             }
           },
           {
@@ -62,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
             }
           },
           {
@@ -70,14 +107,16 @@
             "type": "leaf",
             "state": {
               "type": "tagfolder-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 200
   },
   "right": {
     "id": "d780a5b5b1cb8e63",
@@ -92,7 +131,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -101,10 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程/虚拟机/03使用.md",
+                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "监控 Linux 的出链列表"
             }
           },
           {
@@ -113,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程/虚拟机/03使用.md",
+                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -121,7 +164,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": false
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "监控 Linux 的反向链接列表"
             }
           },
           {
@@ -132,7 +177,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
             }
           }
         ]
@@ -147,8 +194,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/虚拟机/03使用.md"
-              }
+                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md"
+              },
+              "icon": "lucide-list",
+              "title": "监控 Linux 的大纲"
             }
           },
           {
@@ -156,7 +205,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
@@ -164,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -190,12 +243,31 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bd09b1323ec8ba4",
+  "active": "fc6bd47f5aa576b6",
   "lastOpenFiles": [
+    "编程/虚拟机/images/11_linux_agent_permission.png",
+    "编程/虚拟机/images/10_linux_agent_permission.png",
+    "编程/虚拟机/zabbix/agent/监控 windows.md",
+    "编程/虚拟机/zabbix/agent/监控 Linux.md",
+    "编程/虚拟机/zabbix/agent/config.md",
+    "编程/虚拟机/zabbix/agent/03使用.md",
     "编程/虚拟机/02 Linux 基本命令.md",
-    "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
     "编程/虚拟机/00安装与配置.md",
-    "编程/虚拟机/03使用.md",
+    "编程/虚拟机/images/09_agent_countfiles.png",
+    "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
+    "编程/虚拟机/zabbix/agent",
+    "编程/虚拟机/zabbix",
+    "Private/生活/202411/头发及皮肤.md",
+    "Private/生活/202403/家庭改造计划.md",
+    "Private/生活/202403/自我剖析.md",
+    "Private/生活/202402/一个人的朝圣.md",
+    "Private/生活/202402/个人改造计划.md",
+    "Private/生活/202402/二月至三月计划.md",
+    "Private/生活/202402/失败的经历.md",
+    "Private/生活/202402/驾校选择.md",
+    "Private/生活/202401/2023年存档.md",
+    "Private/生活/202401/未命名.md",
+    "Private/生活/202310/10月.md",
     "Office/PPT/纲领.md",
     "Office/PPT/00技巧.md",
     "Office/PPT/01对齐.md",
@@ -208,36 +280,17 @@
     "编程/虚拟机/images/01_虚拟机_设置网卡_NAT.png",
     "PDF/simpy 批注.md",
     "编程/虚拟机/images/02_虚拟机_设置网卡_仅主机.png",
-    "编程/虚拟机/iamges/00_虚拟机_设置网卡.png",
-    "编程/虚拟机/images/00_虚拟机_关机.png",
     "编程/虚拟机/images",
     "编程/虚拟机/新建文件夹",
-    "Private/生活/202411/头发及皮肤.md",
     "编程/后端/Python/Simulation/Simpy/基础.md",
     "Private/生活/202411",
     "编程/虚拟机",
     "编程/后端/Python/Simulation/Simpy/Simpy.md",
     "编程/后端/Python/async.md",
-    "编程/后端/Python/Simulation/Simpy/resource.md",
-    "编程/后端/Python/Yield/00yield.md",
-    "PDF/PMBOK 批注.md",
-    "编程/后端/Python/Simulation/业务/设备.md",
-    "编程/后端/Python/Yield/01yield.md",
-    "Inbox/未命名.md",
-    "Inbox/2024-10-20.md",
-    "Inbox/Canva.md",
     "Office/PPT",
-    "Inbox/新秀之星.md",
-    "Excalidraw/Drawing 2024-09-24 22.18.54.excalidraw.md",
     "编程/后端/Python/Yield",
-    "Inbox/提纲.md",
-    "编程/后端/Python/random.md",
-    "间歇笔记/生活日志/2024-09-18_星期三.md",
-    "Excalidraw/Drawing 2024-09-17 08.13.42.excalidraw.md",
     "编程/后端/Python/Simulation/Simpy",
     "编程/后端/Python/Simulation/业务",
-    "编程/后端/Python/Simulation",
-    "PDF/PMBOK第六版_中文版（带完整目录）.pdf",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]
