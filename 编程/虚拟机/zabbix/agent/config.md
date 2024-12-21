@@ -8,6 +8,8 @@ aliases:
 date: 2024-11-19
 ---
 
+## 原始 config
+
 ```
 # This is a configuration file for Zabbix agent service (Windows)
 # To get more information about Zabbix, visit https://www.zabbix.com
@@ -535,5 +537,32 @@ Include=C:\Program Files\Zabbix Agent\zabbix_agentd.d\
 # Range: 0 - INT_MAX (depends on system, too large values may be silently truncated to implementation-specified maximum)
 # Default: SOMAXCONN (hard-coded constant, depends on system)
 # ListenBacklog=
-
 ```
+
+# Server 与 ServerActive
+
+> [!note] 参考资料
+> [一文说透Zabbix的主动模式与被动模式 - 潇湘隐者 - 博客园](https://www.cnblogs.com/kerrycode/p/18582311)
+> [Zabbix配置文件中Server和ServerActive参数讲解](http://www.mzph.cn/web/40854.shtml)
+
+1. **`Server` 参数**:
+    
+    - 在 `zabbix_agentd.conf` 中，`Server=192.168.226.21` 指定了允许连接到代理的 Zabbix 服务器的 IP 地址。这样，只有 `192.168.226.21` 可以与此代理通信。
+2. **`ServerActive` 参数**:
+    
+    - 在 `zabbix_agentd.conf` 中，`ServerActive=192.168.226.21` 指定了代理将主动连接的 Zabbix 服务器的 IP 地址。代理将定期向这个服务器发送监控数据。
+
+具体配置
+
+1. **匹配 `Server` 参数**:
+    
+    - 在 `zabbix_agentd.conf` 中设置 `Server` 参数，确保其值为 Zabbix Server 的 IP 地址。这样，代理只接受来自该服务器的连接请求。
+2. **匹配 `ServerActive` 参数**:
+    
+    - 在 `zabbix_agentd.conf` 中设置 `ServerActive` 参数，确保其值为 Zabbix Server 的 IP 地址。这样，代理将在主动模式下向该服务器发送数据。
+3. **确保防火墙规则**:
+    
+    - 确保防火墙规则允许代理与服务器之间的通信。默认情况下，Zabbix Server 监听端口为 `10051`，代理监听端口为 `10050`。
+4. **重启服务**:
+    
+    - 使配置生效，重启 Zabbix Agent 服务：

@@ -27,3 +27,11 @@ systemctl status zabbix-agent
 netstat -tuln
 ```
 
+# 统计指定文件夹的总大写
+
+```
+du -sh temp/
+```
+
+> [!note] 参考资料
+> [Linux下du命令详解 -- 查看文件和目录大小、文件夹大小 - jack_Meng - 博客园](https://www.cnblogs.com/mq0036/p/14784188.html)

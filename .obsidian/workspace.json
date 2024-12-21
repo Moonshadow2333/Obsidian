@@ -4,53 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "e3d86d180c593e90",
+        "id": "267ea5f913e1ae1f",
         "type": "tabs",
         "children": [
           {
-            "id": "5f5bf9e64c4e7dce",
+            "id": "f468595ed2fd7b21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/zabbix/agent/监控 windows.md",
+                "file": "间歇笔记/生活日志/2024-03-11_星期一.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "监控 windows"
+              "title": "2024-03-11_星期一"
             }
           },
           {
-            "id": "fc6bd47f5aa576b6",
+            "id": "3f7742aba9b356bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md",
+                "file": "编程/后端/PHP/Laravel/env和env.example的区别.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "env和env.example的区别"
+            }
+          },
+          {
+            "id": "ea34ede929037a3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Private/生成QQ邮箱授权码.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "监控 Linux"
+              "title": "生成QQ邮箱授权码"
             }
           },
           {
-            "id": "6510fa61484b5491",
+            "id": "782004a3ab38812b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/zabbix/agent/config.md",
+                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "config"
+              "title": "2024-03-25_星期一"
+            }
+          },
+          {
+            "id": "cdd9348ac21c7ca9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "00控制结构"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "QQ邮箱",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/虚拟机/zabbix/agent/监控 Linux.md"
+                "file": "Private/生成QQ邮箱授权码.md"
               },
               "icon": "lucide-list",
-              "title": "监控 Linux 的大纲"
+              "title": "生成QQ邮箱授权码 的大纲"
             }
           },
           {
@@ -243,54 +271,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "fc6bd47f5aa576b6",
+  "active": "1bd09b1323ec8ba4",
   "lastOpenFiles": [
+    "编程/前端/JavaScript/Vue/00前言.md",
+    "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
+    "编程/虚拟机/02 Linux 基本命令.md",
+    "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
+    "编程/虚拟机/00安装与配置.md",
+    "编程/后端/Python/Simulation/Simpy/基础.md",
+    "编程/数据库/MySQL/数据库系统教程/数据模型/数据模型.md",
+    "编程/前端/vite.md",
+    "编程/后端/Python/Simulation/Simpy/resource.md",
+    "编程/后端/Python/Simulation/Simpy/Simpy.md",
+    "间歇笔记/生活日志/2024-08-18_星期日.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "Private/生活/202310/10月.md",
+    "Private/生活/202401/2023年存档.md",
+    "Inbox/个人困境.md",
+    "间歇笔记/生活日志/2024-03-11_星期一.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "编程/后端/PHP/Laravel/env和env.example的区别.md",
+    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
+    "编程/后端/PHP/包管理工具/00composer.md",
+    "编程/后端/PHP/包管理工具",
+    "面试经验/利典一面.md",
+    "编程/后端/PHP/Laravel/启动一个新项目.md",
+    "编程/后端/PHP/Laravel/多版本接口.md",
+    "编程/后端/PHP/Laravel/日志中间件.md",
+    "编程/后端/PHP/Laravel/异常.md",
+    "编程/后端/PHP/images/npm_err.png",
+    "编程/后端/PHP/images/npm_operation_err.png",
+    "编程/网络/images/00_网络_IP.png",
+    "编程/网络/images",
+    "编程/网络/新建文件夹",
+    "Private/未命名",
+    "编程/虚拟机/Ubuntu/文件系统",
+    "Private/买房",
+    "编程/虚拟机/Ubuntu/shell 基础",
+    "编程/虚拟机/Ubuntu/bash 程序设计",
+    "编程/虚拟机/Ubuntu",
+    "Office/PPT/images/00_蒙版.png",
+    "Office/PPT/images",
     "编程/虚拟机/images/11_linux_agent_permission.png",
     "编程/虚拟机/images/10_linux_agent_permission.png",
-    "编程/虚拟机/zabbix/agent/监控 windows.md",
-    "编程/虚拟机/zabbix/agent/监控 Linux.md",
-    "编程/虚拟机/zabbix/agent/config.md",
-    "编程/虚拟机/zabbix/agent/03使用.md",
-    "编程/虚拟机/02 Linux 基本命令.md",
-    "编程/虚拟机/00安装与配置.md",
     "编程/虚拟机/images/09_agent_countfiles.png",
-    "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
-    "编程/虚拟机/zabbix/agent",
-    "编程/虚拟机/zabbix",
-    "Private/生活/202411/头发及皮肤.md",
-    "Private/生活/202403/家庭改造计划.md",
-    "Private/生活/202403/自我剖析.md",
-    "Private/生活/202402/一个人的朝圣.md",
-    "Private/生活/202402/个人改造计划.md",
-    "Private/生活/202402/二月至三月计划.md",
-    "Private/生活/202402/失败的经历.md",
-    "Private/生活/202402/驾校选择.md",
-    "Private/生活/202401/2023年存档.md",
-    "Private/生活/202401/未命名.md",
-    "Private/生活/202310/10月.md",
-    "Office/PPT/纲领.md",
-    "Office/PPT/00技巧.md",
-    "Office/PPT/01对齐.md",
     "编程/虚拟机/images/08_agent_windows_报错.png",
     "编程/虚拟机/images/07_远程连接_成功.png",
     "编程/虚拟机/images/06_远程连接_启动.png",
-    "编程/虚拟机/images/05_远程连接_插件配置.png",
-    "编程/虚拟机/images/04_远程连接_插件.png",
-    "编程/虚拟机/images/03_虚拟机_ip_addr.png",
-    "编程/虚拟机/images/01_虚拟机_设置网卡_NAT.png",
-    "PDF/simpy 批注.md",
-    "编程/虚拟机/images/02_虚拟机_设置网卡_仅主机.png",
-    "编程/虚拟机/images",
-    "编程/虚拟机/新建文件夹",
-    "编程/后端/Python/Simulation/Simpy/基础.md",
-    "Private/生活/202411",
-    "编程/虚拟机",
-    "编程/后端/Python/Simulation/Simpy/Simpy.md",
-    "编程/后端/Python/async.md",
-    "Office/PPT",
-    "编程/后端/Python/Yield",
-    "编程/后端/Python/Simulation/Simpy",
-    "编程/后端/Python/Simulation/业务",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]

@@ -200,7 +200,7 @@ ps -ef | grep zabbix
 
 ##### 修改 zabbx_agentd.conf
 
-默认的路径：`/etc/zabbix/zabbix_agentd.conf`，只要将默认的 [[config]] 中的 AllowRoot 的值修改为 1 即可，如下所示：
+默认的路径：`/etc/zabbix/zabbix_agentd.conf`，只要将默认的 config 中的 AllowRoot 的值修改为 1 即可，如下所示：
 
 ```
 ### Option: AllowRoot
