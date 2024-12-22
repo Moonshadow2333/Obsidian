@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/后端/PHP/Laravel/env和env.example的区别.md",
+                "file": "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "env和env.example的区别"
-            }
-          },
-          {
-            "id": "ea34ede929037a3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Private/生成QQ邮箱授权码.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "生成QQ邮箱授权码"
+              "title": "vue3-pinia-and-laravel-9-blog-app"
             }
           },
           {
@@ -55,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "间歇笔记/生活日志/2024-03-25_星期一.md",
-                "mode": "source",
+                "file": "编程/前端/JavaScript/Vue/00前言.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "2024-03-25_星期一"
+              "title": "00前言"
             }
           },
           {
@@ -222,10 +208,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/生成QQ邮箱授权码.md"
+                "file": "编程/前端/JavaScript/Vue/00前言.md"
               },
               "icon": "lucide-list",
-              "title": "生成QQ邮箱授权码 的大纲"
+              "title": "00前言 的大纲"
             }
           },
           {
@@ -271,10 +257,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1bd09b1323ec8ba4",
+  "active": "782004a3ab38812b",
   "lastOpenFiles": [
+    "编程/前端/JavaScript/Vue/01开始.md",
+    "编程/前端/JavaScript/Vue/02声明式渲染.md",
     "编程/前端/JavaScript/Vue/00前言.md",
     "间歇笔记/生活日志/2024-03-25_星期一.md",
+    "Private/生活/君平.md",
+    "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "Private/生成QQ邮箱授权码.md",
+    "编程/后端/PHP/Laravel/env和env.example的区别.md",
     "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
     "编程/虚拟机/02 Linux 基本命令.md",
     "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
@@ -285,21 +278,14 @@
     "编程/后端/Python/Simulation/Simpy/resource.md",
     "编程/后端/Python/Simulation/Simpy/Simpy.md",
     "间歇笔记/生活日志/2024-08-18_星期日.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
     "Private/生活/202310/10月.md",
     "Private/生活/202401/2023年存档.md",
     "Inbox/个人困境.md",
     "间歇笔记/生活日志/2024-03-11_星期一.md",
     "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-    "编程/后端/PHP/Laravel/env和env.example的区别.md",
     "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
     "编程/后端/PHP/包管理工具/00composer.md",
     "编程/后端/PHP/包管理工具",
-    "面试经验/利典一面.md",
-    "编程/后端/PHP/Laravel/启动一个新项目.md",
-    "编程/后端/PHP/Laravel/多版本接口.md",
-    "编程/后端/PHP/Laravel/日志中间件.md",
-    "编程/后端/PHP/Laravel/异常.md",
     "编程/后端/PHP/images/npm_err.png",
     "编程/后端/PHP/images/npm_operation_err.png",
     "编程/网络/images/00_网络_IP.png",
