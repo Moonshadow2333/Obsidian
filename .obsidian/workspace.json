@@ -27,26 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+                "file": "编程/前端/JavaScript/Vue/02声明式渲染.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "vue3-pinia-and-laravel-9-blog-app"
-            }
-          },
-          {
-            "id": "782004a3ab38812b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/前端/JavaScript/Vue/00前言.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "00前言"
+              "title": "02声明式渲染"
             }
           },
           {
@@ -55,12 +41,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
+                "file": "编程/虚拟机/Ubuntu/bash 程序设计/01参数和变量.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00控制结构"
+              "title": "01参数和变量"
+            }
+          },
+          {
+            "id": "bd30668c5eb2d389",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-12-31 14.05.39.excalidraw"
             }
           }
         ],
@@ -95,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "QQ邮箱",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -208,10 +206,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/JavaScript/Vue/00前言.md"
+                "file": "编程/虚拟机/Ubuntu/bash 程序设计/01参数和变量.md"
               },
               "icon": "lucide-list",
-              "title": "00前言 的大纲"
+              "title": "01参数和变量 的大纲"
             }
           },
           {
@@ -257,34 +255,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "782004a3ab38812b",
+  "active": "cdd9348ac21c7ca9",
   "lastOpenFiles": [
-    "编程/前端/JavaScript/Vue/01开始.md",
-    "编程/前端/JavaScript/Vue/02声明式渲染.md",
-    "编程/前端/JavaScript/Vue/00前言.md",
-    "间歇笔记/生活日志/2024-03-25_星期一.md",
-    "Private/生活/君平.md",
-    "基础学科/英语/多领国/第三部分/介绍美国不同的地方.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
-    "Private/生成QQ邮箱授权码.md",
-    "编程/后端/PHP/Laravel/env和env.example的区别.md",
+    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
+    "编程/虚拟机/Ubuntu/bash 程序设计/01参数和变量.md",
+    "Office/PPT/05排版篇形状颜色.md",
+    "Office/PPT/04排版篇PPT自带的形状库.md",
+    "Office/PPT/03排版篇下.md",
+    "Office/PPT/02排版篇上.md",
+    "Office/PPT/01默认设置.md",
+    "Office/PPT/00技巧.md",
     "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
-    "编程/虚拟机/02 Linux 基本命令.md",
-    "编程/虚拟机/01Vscode 远程连接 Ubuntu.md",
-    "编程/虚拟机/00安装与配置.md",
-    "编程/后端/Python/Simulation/Simpy/基础.md",
-    "编程/数据库/MySQL/数据库系统教程/数据模型/数据模型.md",
-    "编程/前端/vite.md",
-    "编程/后端/Python/Simulation/Simpy/resource.md",
+    "编程/后端/Python/Simulation/20241229/00前言.md",
+    "编程/前端/JavaScript/Vue/00前言.md",
+    "Inbox/vue.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/01Environments.md",
+    "编程/后端/Python/Simulation/20241229",
+    "编程/后端/Python/Simulation/Simpy/mindmap/00basics.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/03ProcessInteraction.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/02Events.md",
     "编程/后端/Python/Simulation/Simpy/Simpy.md",
-    "间歇笔记/生活日志/2024-08-18_星期日.md",
-    "Private/生活/202310/10月.md",
-    "Private/生活/202401/2023年存档.md",
-    "Inbox/个人困境.md",
-    "间歇笔记/生活日志/2024-03-11_星期一.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
-    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
-    "编程/后端/PHP/包管理工具/00composer.md",
+    "编程/后端/Python/async.md",
+    "编程/后端/Python/random.md",
+    "编程/后端/Python/Simulation/业务/设备.md",
+    "编程/后端/Python/Yield/00yield.md",
+    "编程/后端/Python/Simulation/Simpy/resource.md",
+    "编程/后端/Python/Yield/01yield.md",
+    "编程/后端/Python/Simulation/Simpy/基础.md",
+    "编程/前端/JavaScript/Vue/06条件渲染.md",
+    "编程/前端/JavaScript/Vue/05表单绑定.md",
     "编程/后端/PHP/包管理工具",
     "编程/后端/PHP/images/npm_err.png",
     "编程/后端/PHP/images/npm_operation_err.png",
@@ -298,7 +297,6 @@
     "编程/虚拟机/Ubuntu/bash 程序设计",
     "编程/虚拟机/Ubuntu",
     "Office/PPT/images/00_蒙版.png",
-    "Office/PPT/images",
     "编程/虚拟机/images/11_linux_agent_permission.png",
     "编程/虚拟机/images/10_linux_agent_permission.png",
     "编程/虚拟机/images/09_agent_countfiles.png",

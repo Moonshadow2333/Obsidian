@@ -67,6 +67,17 @@ sh dir_size.sh
 > [!note] 参考资料
 > [执行.sh文件（shell脚本）的几种方式_执行sh-CSDN博客](https://blog.csdn.net/admin123404/article/details/115707774)
 
+## 新增网络是否 ping 通脚本
+
+```
+# ping 一次该 IP, 超时设置 1s (如果 1s 内没 ping 通, 就停止 ping)
+if ping -c 1 -w 1 baidu.com >/dev/null; then
+	echo 'ping success'
+else
+	echo 'ping failed'
+fi
+```
+
 ## 重启 zabbix-agent
 
 ```
