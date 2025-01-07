@@ -36,3 +36,6 @@ const titleClass = ref('title')
 }
 </style>
 ```
+
+> [!note]
+> [Vue 3 属性绑定（超详细） - 犬小哈教程](https://www.quanxiaoha.com/vue3/vue3-v-bind.html)
