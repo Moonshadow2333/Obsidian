@@ -25,13 +25,14 @@
             "id": "3f7742aba9b356bc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "编程/虚拟机/Ubuntu/bash 程序设计/01参数和变量.md",
-                "staged": true
+                "file": "编程/后端/Python/Simulation/20241229/00前言.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (01参数和变量)"
+              "icon": "lucide-file",
+              "title": "00前言"
             }
           },
           {
@@ -190,9 +191,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "编程/后端/Python/Simulation/20241229/00前言.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "00前言 的大纲"
             }
           },
           {
@@ -238,34 +241,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0c9aa992899f565b",
+  "active": "3f7742aba9b356bc",
   "lastOpenFiles": [
+    "编程/后端/Python/Simulation/Simpy/基础.md",
+    "编程/后端/Python/Simulation/20241229/00前言.md",
+    "编程/后端/Python/Simulation/Simpy/resource.md",
+    "编程/后端/Python/Simulation/Simpy/Simpy.md",
+    "编程/后端/Python/Simulation/20241229/01.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "Office/PPT/09编辑形状.md",
+    "Office/PPT/images/09排版篇形状编辑案例上.md",
+    "Pasted image 20250109212134.png",
+    "编程/虚拟机/zabbix/模板.md",
+    "编程/虚拟机/zabbix/agent/监控 windows.md",
+    "编程/虚拟机/zabbix/03配置邮箱.md",
+    "编程/虚拟机/00安装与配置.md",
+    "编程/虚拟机/zabbix/agent/config.md",
+    "编程/虚拟机/zabbix/agent/03使用.md",
+    "编程/虚拟机/zabbix/agent/监控 Linux.md",
+    "编程/虚拟机/zabbix/agent/agent2.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/03ProcessInteraction.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/02Events.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/01Environments.md",
+    "编程/后端/Python/Simulation/Simpy/mindmap/00basics.md",
+    "编程/前端/JavaScript/Vue/例子.md",
+    "编程/前端/JavaScript/Vue/12Vue Router.md",
     "Office/PPT/08排版篇自带形状下.md",
     "Office/PPT/07排版篇自带形状上.md",
-    "编程/前端/JavaScript/Vue/例子.md",
     "编程/前端/JavaScript/Vue/03Attribute绑定.md",
     "编程/前端/JavaScript/Vue/01开始.md",
-    "编程/前端/JavaScript/Vue/12Vue Router.md",
-    "编程/前端/JavaScript/Vue/11组件.md",
-    "编程/前端/JavaScript/Vue/10侦听器.md",
-    "编程/前端/JavaScript/Vue/08计算属性.md",
-    "编程/前端/JavaScript/Vue/09模板引用与生命周期.md",
-    "编程/前端/JavaScript/Vue/02声明式渲染.md",
-    "编程/前端/JavaScript/Vue/07列表渲染.md",
-    "编程/前端/JavaScript/Vue/06条件渲染.md",
-    "Office/PPT/06排版篇形状颜色.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
-    "Office/PPT/02排版篇上.md",
-    "Office/PPT/01默认设置.md",
-    "Office/PPT/03排版篇下.md",
-    "Office/PPT/00技巧.md",
-    "Office/PPT/05排版篇形状颜色.md",
-    "编程/虚拟机/Ubuntu/bash 程序设计/01参数和变量.md",
-    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
-    "Office/PPT/04排版篇PPT自带的形状库.md",
-    "编程/虚拟机/Ubuntu/bash 程序设计/00控制结构.md",
-    "编程/后端/Python/Simulation/20241229/00前言.md",
-    "编程/前端/JavaScript/Vue/00前言.md",
     "编程/后端/Python/Simulation/20241229",
     "编程/后端/PHP/包管理工具",
     "编程/后端/PHP/images/npm_err.png",
@@ -285,7 +289,6 @@
     "编程/虚拟机/images/09_agent_countfiles.png",
     "编程/虚拟机/images/08_agent_windows_报错.png",
     "编程/虚拟机/images/07_远程连接_成功.png",
-    "编程/虚拟机/images/06_远程连接_启动.png",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]
