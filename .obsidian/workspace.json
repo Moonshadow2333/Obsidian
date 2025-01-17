@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f468595ed2fd7b21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "间歇笔记/生活日志/2024-03-11_星期一.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "2024-03-11_星期一"
-            }
-          },
-          {
-            "id": "3f7742aba9b356bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程/后端/Python/Simulation/20241229/00前言.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "00前言"
-            }
-          },
-          {
             "id": "bd30668c5eb2d389",
             "type": "leaf",
             "state": {
@@ -45,6 +17,16 @@
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-12-31 14.05.39.excalidraw"
+            }
+          },
+          {
+            "id": "477b6b9cdf25cdad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
             }
           }
         ],
@@ -79,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "柔化",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +92,8 @@
               "title": "插件不再活动"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,11 +174,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "编程/后端/Python/Simulation/20241229/00前言.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "00前言 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -218,7 +199,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -241,35 +223,35 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3f7742aba9b356bc",
+  "active": "477b6b9cdf25cdad",
   "lastOpenFiles": [
-    "编程/后端/Python/Simulation/Simpy/基础.md",
-    "编程/后端/Python/Simulation/20241229/00前言.md",
-    "编程/后端/Python/Simulation/Simpy/resource.md",
-    "编程/后端/Python/Simulation/Simpy/Simpy.md",
-    "编程/后端/Python/Simulation/20241229/01.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "Office/PPT/14图片.md",
+    "Office/PPT/07排版篇自带形状上.md",
+    "Office/PPT/12文字效果基本格式.md",
+    "Office/PPT/06排版篇形状颜色.md",
+    "Office/PPT/08排版篇自带形状下.md",
     "Office/PPT/09编辑形状.md",
-    "Office/PPT/images/09排版篇形状编辑案例上.md",
-    "Pasted image 20250109212134.png",
-    "编程/虚拟机/zabbix/模板.md",
-    "编程/虚拟机/zabbix/agent/监控 windows.md",
-    "编程/虚拟机/zabbix/03配置邮箱.md",
-    "编程/虚拟机/00安装与配置.md",
-    "编程/虚拟机/zabbix/agent/config.md",
-    "编程/虚拟机/zabbix/agent/03使用.md",
-    "编程/虚拟机/zabbix/agent/监控 Linux.md",
-    "编程/虚拟机/zabbix/agent/agent2.md",
-    "编程/后端/Python/Simulation/Simpy/mindmap/03ProcessInteraction.md",
-    "编程/后端/Python/Simulation/Simpy/mindmap/02Events.md",
-    "编程/后端/Python/Simulation/Simpy/mindmap/01Environments.md",
-    "编程/后端/Python/Simulation/Simpy/mindmap/00basics.md",
+    "Office/PPT/10线条.md",
+    "Office/PPT/11文字.md",
+    "Office/PPT/12文字效果.md",
     "编程/前端/JavaScript/Vue/例子.md",
     "编程/前端/JavaScript/Vue/12Vue Router.md",
-    "Office/PPT/08排版篇自带形状下.md",
-    "Office/PPT/07排版篇自带形状上.md",
+    "Private/生活/君平.md",
+    "Inbox/2025-01-15.md",
+    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
+    "Inbox/自身缺陷.md",
+    "编程/前端/JavaScript/Vue/10侦听器.md",
+    "编程/前端/JavaScript/Vue/09模板引用与生命周期.md",
+    "编程/前端/JavaScript/Vue/08计算属性.md",
+    "编程/前端/JavaScript/Vue/07列表渲染.md",
+    "编程/前端/JavaScript/Vue/06条件渲染.md",
+    "编程/前端/JavaScript/Vue/05表单绑定.md",
+    "编程/前端/JavaScript/Vue/04事件监听.md",
     "编程/前端/JavaScript/Vue/03Attribute绑定.md",
     "编程/前端/JavaScript/Vue/01开始.md",
+    "编程/前端/JavaScript/Vue/02声明式渲染.md",
+    "编程/前端/JavaScript/Vue/00前言.md",
+    "Pasted image 20250109212134.png",
     "编程/后端/Python/Simulation/20241229",
     "编程/后端/PHP/包管理工具",
     "编程/后端/PHP/images/npm_err.png",
