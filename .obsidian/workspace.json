@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "267ea5f913e1ae1f",
+        "id": "6717690ef1d18d88",
         "type": "tabs",
         "children": [
           {
-            "id": "bd30668c5eb2d389",
+            "id": "1b38e7bfcb21c02e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md"
+                "file": "编程/前端/JavaScript/基础知识/Async await.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-12-31 14.05.39.excalidraw"
-            }
-          },
-          {
-            "id": "477b6b9cdf25cdad",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "Async await"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "柔化",
+                "query": "promis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,8 +83,7 @@
               "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,9 +164,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "编程/前端/JavaScript/基础知识/Async await.md"
+              },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Async await 的大纲"
             }
           },
           {
@@ -199,8 +191,7 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -223,8 +214,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "477b6b9cdf25cdad",
+  "active": "1b38e7bfcb21c02e",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
+    "编程/前端/JavaScript/基础知识/Async await.md",
+    "编程/后端/Python/Yield/00yield.md",
+    "编程/前端/JavaScript/基础知识/Promise.md",
+    "编程/前端/JavaScript/Object 基础知识/构造器和操作符 new.md",
+    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
+    "编程/前端/JavaScript/Object 基础知识/可选链.md",
+    "编程/前端/JavaScript/数据类型/数组方法.md",
+    "编程/前端/JavaScript/数据类型/数字类型.md",
+    "编程/前端/JavaScript/数据类型/原始数据类型的方法.md",
+    "编程/前端/JavaScript/Ajax/00Ajax.md",
+    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "Office/PPT/15Smart图表.md",
     "Office/PPT/14图片.md",
     "Office/PPT/07排版篇自带形状上.md",
     "Office/PPT/12文字效果基本格式.md",
@@ -238,19 +242,6 @@
     "编程/前端/JavaScript/Vue/12Vue Router.md",
     "Private/生活/君平.md",
     "Inbox/2025-01-15.md",
-    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
-    "Inbox/自身缺陷.md",
-    "编程/前端/JavaScript/Vue/10侦听器.md",
-    "编程/前端/JavaScript/Vue/09模板引用与生命周期.md",
-    "编程/前端/JavaScript/Vue/08计算属性.md",
-    "编程/前端/JavaScript/Vue/07列表渲染.md",
-    "编程/前端/JavaScript/Vue/06条件渲染.md",
-    "编程/前端/JavaScript/Vue/05表单绑定.md",
-    "编程/前端/JavaScript/Vue/04事件监听.md",
-    "编程/前端/JavaScript/Vue/03Attribute绑定.md",
-    "编程/前端/JavaScript/Vue/01开始.md",
-    "编程/前端/JavaScript/Vue/02声明式渲染.md",
-    "编程/前端/JavaScript/Vue/00前言.md",
     "Pasted image 20250109212134.png",
     "编程/后端/Python/Simulation/20241229",
     "编程/后端/PHP/包管理工具",
