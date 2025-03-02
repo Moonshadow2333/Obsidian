@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b38e7bfcb21c02e",
+            "id": "8d02901afd80e951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/前端/JavaScript/基础知识/Async await.md",
-                "mode": "source",
+                "file": "Inbox/反射.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Async await"
+              "title": "反射"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "promis",
+                "query": "Container",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,10 +165,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/JavaScript/基础知识/Async await.md"
+                "file": "Inbox/反射.md"
               },
               "icon": "lucide-list",
-              "title": "Async await 的大纲"
+              "title": "反射 的大纲"
             }
           },
           {
@@ -214,34 +214,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1b38e7bfcb21c02e",
+  "active": "8d02901afd80e951",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-31 14.05.39.excalidraw.md",
-    "编程/前端/JavaScript/基础知识/Async await.md",
-    "编程/后端/Python/Yield/00yield.md",
-    "编程/前端/JavaScript/基础知识/Promise.md",
-    "编程/前端/JavaScript/Object 基础知识/构造器和操作符 new.md",
-    "编程/前端/JavaScript/函数进阶内容/装饰器模式和转发，call和apply.md",
-    "编程/前端/JavaScript/Object 基础知识/可选链.md",
-    "编程/前端/JavaScript/数据类型/数组方法.md",
-    "编程/前端/JavaScript/数据类型/数字类型.md",
-    "编程/前端/JavaScript/数据类型/原始数据类型的方法.md",
-    "编程/前端/JavaScript/Ajax/00Ajax.md",
-    "编程/前端/JavaScript/杂项/Proxy 和 Reflect.md",
+    "Inbox/递归.md",
+    "Inbox/反射.md",
     "Office/PPT/15Smart图表.md",
-    "Office/PPT/14图片.md",
-    "Office/PPT/07排版篇自带形状上.md",
     "Office/PPT/12文字效果基本格式.md",
-    "Office/PPT/06排版篇形状颜色.md",
-    "Office/PPT/08排版篇自带形状下.md",
-    "Office/PPT/09编辑形状.md",
-    "Office/PPT/10线条.md",
-    "Office/PPT/11文字.md",
     "Office/PPT/12文字效果.md",
-    "编程/前端/JavaScript/Vue/例子.md",
-    "编程/前端/JavaScript/Vue/12Vue Router.md",
-    "Private/生活/君平.md",
-    "Inbox/2025-01-15.md",
+    "Office/PPT/11文字.md",
+    "Office/PPT/10线条.md",
+    "基础学科/英语/新概念/第二册/Lesson35.md",
+    "基础学科/英语/新概念/基本原理.md",
+    "基础学科/英语/新概念/第二册/Lesson1.md",
+    "模板/基础模板.md",
+    "工具/Obsidian/插件/quick_add.md",
+    "编程/前端/JavaScript/基础知识/Async await.md",
+    "编程/前端/JavaScript/Object 基础知识/可选链.md",
+    "Office/PPT/09编辑形状.md",
+    "Office/PPT/08排版篇自带形状下.md",
+    "Office/PPT/07排版篇自带形状上.md",
+    "Office/PPT/06排版篇形状颜色.md",
+    "Office/PPT/05排版篇形状颜色.md",
+    "Office/PPT/04排版篇PPT自带的形状库.md",
+    "Office/PPT/配色.md",
+    "Office/PPT/03排版篇下.md",
+    "Office/PPT/02排版篇上.md",
+    "Office/PPT/00技巧.md",
+    "Office/PPT/渐变.md",
+    "Office/PPT/14图片.md",
     "Pasted image 20250109212134.png",
     "编程/后端/Python/Simulation/20241229",
     "编程/后端/PHP/包管理工具",
