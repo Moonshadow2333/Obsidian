@@ -1,6 +1,9 @@
 ---
-alias: 
-date:
+aliases:
+  - Vue
+  - 入门
+  - 安装
+date: 2025-03-17
 ---
 
 # 目录
@@ -26,3 +29,19 @@ let result = raws.join('\n');
 dv.container.style.lineHeight = "1.5em";
 dv.paragraph(result)
 ```
+
+# 安装 Vue
+
+```
+npm install vue
+npm install vue-router
+```
+
+# 打包工具选择
+
+[一篇文章说清 webpack、vite、vue-cli、create-vue 的区别 - 知乎](https://zhuanlan.zhihu.com/p/511524474)
+[Vite和Vue Cli对比Vite与Vue Cli Vite和Vue Cli可以是师出同门，功能都类似，他们之间到底什 - 掘金](https://juejin.cn/post/7018754950498877471)
+
+## Vite
+
+[开始 | Vite 官方中文文档](https://vitejs.cn/vite3-cn/guide/#trying-vite-online)

@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "6717690ef1d18d88",
+        "id": "49b5c21c4cd6228a",
         "type": "tabs",
         "children": [
           {
-            "id": "8d02901afd80e951",
+            "id": "c85bff1d0bec5f85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/反射.md",
+                "file": "编程/前端/CSS/06文本.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "反射"
+              "title": "06文本"
+            }
+          },
+          {
+            "id": "6453c5854fb56888",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/前端/CSS/07CSS动画.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "07CSS动画"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -52,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Container",
+                "query": "参考资料",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,10 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inbox/反射.md"
+                "file": "编程/前端/CSS/07CSS动画.md",
+                "followCursor": false,
+                "showSearch": true,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "反射 的大纲"
+              "title": "07CSS动画 的大纲"
             }
           },
           {
@@ -191,7 +210,8 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -214,34 +234,43 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d02901afd80e951",
+  "active": "6453c5854fb56888",
   "lastOpenFiles": [
-    "Inbox/递归.md",
-    "Inbox/反射.md",
-    "Office/PPT/15Smart图表.md",
-    "Office/PPT/12文字效果基本格式.md",
-    "Office/PPT/12文字效果.md",
-    "Office/PPT/11文字.md",
-    "Office/PPT/10线条.md",
-    "基础学科/英语/新概念/第二册/Lesson35.md",
-    "基础学科/英语/新概念/基本原理.md",
-    "基础学科/英语/新概念/第二册/Lesson1.md",
-    "模板/基础模板.md",
-    "工具/Obsidian/插件/quick_add.md",
-    "编程/前端/JavaScript/基础知识/Async await.md",
-    "编程/前端/JavaScript/Object 基础知识/可选链.md",
-    "Office/PPT/09编辑形状.md",
-    "Office/PPT/08排版篇自带形状下.md",
-    "Office/PPT/07排版篇自带形状上.md",
-    "Office/PPT/06排版篇形状颜色.md",
-    "Office/PPT/05排版篇形状颜色.md",
-    "Office/PPT/04排版篇PPT自带的形状库.md",
-    "Office/PPT/配色.md",
-    "Office/PPT/03排版篇下.md",
-    "Office/PPT/02排版篇上.md",
+    "banner_1.png",
+    "Inbox/快捷键.md",
+    "编程/前端/CSS/07CSS动画.md",
+    "编程/前端/CSS/06文本.md",
+    "编程/前端/images/line-height.png",
+    "编程/前端/images",
+    "编程/前端/CSS/f70f2b9b8639e14edf2adf0957f2f642.png.crdownload",
+    "编程/前端/CSS/04布局.md",
+    "编程/前端/CSS/05选择器.md",
     "Office/PPT/00技巧.md",
-    "Office/PPT/渐变.md",
-    "Office/PPT/14图片.md",
+    "编程/前端/CSS/02视觉化格式模型.md",
+    "编程/前端/CSS/03背景图片.md",
+    "编程/前端/CSS/04.md",
+    "Inbox/工具箱.md",
+    "编程/前端/CSS/01CSS属性值的计算过程.md",
+    "Excalidraw/CSS 属性计算过程简介.md",
+    "编程/前端/CSS/00小兔鲜.md",
+    "编程/前端/JavaScript/Vue/Vue 入门.md",
+    "编程/前端/CSS",
+    "编程/前端/vite.md",
+    "编程/前端/JavaScript/Vue/Vue Router/12Vue Router.md",
+    "编程/前端/JavaScript/Vue/Vue Router",
+    "Inbox/NodeJs 命令.md",
+    "编程/前端/JavaScript/Vue/例子.md",
+    "编程/前端/JavaScript/Vue/images",
+    "编程/前端/JavaScript/Vue/images/教训.png",
+    "编程/前端/JavaScript/Vue/14插槽的本质.md",
+    "编程/前端/JavaScript/Vue/00前言.md",
+    "Inbox/批处理.md",
+    "Inbox/未命名.md",
+    "编程/前端/JavaScript/Vue/11组件.md",
+    "模板/基础模板.md",
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "编程/后端/Python/Flask",
+    "编程/后端/Python/基础",
     "Pasted image 20250109212134.png",
     "编程/后端/Python/Simulation/20241229",
     "编程/后端/PHP/包管理工具",
@@ -249,19 +278,10 @@
     "编程/后端/PHP/images/npm_operation_err.png",
     "编程/网络/images/00_网络_IP.png",
     "编程/网络/images",
-    "编程/网络/新建文件夹",
-    "Private/未命名",
-    "编程/虚拟机/Ubuntu/文件系统",
-    "Private/买房",
-    "编程/虚拟机/Ubuntu/shell 基础",
-    "编程/虚拟机/Ubuntu/bash 程序设计",
-    "编程/虚拟机/Ubuntu",
     "Office/PPT/images/00_蒙版.png",
     "编程/虚拟机/images/11_linux_agent_permission.png",
     "编程/虚拟机/images/10_linux_agent_permission.png",
     "编程/虚拟机/images/09_agent_countfiles.png",
-    "编程/虚拟机/images/08_agent_windows_报错.png",
-    "编程/虚拟机/images/07_远程连接_成功.png",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]
