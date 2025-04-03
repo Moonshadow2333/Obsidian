@@ -34,9 +34,64 @@ dv.paragraph(result)
 
 用于实现元素从一个 CSS 样式配置转换到另外一个 CSS 样式配置
 
-# 
+# 两步实现动画
 
-#  animation-fill-mode
+实现 CSS 动画需要两个步骤：
+
+1. 第一步——描述规则：描述动画的样式规则
+2. 第二步——指定关键帧：指定动画开始、结束以及中间样式的关键帧
+
+例子：
+
+```css
+div {
+	// 第一步，描述动画的规则
+    animation: change 3s;
+}
+
+// 第二步，指定关键帧
+@keyframes change {
+    0% {
+        color: #f00;
+    }
+    100% {
+        color: #000;
+    }
+}
+```
+
+# CSS 动画语法
+
+> 创建动画序列，需要使用 animation 属性或其子属性，该属性允许配置动画时间、时长以及其他动画细节，但该属性不能配置动画的实际表现，动画的实际表现是由 @keyframes 规则实现。
+
+```css
+.ele {
+	animation: animation-name animation-duration;
+}
+
+@keyframes animation-name{
+	设定动画关键帧...
+}
+```
+
+animation 子属性：
+
+| 序号 | 子属性                    | 功能                                                                |
+| ---- | ------------------------- | ------------------------------------------------------------------- |
+| 1    | animation-name            | 指定由 @keyframes 描述的关键帧名称                                  |
+| 2    | animation-duration        | 设置动画一个周期的时长                                              |
+| 3    | animation-delay           | 设置延时，即从元素加载完成之后到动画序列开始执行的这段时间          |
+| 4    | animation-direction       | 设置动画在每次运行完后是反向运行还是重新回到开始位置重复运行        |
+| 5    | animation-iteration-count | 设置动画重复次数， 可以指定 infinite 无限次重复动画                 |
+| 6    | animation-play-state      | 允许暂停和恢复动画                                                  |
+| 7    | animation-timing-function | 设置动画速度， 即通过建立加速度曲线，设置动画在关键帧之间是如何变化 |
+| 8    | animation-fill-mode       | 指定动画执行前后如何为目标元素应用样式                              |
+| 9    | @keyframes 规则           | 在内部设定动画关键帧                                                | 
+
+必须项：animation-name、animation-duration 和 @keyframes规则
+非必须项：animation-delay、animation-direction、animation-iteration-count、animation-play-state、animation-timing-function、animation-fill-mode，当然不是说它们不重要，只是不设置时，它们都有默认值
+
+##  animation-fill-mode
 
 CSS 动画是网页设计中常用的一种元素交互效果，但有时候我们希望动画结束后元素能够保持在最后的位置而不是返回到原始位置。下面将介绍几种方法来实现这一点。
 

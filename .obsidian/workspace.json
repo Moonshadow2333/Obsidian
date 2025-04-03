@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/前端/CSS/07CSS动画.md",
-                "mode": "source",
+                "file": "编程/后端/Python/Flask/00目录结构.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "07CSS动画"
+              "title": "00目录结构"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "参考资料",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -181,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/前端/CSS/07CSS动画.md",
+                "file": "编程/后端/Python/Flask/00目录结构.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "07CSS动画 的大纲"
+              "title": "00目录结构 的大纲"
             }
           },
           {
@@ -236,15 +236,23 @@
   },
   "active": "6453c5854fb56888",
   "lastOpenFiles": [
+    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
+    "编程/前端/JavaScript/Vue/Axio/00入门.md",
+    "Inbox/NodeJs 命令.md",
+    "编程/前端/JavaScript/Vue/Axio",
+    "编程/前端/JavaScript/Vue/13响应式的本质.md",
+    "编程/前端/CSS/08表单与数据表.md",
+    "编程/前端/CSS/05选择器.md",
+    "编程/前端/CSS/06文本.md",
+    "编程/前端/JavaScript/Vue/Vue Router/01划分页面.md",
+    "编程/前端/JavaScript/Vue/Vue Router/12Vue Router.md",
+    "编程/前端/CSS/04布局.md",
+    "编程/前端/CSS/07CSS动画.md",
     "banner_1.png",
     "Inbox/快捷键.md",
-    "编程/前端/CSS/07CSS动画.md",
-    "编程/前端/CSS/06文本.md",
     "编程/前端/images/line-height.png",
     "编程/前端/images",
     "编程/前端/CSS/f70f2b9b8639e14edf2adf0957f2f642.png.crdownload",
-    "编程/前端/CSS/04布局.md",
-    "编程/前端/CSS/05选择器.md",
     "Office/PPT/00技巧.md",
     "编程/前端/CSS/02视觉化格式模型.md",
     "编程/前端/CSS/03背景图片.md",
@@ -256,19 +264,13 @@
     "编程/前端/JavaScript/Vue/Vue 入门.md",
     "编程/前端/CSS",
     "编程/前端/vite.md",
-    "编程/前端/JavaScript/Vue/Vue Router/12Vue Router.md",
     "编程/前端/JavaScript/Vue/Vue Router",
-    "Inbox/NodeJs 命令.md",
     "编程/前端/JavaScript/Vue/例子.md",
     "编程/前端/JavaScript/Vue/images",
     "编程/前端/JavaScript/Vue/images/教训.png",
     "编程/前端/JavaScript/Vue/14插槽的本质.md",
     "编程/前端/JavaScript/Vue/00前言.md",
     "Inbox/批处理.md",
-    "Inbox/未命名.md",
-    "编程/前端/JavaScript/Vue/11组件.md",
-    "模板/基础模板.md",
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
     "编程/后端/Python/Flask",
     "编程/后端/Python/基础",
     "Pasted image 20250109212134.png",
@@ -277,11 +279,9 @@
     "编程/后端/PHP/images/npm_err.png",
     "编程/后端/PHP/images/npm_operation_err.png",
     "编程/网络/images/00_网络_IP.png",
-    "编程/网络/images",
     "Office/PPT/images/00_蒙版.png",
     "编程/虚拟机/images/11_linux_agent_permission.png",
     "编程/虚拟机/images/10_linux_agent_permission.png",
-    "编程/虚拟机/images/09_agent_countfiles.png",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]

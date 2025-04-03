@@ -97,6 +97,12 @@ prefix = "D:\\00Apps\\09Node\\NodeJs\\node_global"
 新 D:\00Apps\09Node\NodeJs\node_global
 ```
 
+# 查看已经安装过的包
+
+```cmd
+npm ls --depth 0
+```
+
 # 文档
 
 [卸载包和依赖 - npm 中文文档](https://nodejs.cn/npm/packages-and-modules/getting-packages-from-the-registry/uninstalling-packages-and-dependencies/)
