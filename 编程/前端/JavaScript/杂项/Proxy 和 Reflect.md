@@ -756,3 +756,7 @@ user.name = "John";
 ## 参考
 
 [Proxy 和 Reflect (javascript.info)](https://zh.javascript.info/proxy#shi-yong-set-bu-zhuo-qi-jin-hang-yan-zheng)
+
+# 20250414
+
+Proxy 拦截和重新定义对象的[[Proxy 和 Reflect#捕捉器类型|基本方法]]

@@ -27,16 +27,98 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程/后端/Python/Flask/00目录结构.md",
+                "file": "Inbox/递归.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "递归"
+            }
+          },
+          {
+            "id": "ff237676ebe94385",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/设计模式/00责任链模式.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "00目录结构"
+              "title": "00责任链模式"
+            }
+          },
+          {
+            "id": "0965cdca86ea9109",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/前端/JavaScript/基础知识/Async await.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Async await"
+            }
+          },
+          {
+            "id": "bee83e333c969856",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/关系模式的规范化.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "关系模式的规范化"
+            }
+          },
+          {
+            "id": "c627b27f2134f97d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/数据库/MySQL/数据库系统教程/代码实现.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "代码实现"
+            }
+          },
+          {
+            "id": "7eb5f4c3b5185f44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/数据库/MySQL/数据库系统教程/异常.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "异常"
+            }
+          },
+          {
+            "id": "ad653e431992bf1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "编程/前端/JavaScript/Vue/15组合式 API.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "15组合式 API"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -181,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程/后端/Python/Flask/00目录结构.md",
-                "followCursor": false,
+                "file": "编程/数据库/MySQL/数据库系统教程/03保持无损连接性的BCNF分解算法.md",
+                "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "00目录结构 的大纲"
+              "title": "03保持无损连接性的BCNF分解算法 的大纲"
             }
           },
           {
@@ -211,7 +293,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -234,54 +316,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6453c5854fb56888",
+  "active": "c627b27f2134f97d",
   "lastOpenFiles": [
-    "Inbox/vue3-pinia-and-laravel-9-blog-app.md",
-    "编程/前端/JavaScript/Vue/Axio/00入门.md",
-    "Inbox/NodeJs 命令.md",
+    "编程/数据库/MySQL/数据库系统教程/01判断分解是否保持函数依赖.md",
+    "编程/数据库/MySQL/数据库系统教程/代码实现.md",
+    "编程/数据库/MySQL/数据库系统教程/异常.md",
+    "编程/前端/JavaScript/Vue/15组合式 API.md",
+    "Excalidraw/关系模式的规范化.md",
+    "编程/数据库/MySQL/数据库系统教程/候选键计算.md",
+    "编程/数据库/MySQL/数据库系统教程/02保持无损连接和函数依赖的3NF合成算法.md",
+    "编程/数据库/MySQL/数据库系统教程/03保持无损连接性的BCNF分解算法.md",
+    "编程/数据库/MySQL/数据库系统教程/00无损连接判断.md",
+    "编程/数据库/MySQL/数据库系统教程/极小函数依赖.md",
+    "编程/数据库/MySQL/数据库系统教程/属性闭包计算.md",
+    "编程/数据库/MySQL/数据库系统教程/查询优化.md",
+    "Private/控制自己的欲望.md",
+    "面试经验/面经.md",
+    "基础学科/英语/新概念/第二册/Lesson45.md",
+    "编程/数据库/Postgresql.md",
+    "基础学科/英语/新概念/第二册/Lesson35.md",
+    "基础学科/英语/新概念/第二册/引导时间状语的介词.md",
+    "基础学科/英语/新概念/基本原理.md",
+    "Excalidraw/Drawing 2025-08-05 21.49.51.excalidraw.md",
+    "编程/数据库/MySQL/数据库系统教程/BCNF.md",
+    "编程/数据库/MySQL/数据库系统教程/传递函数依赖.md",
+    "编程/数据库/MySQL/数据库系统教程/连接依赖.md",
+    "编程/数据库/MySQL/images/无损连接判断例子.png",
+    "Pasted image 20250803145519.png",
+    "Pasted image 20250803145500.png",
+    "编程/数据库/MySQL/MySQL 学习阅读路径.md",
+    "编程/数据库/MySQL/images/无损连接判断.png",
+    "编程/数据库/MySQL/数据库系统教程/多值依赖.md",
+    "编程/数据库/MySQL/数据库系统教程/自反律.md",
+    "Excalidraw/English",
+    "编程/后端/Python/Requests",
+    "编程/后端/PHP/images/npm_err.png",
+    "Office/PPT/阶段二",
+    "编程/设计模式",
+    "编程/后端/未命名",
+    "编程/前端/JavaScript/Vue/ElementPlus",
     "编程/前端/JavaScript/Vue/Axio",
-    "编程/前端/JavaScript/Vue/13响应式的本质.md",
-    "编程/前端/CSS/08表单与数据表.md",
-    "编程/前端/CSS/05选择器.md",
-    "编程/前端/CSS/06文本.md",
-    "编程/前端/JavaScript/Vue/Vue Router/01划分页面.md",
-    "编程/前端/JavaScript/Vue/Vue Router/12Vue Router.md",
-    "编程/前端/CSS/04布局.md",
-    "编程/前端/CSS/07CSS动画.md",
     "banner_1.png",
-    "Inbox/快捷键.md",
     "编程/前端/images/line-height.png",
     "编程/前端/images",
     "编程/前端/CSS/f70f2b9b8639e14edf2adf0957f2f642.png.crdownload",
-    "Office/PPT/00技巧.md",
-    "编程/前端/CSS/02视觉化格式模型.md",
-    "编程/前端/CSS/03背景图片.md",
-    "编程/前端/CSS/04.md",
-    "Inbox/工具箱.md",
-    "编程/前端/CSS/01CSS属性值的计算过程.md",
-    "Excalidraw/CSS 属性计算过程简介.md",
-    "编程/前端/CSS/00小兔鲜.md",
-    "编程/前端/JavaScript/Vue/Vue 入门.md",
     "编程/前端/CSS",
-    "编程/前端/vite.md",
-    "编程/前端/JavaScript/Vue/Vue Router",
-    "编程/前端/JavaScript/Vue/例子.md",
-    "编程/前端/JavaScript/Vue/images",
     "编程/前端/JavaScript/Vue/images/教训.png",
-    "编程/前端/JavaScript/Vue/14插槽的本质.md",
-    "编程/前端/JavaScript/Vue/00前言.md",
-    "Inbox/批处理.md",
-    "编程/后端/Python/Flask",
-    "编程/后端/Python/基础",
     "Pasted image 20250109212134.png",
-    "编程/后端/Python/Simulation/20241229",
-    "编程/后端/PHP/包管理工具",
-    "编程/后端/PHP/images/npm_err.png",
     "编程/后端/PHP/images/npm_operation_err.png",
-    "编程/网络/images/00_网络_IP.png",
-    "Office/PPT/images/00_蒙版.png",
-    "编程/虚拟机/images/11_linux_agent_permission.png",
-    "编程/虚拟机/images/10_linux_agent_permission.png",
     "未命名.canvas",
     "编程/未命名.canvas"
   ]

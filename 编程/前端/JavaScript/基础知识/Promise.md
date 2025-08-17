@@ -243,6 +243,46 @@ Promise.race([
 })
 ```
 
+# 使用Promise实现一个异步计数器
+
+总结这段文字：
+这段文字简要介绍了如何使用Promise实现一个异步计数器。核心思路是通过闭包保存计数器状态，每次调用返回一个Promise对象，在Promise内部用setTimeout模拟异步操作，通过resolve触发计数更新。这种实现方式允许链式调用.then()来顺序执行异步计数操作，每个计数间隔由setTimeout的延迟参数控制。
+
+实现异步计数器的步骤：
+1. 创建工厂函数，用闭包保存计数值
+2. 每次调用返回新的Promise对象
+3. 在Promise内部使用setTimeout实现异步
+4. 当setTimeout回调执行时resolve当前计数值
+5. 通过.then()链式调用实现顺序执行
+
+示例实现：
+```javascript
+const createAsyncCounter = () => {
+  let count = 0;
+  return () => {
+    return new Promise((resolve) => {
+      setTimeout(() => {
+        count++;
+        resolve(count);
+      }, 1000);
+    });
+  };
+};
+
+// 使用示例
+const counter = createAsyncCounter();
+
+counter()
+  .then(num => console.log(num))  // 1 (1秒后)
+  .then(() => counter())
+  .then(num => console.log(num))  // 2 (再1秒后)
+  .then(() => counter())
+  .then(num => console.log(num)); // 3 (再1秒后)
+```
+
+这种实现方式通过Promise链保证了异步计数的顺序执行，每个计数操作都会等待前一个完成后再执行，间隔时间由setTimeout参数控制（示例中为1秒）。
+
+
 # 参考资料
 
 > [!note]
